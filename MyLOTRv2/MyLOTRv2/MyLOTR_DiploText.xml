@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--First AI line-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>I am Aragorn, Son of Arathorn and Heir of Isildur, who are you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Great to meet you, I am Théoden, son of Thengel, King of Rohan</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Elrond, the Lord of Rivendell greets you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Welcome, I am Thranduil, son of Oropher, King of Mirkwood</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Galadriel, the Lady of Light greets you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Good morning. How are we all? I am Dáin II. Ironfoot, Lord of the Iron Hills.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Who stands before the Dark Lord Sauron?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>You stand before Saruman the White, Chief of the Istari and the White Council.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Who stands before Gorkil the Goblin King?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Who stands before Suladân, the Black Serpent?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Who stands before Angamaitë, heir to Castamir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Who stands before Khamûl, the Black Easterling?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KIONID_ANY" Language="en_US">
+			<Text>Who stands before Kîonid?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Who stands before The Witch King of Angmar?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Who stands before the King of all the Dúnedain, High King of Gondor and Arnor?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Azog, the Chieftain of Moria greets you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>I am Cirdan the Shipwright, and I welcome you to the realm. I do so look forward to learning all there is to know about you.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Come with me and visit our Capital, you will be able to see the white city in all its glory</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Would you like to visit the Golden Hall of Meduseld?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We'd love to welcome you in Rivendell, stranger.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Let me show you the beauty of Mirkwood, come visit our Capital</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We'd love to welcome you in Lórien, stranger.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We would be glad to welcome you in our homes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Come to Mordor and witness its power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Let's have a meeting at Orthanc, we have matters to discuss.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>It is our distinct privilege to extend to you an invitation to visit the realm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>I am honored to offer you the hospitality of our cities: the finest arts, the most delectable feasts, and the melodious songs. Would you care to visit?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Gorkil king of Goblin-Town greets you and invites you to come with him.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Suladan the black Serpent greets you and invites you to come with him.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Khamul the Black Easterling greets you and invites you to come with him.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Witch King of Angmar greets you and invites you to come with him.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Azog Chieftain of Moria greets you and invites you to come with him.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>It is acceptable.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SULADAN_ANY"  Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ANGAMAITE_ANY"  Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KHAMUL_ANY"  Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WITCH_KING_ANY"  Language="en_US">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Yes. You have my gratitude.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>On behalf of the people, yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAURON_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZOG_ANY" Language="en_US">
+			<Text>We should exchange information on our capitals, it will surely benefit our relations.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Speak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Speak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Speak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Speak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Speak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We receive you with pleasure.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Greetings.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Your delegation was thankfully received, we will treat them like our own people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Thanks, your delegation was received.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Thanks, your delegation was received.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>We appreciate your generous gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We have received your kind gifts and are thankful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Thanks, we appreciate your gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Your tribute to the Dark Lord has been accepted.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Your gifts will be stored in Isengard. I am thankful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Your trade delegation arrived, and I am always happy to receive visitors from abroad, especially when they bring gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>A thousand thanks for your gifts. Your delegation will be treated with the utmost regard.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We have received your trade delegation and you may rest assured that we will treat them with the dignity they deserve. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Your tribute to the Shadow of the East has been accepted.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Your tribute to the Lord of the Nazgûl has been accepted.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Thanks, we appreciate your gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We appreciate your generous gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>We received your gifts, thanks.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>We will not accept any delegations from you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Your presents are not appreciated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ELROND_ANY" Language="en_US">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>No, we won't accept your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Your delegates won't enter the Golden Wood.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>No, we don't want your gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>No amount of gifts will save you</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>We will not accept any delegations from you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORKIL_ANY"  Language="en_US">
+			<Text>We reject your offer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>I will not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>I will not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>I will not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>I will not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Keep your meaningless gifts to yourself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ELENDIL_ANY"  Language="en_US">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Maybe some other time?</Text>
+		</Row>
+		<!--AI Requests-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>We sent a delegation bringing many gifts, we hope you treat them well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>We send a delegation bringing one of our finest horses.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Our delegates are on their way bringing the finest wines from Mirkwood</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We sent a delegation bringing delicious Lembras bread, please treat them kindly.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We sent a delegation your way, will you accept them?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>The Dark Lord sends you his regards.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I have send on of my most trusted Diplomats to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>A tribute from us is on its way to you.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Agreed. The lands of Gondor are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>You may enter our lands, but be careful the forest is dangerous.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>You may pass through Lórien now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Alright, we will let you pass.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>I accept, you will be able to walk through Mordor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>You may pass through Isengard unharmed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Our lands are open to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>I will order my orcs to let you pass.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>I can't accept. Gondor's borders remain closed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Our borders remain closed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Our borders remain closed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>No stranger will be tolerated in our lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>I have to protect my land, and letting you in is too dangerous.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>No, we won't just let you wander around in our lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>No Way, the Black Gate won't open for you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>No, this won't happen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Your kind is not welcomed in our lands, no.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Opening our borders will be an important step in furthering our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Opening our borders will be helpful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Opening our borders will be an important step in furthering our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Opening our borders should be beneficial.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Let us share our lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Opening our borders will be an important step in furthering our relations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Opening our borders will be helpful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We should consider opening our borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Opening our borders will be an important step in furthering our relations.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Let the world know you are now considered a friend to Gondor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Yes, lets form a lasting bond between our people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Yes, lets form a lasting bond between our people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Yes, the Elves of the Woodland Realm will consider you a friend from now on.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>May our friendship last many ages.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We are glad to be considered your friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Yes, a friendship will be beneficial to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Yes, let us be considered friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Yes, let us be considered friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>May our friendship last many ages.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>May our enemies fear this friendship.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>You are no friend to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>The Eorlingas don't need a friend like you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>You are no friend to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Friendship? You must be joking.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We are no friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>That is not happening.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I won't agree to a friendship with you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Pah! No way.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>I won't agree to a friendship with you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>That is not happening.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>You are no friend to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>I won't agree to a friendship with you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Pah! No way.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Let's declare our friendship and rebuild this world together.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Your friendship would be very valuable to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Let's declare our friendship and rebuild this world together.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>This could be the beginning of a long lasting friendship, if you accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>A declaration of friendship should be beneficial to both of us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Accept my friendship and you will be rewarded.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I consider you a friend, let's make it official.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Accept my friendship and you will be rewarded.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Your friendship would be of great value to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>We put great value in your friendship, do you agree?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>A declaration of friendship should be beneficial to both of us.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>You will be a valuable friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Thank you.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>That's unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>A foolish decision.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>That's unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>A mistake, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>You will regret your mistake soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Perhaps you are blinded by conceit. No matter. We will look elsewhere.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<!--OPTIONAL-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>If you choose to accept an alliance, you'll have my sword.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>We should form an alliance to help each other in times of need.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We should form an alliance to help each other in times of need.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Do you wish to be an ally of the Woodland Realm?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Let us ally against the evil of this world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Can we count on you joining us in an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>We should form an alliance, our enemies will fear us both.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>We must join forces, it would be wise.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>We should form an alliance, our enemies will fear us both.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Shall our enemies crumble in fear before us!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Can we count on you joining us in an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>We should form an alliance, our enemies will fear us both.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>We should form an alliance, our enemies will fear us both.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Shall our enemies crumble in fear before us!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Let us ally against the evil of this world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Let us ally against the evil of this world.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<!--MUST FILL-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>I am glad that you are very much like me and not very much like my enemies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Return soon</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We hope you will return soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Great talking to you</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We hope you will return soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We always appreciate meeting you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAURON_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>We hope you'll return soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KIONID_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AZOG_ANY" Language="en_US">
+			<Text>We will meet again.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>I was hoping you would have left sooner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Your presence has dishonored this halls for too long</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Good, leave as soon as possible.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Leave this halls, now!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Good, leave as soon as possible.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>You should go now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Finally you are leaving...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KIONID_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Leave!</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>Your troops are threatening my people, I cant let this be.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Do you really think we didn't notice your army at our doorstep?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ELROND_ANY" Language="en_US">
+			<Text>Your army is threatening our lands, remove them or at least have the honesty to declare war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>If you think we are not noticing the threat your army poses, you are mistaken.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>If you are seeking peace, your army better leave my borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Your army is threatening our lands, remove them or at least have the honesty to declare war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Your army stands on our border, remove it or it will be destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>We see your army, remove it or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>We see your army, remove it or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>We see your army, remove it or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We see your army, remove it or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZOG_ANY" Language="en_US">
+			<Text>If any of your people poke their foul beards in here again, they won't survive it. Remove your troops.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>We see your army, remove it or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>If you think we are not noticing the threat your army poses, you are mistaken.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>If you are seeking peace, your army better leave my borders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>If you are seeking peace, your army better leave my borders.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ARAGORN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THEODEN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ELROND_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THRANDUIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GALADRIEL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_DAIN_II_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAURON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SARUMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORKIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SULADAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANGAMAITE_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KHAMUL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WITCH_KING_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ELENDIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CIRDAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZOG_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ARAGORN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THEODEN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ELROND_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THRANDUIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>That's unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_DAIN_II_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAURON_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SARUMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORKIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SULADAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANGAMAITE_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KHAMUL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WITCH_KING_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ELENDIL_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CIRDAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZOG_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>If that is so, you will be known as an enemy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>It's a shame you think that way.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>If that is so, you will be known as an enemy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>What a pitiful threat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>You made a terrible mistake.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Empty words mean nothing to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Your words mean nothing to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Your empty threats are getting annoying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Your empty threats are getting annoying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Your empty threats are getting annoying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Your empty threats are getting annoying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Your empty threats are getting annoying.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>You will regret your words soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>You will regret your words soon.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>You made a terrible mistake.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>It's a shame you think that way.</Text>
+		</Row>
+		<!--From AI-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>You are an enemy to Gondor and its people! (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>You are an enemy to the Eorlingas (Denounces you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>You are part of the darkness that threatens this world (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>You are truly evil (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>You are part of the darkness that threatens this world (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Imrid amrâd ursul("Die a fiery death")! (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>You are doomed, no one can stand against me (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>You are a disappointment (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>You are truly evil (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>You are truly evil (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>I do not like you, maybe removing your head will solve that (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>If you must resort to war, so be it. We are prepared</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>Crops can be resown. Homes rebuilt. Within these walls, we will outlast you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>You think you pose a threat to us? You will fail</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>You think you pose a threat to us? You will fail</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Our lands are protected by Nenya, your plans will fail.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>The Hordes of Hell are upon us! To battle! To battle, sons of Durin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>What a foolish move, the hordes of Mordor will take care of you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>If war is what you want, you will get it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>If you must resort to war, so be it. We are prepared</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>You think you pose a threat to us? You will fail</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Finally! I was waiting for an opportunity to crush you.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>As King Elessar of the Reunited Kingdom i hereby declare War.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>The time for war has come. Forth Eorlingas!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We will purge the earth from you evil deeds.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>You are a dangerous Evil, we will take care of you</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We will purge the earth from you evil deeds.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Time for us to get rid of you. Baruk Khazâd! Khazâd ai-mênu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I gave you the chance of aiding me willingly, but you have elected the way of pain!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Your army will fall, your land will be conquered, your people will die.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We will purge the earth from you evil deeds.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>I will kill you! I will end your people! I am the master!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We will purge the earth from you evil deeds.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>We shall have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ELROND_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Yes, let us have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>We agree, let there be peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I accept your terms.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Agreed.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>We wont surrender.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>This is not over, we will outlast you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ELROND_ANY" Language="en_US">
+			<Text>No, not like this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>No, not like this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>No, this conflict is not done.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Durin's Folk will not yield that easily</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>Your cry for peace will be ignored.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>Peace is for the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AZOG_ANY" Language="en_US">
+			<Text>I am not done with you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>We won't surrender.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We won't surrender.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>The time has come for peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>We shall have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>We shall have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>Let us end this conflict for the benefit of both our people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>Endless war is no solution, let's end this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>We should settle this dispute now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>This war has to end for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>This conflict won't lead to anything, let's end it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>This war has to end for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>This conflict won't lead to anything, let's end it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>We should settle this dispute now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>This war has to end for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>This war has to end for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>Let us end this conflict for the benefit of both our people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>We shall have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>We both know you lost, admit it and we can be done here.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>I have failed Elendil and mankind.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>So much death. What can men do against such reckless hate?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>All that Darkness... we stand defeated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ELROND_ANY" Language="en_US">
+			<Text>All that Darkness... we stand defeated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>And Darkness prevails,... we have failed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>Darkness falls at last ...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAURON_ANY" Language="en_US">
+			<Text>Ash nazg durbatulûk, ash nazg gimbatul, ash nazg thrakatulûk agh burzum-ishi krimpatul. This will not be the end.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>I have failed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>Seems like I found someone stronger than myself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>Seems like I found someone stronger than myself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>I have failed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>I have failed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>I have failed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>All that Darkness... we stand defeated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>All that Darkness... we stand defeated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZOG_ANY" Language="en_US">
+			<Text>Seems like I found someone stronger than myself.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<!-- OPTIONAL-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ARAGORN_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_THEODEN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THEODEN_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ELROND_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ELROND_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THRANDUIL_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GALADRIEL_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_DAIN_II_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAURON_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAURON_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SARUMAN_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GORKIL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORKIL_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SULADAN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SULADAN_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ANGAMAITE_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ANGAMAITE_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_KHAMUL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KHAMUL_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WITCH_KING_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WITCH_KING_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_ELENDIL_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ELENDIL_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CIRDAN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CIRDAN_ANY]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_AZOG_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZOG_ANY]</Text>
+		</Row>
+		<!-- Agenda -->
+		<!-- Kudo-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ARAGORN_REASON_ANY" Language="en_US">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_THEODEN_REASON_ANY" Language="en_US">
+			<Text>(You are one of my friends)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ELROND_REASON_ANY" Language="en_US">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GALADRIEL_REASON_ANY" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that. (You are keeping the peace and respecting the environment)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_THRANDUIL_REASON_ANY" Language="en_US">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that. (You are respecting the environment)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_DAIN_II_REASON_ANY" Language="en_US">
+			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SAURON_REASON_ANY" Language="en_US">
+			<Text>I love a leader who is surrounded by an impressive military and the productivity of your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SARUMAN_REASON_ANY" Language="en_US">
+			<Text>I extend my heartiest congratulations on the productivity of your people. The world is ours for the taking! And take it, you have.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GORKIL_REASON_ANY" Language="en_US">
+			<Text>I extend my heartiest congratulations on the productivity of your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_KHAMUL_REASON_ANY" Language="en_US">
+			<Text>I love a leader who is surrounded by an impressive military.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SULADAN_REASON_ANY" Language="en_US">
+			<Text>(You have no Luxuries he wants)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANGAMAITE_REASON_ANY" Language="en_US">
+			<Text>(You have declared a surprise war)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_KIONID_REASON_ANY" Language="en_US">
+			<Text>(You have fought honorably and not capitulated in a peace deal)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_WITCH_KING_REASON_ANY" Language="en_US">
+			<Text>(You share his Religion)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ELENDIL_REASON_ANY" Language="en_US">
+			<Text>(You are one of my friends)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CIRDAN_REASON_ANY" Language="en_US">
+			<Text>(You have kept the peace)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AZOG_REASON_ANY" Language="en_US">
+			<Text>(You have respect the barbarians)</Text>
+		</Row>
+		<!-- Warning-->
+		<!-- MUST FILL-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ARAGORN_REASON_ANY" Language="en_US">
+			<Text>(You have attacked someone on his home continent or you have backstabbed a friend or declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_THEODEN_REASON_ANY" Language="en_US">
+			<Text>(You have denounced one of my friends.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ELROND_REASON_ANY" Language="en_US">
+			<Text>(You have attacked someone on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GALADRIEL_REASON_ANY" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well. (You are warmongering or don't respect the environment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_THRANDUIL_REASON_ANY" Language="en_US">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well. (You don't respect the environment.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DAIN_II_REASON_ANY" Language="en_US">
+			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SAURON_REASON_ANY" Language="en_US">
+			<Text>You have so few troops. Your people are lazy and unworthy. If you can produce nothing, your civilization will soon be forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SARUMAN_REASON_ANY" Language="en_US">
+			<Text>Bountiful lands surround you! How can you ignore them? Your people are lazy and unworthy. If you can produce nothing, your civilization will soon be forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GORKIL_REASON_ANY" Language="en_US">
+			<Text>Your people are lazy and unworthy. If you can produce nothing, your civilization will soon be forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_KHAMUL_REASON_ANY" Language="en_US">
+			<Text>You have so few troops.  Aren't you scared for your life?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SULADAN_REASON_ANY" Language="en_US">
+			<Text>(You have a Luxury he wants.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANGAMAITE_REASON_ANY" Language="en_US">
+			<Text>(You don't have declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_KIONID_REASON_ANY" Language="en_US">
+			<Text>(You have never gone to war or have capitulated in a peace deal.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_WITCH_KING_REASON_ANY" Language="en_US">
+			<Text>(You are spreading your religion into his cities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ELENDIL_REASON_ANY" Language="en_US">
+			<Text>(You have denounced one of my friends.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CIRDAN_REASON_ANY" Language="en_US">
+			<Text>(You have become a warmonger.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AZOG_REASON_ANY" Language="en_US">
+			<Text>(You have destory barbarian outposts.)</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

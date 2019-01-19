@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="MYLOTR_FELLOWSHIP_OF_THE_RING" Kind="KIND_POLICY"/>
+	</Types>
+	<Policies>
+		<Row PolicyType="MYLOTR_FELLOWSHIP_OF_THE_RING" Name="LOC_POLICY_FELLOWSHIP_OF_THE_RING_NAME" Description="LOC_POLICY_FELLOWSHIP_OF_THE_RING_DESCRIPTION" PrereqCivic="CIVIC_CODE_OF_LAWS" GovernmentSlotType="SLOT_DIPLOMATIC"/>
+	</Policies>
+
+	<PolicyModifiers>
+		<Row>
+			<PolicyType>MYLOTR_FELLOWSHIP_OF_THE_RING</PolicyType>
+			<ModifierId>GUNBOATDIPLOMACY_OPENBORDERS</ModifierId> <!-- Implemented in Vanilla-->
+		</Row>
+	</PolicyModifiers>
+</GameData>

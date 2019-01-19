@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--First AI line-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Soy Aragorn, hijo de Arathorn y heredero de Isildur, ¿quién eres tu?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>Encantado de conocerte, soy Théoden, hijo de Thengel, Rey de Rohan</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Elrond, señor de Rivendell te da la bienvenida.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Bienvenido, soy Tranduil, hijo de Oropher, Rey del Bosque Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Galadriel, Señora de la Luz te da la bienvenida.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Buenos dias. Soy Dáin II. Ironfoot, Señor de las Colinas de Hierro.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>¿Quién se presenta ante el Señor Oscuro?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Saruman el Blanco?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORKIL_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Gorkil el Rey Goblin?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_SULADAN_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Suladân, la Serpiente Negra?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_ANGAMAITE_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Angamaitë, heredero de Castamir?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_KHAMUL_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Khamûl, heredero del Oriental Oscuro?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_KIONID_ANY" Language="es_ES">
+			<Text>¿Quién esta ante Kîonid?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_WITCH_KING_ANY" Language="es_ES">
+			<Text>¿Quién esta ante el Rey Brujo de Angmar?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELENDIL_ANY" Language="es_ES">
+			<Text>¿Quién esta ante el Rey de Todos los Dúnedain, Rey Supremo de Gondor y Arnor?</Text>
+		</Replace>
+		<!--AI invitation to visit nearby City-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Ven conmigo y visita nuestra capital, podrás ver la Ciudad Blanca en todo su esplendor</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>¿Te gustaria visitar el Salon Dorado de Meduseld?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Te daremos la bienvenida en Rivendell.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Dejama enseñarte la belleza del Bosque Negro, ven a visitar nuestra capital</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Te daremos la bienvenida en Lórien.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Te daremos la bienvenida en nuestra casa.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>Visita Mordor y contempla todo su poder.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>Vamos a encontrarnos en Orthanc, tenemos asuntos que discutir.</Text>
+		</Replace>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>Tu tributo al Señor Oscuro ha sido acceptado.</Text>
+		</Replace>
+		<!--AI Rejects-->
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Tus delegados no entrarán en el Bosque Dorado.</Text>
+		</Replace>
+		<!--AI Requests-->
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Nuestros delegados estan en camino trayendo nuestros mejores vinos</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Hemos enviado nuestra delegacion trayendo deliciosas Lembras, tratadlos gentimente por favor.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>El Señor Oscuro os envia saludos.</Text>
+		</Replace>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<!-- Must fill ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Estoy conternto que seais como nosotros y no como nuestros enemigos</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>Vuelve pronto</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Esperamos que volvais.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Encantado de hablar contigo</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>We hope you will return soon.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Esperamos que volvais.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>Esperamos que volvais pronto.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORKIL_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KHAMUL_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULADAN_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ANGAMAITE_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KIONID_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WITCH_KING_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELENDIL_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CIRDAN_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AZOG_ANY" Language="es_ES">
+			<Text>No encontraremos de nuevo.</Text>
+		</Replace>
+		<!--AI Warnings-->
+		<!-- Must fill ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Esperava que te hubieras ido ya.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>Tu presencia es una deshonra para estos salones</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Bien, vete lo antes posible</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Deja estos salones, ¡ahora!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Bien, vete lo antes posible</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Deja estos salones, ¡ahora!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>Por fin te vas...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GORKIL_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KHAMUL_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULADAN_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ANGAMAITE_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KIONID_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WITCH_KING_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELENDIL_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CIRDAN_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZOG_ANY" Language="es_ES">
+			<Text>¡Vete!</Text>
+		</Replace>
+		<!--From AI-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Eres un enemigo de Gondor y su gente! (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>Eres un enemigo de los Eorlingas (Te Denuncia)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Eres parte de la oscuridad que amenaza este mundo (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Eres verdaderamente maligno (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Eres parte de la oscuridad que amenaza este mundo (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Imrid amrâd ursul("Que tengas una muerte dolorosa")! (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>Estas condenado, nadie puede oponerse a mi (Te Denuncia).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>Eres una decepción (Te Denuncia).</Text>
+		</Replace>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Si quieres guerra la tendrás. Estamos preparados</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>Los campos pueden resembrarse. Cas reconstruirse. Dentro de estos muros sobrevieremos.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>¿Crees que opones una amenaza ante nosotros? Fallaras</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>¿Crees que opones una amenaza ante nosotros? Fallaras</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>¿Crees que opones una amenaza ante nosotros? Fallaras</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Las Hordas del Infiernos estan ante nosotros! A la batalla! ¡A la batalla, hijos de Durin!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>Que estupidez, las hordas de Mordor se encargaran de tí.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>Si es guerra lo que quieres, la tendras.</Text>
+		</Replace>
+		<!--AI Declares War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ARAGORN_ANY" Language="es_ES">
+			<Text>Como Rey Elessar del Reino Unificado, te declaro la Guerra.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THEODEN_ANY" Language="es_ES">
+			<Text>El tiempo para guerra a llegado. A la Guerra Eorlingas!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELROND_ANY" Language="es_ES">
+			<Text>Purgaremos la tierra de la maldad.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THRANDUIL_ANY" Language="es_ES">
+			<Text>Purgaremos la tierra de la maldad.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GALADRIEL_ANY" Language="es_ES">
+			<Text>Purgaremos la tierra de la maldad.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DAIN_II_ANY" Language="es_ES">
+			<Text>Hora de desacernos de vosotros. Baruk Khazâd! Khazâd ai-mênu!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAURON_ANY" Language="es_ES">
+			<Text>Tu ejercito caera, tus tierras serán conquistadas, tu gente morirá. La edad del Orco ha llegado.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SARUMAN_ANY" Language="es_ES">
+			<Text>La oportunidad de ayudarme a pasado, has elegido el camino del dolor</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CIRDAN_ANY" Language="es_ES">
+			<Text>Purgaremos la tierra de la maldad.</Text>
+		</Replace>
+		<!-- Agenda -->
+		<!-- Kudo-->
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ARAGORN_REASON_ANY" Language="es_ES">
+			<Text>(Has mantenido la paz en su continente de origen).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_THEODEN_REASON_ANY" Language="es_ES">
+			<Text>(Eres uno de mis amigos).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ELROND_REASON_ANY" Language="es_ES">
+			<Text>(Has mantenido la paz en su continente de origen).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GALADRIEL_REASON_ANY" Language="es_ES">
+			<Text>Solo tenemos una Tierra, y me alegro de no ser la única persona que la respeta. (Has mantenido la paz en su continente de origen y respetado la naturaleza)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_THRANDUIL_REASON_ANY" Language="es_ES">
+			<Text>Solo tenemos una Tierra, y me alegro de no ser la única persona que la respeta. (Estas respetando la naturaleza)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_DAIN_II_REASON_ANY" Language="es_ES">
+			<Text>Vuestras arcas se están llenando de lo lindo. Siempre está bien tener buenos ingresos, ¿no?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_SAURON_REASON_ANY" Language="es_ES">
+			<Text>Me encantan los líderes con un poder militar impresionante y una gente productiva</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_SARUMAN_REASON_ANY" Language="es_ES">
+			<Text>Os extiendo mis más sinceras felicitaciones por la productividad de vuestro pueblo. ¡El mundo es para que nos hagamos con él! Y eso has hecho.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GORKIL_REASON_ANY" Language="es_ES">
+			<Text>Os extiendo mis más sinceras felicitaciones por la productividad de vuestro pueblo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_KHAMUL_REASON_ANY" Language="es_ES">
+			<Text>Me encantan los líderes con un poder militar impresionante.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_SULADAN_REASON_ANY" Language="es_ES">
+			<Text>(No tienes recursos de lujos que deseen)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANGAMAITE_REASON_ANY" Language="es_ES">
+			<Text>(Has declarado una guerra por sorpresa)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_KIONID_REASON_ANY" Language="es_ES">
+			<Text>(Has luchado con honor y no capitulaste con un tratado de paz).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_WITCH_KING_REASON_ANY" Language="es_ES">
+			<Text>(Compartes su religión).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ELENDIL_REASON_ANY" Language="es_ES">
+			<Text>(Eres uno de mis amigos).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CIRDAN_REASON_ANY" Language="es_ES">
+			<Text>(Has mantenido la paz)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_AZOG_REASON_ANY" Language="es_ES">
+			<Text>(Has respetado los barbaros)</Text>
+		</Replace>
+		<!-- Warning-->
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ARAGORN_REASON_ANY" Language="es_ES">
+			<Text>(Has atacado a alguien de su continente de origen o has traicionado a un amigo o has declarado una guerra por sorpresa.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_THEODEN_REASON_ANY" Language="es_ES">
+			<Text>(Has denunciado a uno de mis amigos.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ELROND_REASON_ANY" Language="es_ES">
+			<Text>(Has atacado a alguien de su continente de origen)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_GALADRIEL_REASON_ANY" Language="es_ES">
+			<Text>Debo decirte que destruir la Tierra no solo te afecta a ti, también a tus vecinos. (Estás siendo belicista o no respetas la naturaleza.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_THRANDUIL_REASON_ANY" Language="es_ES">
+			<Text>Debo decirte que destruir la Tierra no solo te afecta a ti, también a tus vecinos. (No respetas la naturaleza.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_DAIN_II_REASON_ANY" Language="es_ES">
+			<Text>Vuestro imperio está abocado a la bancarrota. ¿Cómo podéis sobrevivir con este montón de deudas?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_SAURON_REASON_ANY" Language="es_ES">
+			<Text>Tenéis muy pocas tropas. Your people are lazy and unworthy. Vuestro pueblo es perezoso e indigno. Si no podéis producir algo, vuestra civilización pronto caerá en el olvido.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_SARUMAN_REASON_ANY" Language="es_ES">
+			<Text>¡Tierras fértiles te rodean! ¿Cómo puedes ignorarlas? Vuestro pueblo es perezoso e indigno. Si no podéis producir algo, vuestra civilización pronto caerá en el olvido.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_GORKIL_REASON_ANY" Language="es_ES">
+			<Text>Vuestro pueblo es perezoso e indigno. Si no podéis producir algo, vuestra civilización pronto caerá en el olvido.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_KHAMUL_REASON_ANY" Language="es_ES">
+			<Text>Tenéis muy pocas tropas. ¿No teméis por vuestra vida?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_SULADAN_REASON_ANY" Language="es_ES">
+			<Text>(Tienes un recurso de lujo que desea).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANGAMAITE_REASON_ANY" Language="es_ES">
+			<Text>(No has declarado una guerra por sorpresa)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_KIONID_REASON_ANY" Language="es_ES">
+			<Text>(Nunca has ido a la guerra o bien has capitulado en un tratado de paz).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_WITCH_KING_REASON_ANY" Language="es_ES">
+			<Text>(Estás propagando tu religión a sus ciudades).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ELENDIL_REASON_ANY" Language="es_ES">
+			<Text>(Has denunciado a uno de mis amigos.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_CIRDAN_REASON_ANY" Language="es_ES">
+			<Text>(Te has convertido en un belicista.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_AZOG_REASON_ANY" Language="es_ES">
+			<Text>(Has destruido campamentos barbaros.)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

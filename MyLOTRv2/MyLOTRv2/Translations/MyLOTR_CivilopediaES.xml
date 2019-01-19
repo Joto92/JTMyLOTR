@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_QUOTE"  Language="es_ES">
+			<Text>Soy Aragorn hijo de Arathorn y me llaman Elessar, Piedra de Elfo, Dúnadan, heredero del hijo de Isildur, hijo de Elendil de Gondor. ¡He aquí la Espada que estuvo rota una vez y fue forjada de nuevo!</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_QUOTE"  Language="es_ES">
+			<Text>¡De pie, de pie, Jinetes de Théoden! Un momento cruel se avecina: ¡fuego y matanza! Trepidarán las lanzas, volarán en añicos los escudos, ¡un día de la espada, un día rojo, antes que llegue el alba! ¡Galopad ahora, galopad! ¡A Gondor!</Text>
+		</Replace>
+		<!-- GONDOR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Replace Tag="LOC_CIVINFO_GONDOR_LOCATION" Language="es_ES">
+			<Text>Sur Tierra Media</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_GONDOR_SIZE" Language="es_ES">
+			<Text>1855,535km² (Reino Unificado: 2355,620km²) (Arnor: 643.7156km²)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_GONDOR_POPULATION" Language="es_ES">
+			<Text>1-2 Millones antes del Reino Unificado</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_GONDOR_CAPITAL" Language="es_ES">
+			<Text>Minas Tirith (desde T.A. 1640), antes Osgiliath (S.A. 3320 - T.A. 1640)</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GONDOR_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Gondor fue fundada por los hermanos Isildur y Anárion, exiliados de Númenor. Gondor fue un reino aliado de Arnor, los reyes del cual eran descendientes de Isildur mientras que los reyes de Gondor eran de Anárion. Gondor estuvo a la cumbre de su poder en sus primeros años debido al gran número de barcos y soldados que poseía. Aunque los continuos ataques de los aliados de Sauron, una guerra civil y una plaga devastadora causaron un gradual declino durante el curso de la Tercera Edad hasta la victoria final sobre Sauron y la coronación de Aragon II Elessar. Que con su liderazgo llevo a cumbre otra vez a la cumbre de su poder y que incluso fundo el Reino unificado con Arnor. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_TITLE" Language="es_ES">
+			<Text>Aragorn II Elessar</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_SUBTITLE" Language="es_ES">
+			<Text>Vigésimo sexto Rey de Arnor, Trigésimo Quinto Rey de Gondor y Primer Gran Rey del Reino Unificado</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Aragorn II, hijo de Arathorn II y Gilraen, también conocido como Elessar. 16 Capitan de los Dúnedain del Norte, que luego fue coronado Rey Elessar Telcontar (1 Marzo de 2931 T.A- F.O 120 o S.R. 1541) Vigésimo sexto Rey de Arnor, Trigésimo Quinto Rey de Gondor y Primer Gran Rey del Reino Unificado desde el corto reinado de Isildur.</Text>
+		</Replace>
+		<!-- END OF GONDOR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<!-- ROHAN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Replace Tag="LOC_CIVINFO_ROHAN_LOCATION" Language="es_ES">
+			<Text>Sur Tierra Media</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_ROHAN_SIZE" Language="es_ES">
+			<Text>136.6555km²</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_ROHAN_POPULATION" Language="es_ES">
+			<Text>400.000-600.000</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_ROHAN_CAPITAL" Language="es_ES">
+			<Text>Edoras (desde  T.A. 2569), antes(Aldburg T.A 2510- T-.A 2569)</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Tierra de Rohan fue originalmente parte de Gondor pero le fue concedida su independencia por parte de Gondor. La tierra fue conocida como Rohan para los hombres de Gondor y su gente como Rohirrim, que significa ‘Señores Caballo’, pero su gente se llamaba a si mismo Eorlingas, hijos de Eorl el Joven primer Rey de Rohan al que le concedieron la tierra de Calenardhon como regalo del Senescal de Gondor Cirion por su servicio en la batalla contra los Balchoth. Eorl, el primer rey, juro amistad y ayuda en tiempos de necesidad. Fueron conocidos por su caballería y caballos, que demostraron su valía en las batallas de Hornburg y los Campos de Pelennor.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Rohan es descrito como una tierra de pasturas. En la guerra del anillo, el tamaño de Rohan era de una tercera parte de Gondor, cuyas fronteras se estaban encogiendo por siglos. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Tenía un clima caliente con veranos calientes e inviernos cortos, a diferencia de los largos inviernos de las Tierras Salvajes al norte y de los veranos subtropicales de Gondor al Sur. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_TITLE" Language="es_ES">
+			<Text>Rey Théoden</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_SUBTITLE" Language="es_ES">
+			<Text>Decimoséptimo Rey de Rohan y último de la Segunda Linea de la Casa Real de Eorl.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Théoden fue el Decimoséptimo Rey de Rohan y último del linaje de la Casa de Eorl. Durante la Guerra del Anillo, Théoden había sido Rey por casi 40 años y se estaba volviendo viejo y cansado. Fue engañado por su consejero jefe Gríma, quien trabajaba secretamente por Saruman el Blanco. Grimá fue envenenando a Théoden.  </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Cuando Gandalf el Blanco, Aragorn, Legolas y Gimli aparecieron en frente de él, inicialmente rehusó al consejo de Gandalf de resistirse a Saruman, pero después liberarse de los efectos de Gríma, ordeno a Hama que liberara su sobrino y que liderara los jinetes de Rohan contra Saruman. Théoden, siguiendo el consejo de Gandalf, re refugio para luchar contra las hordas de Saruman en el Abismo de Helm.  </Text>
+		</Replace>
+		<!-- END OF ROHAN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<!-- BUILDINGS-->
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEROIC_STATUE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Estatuas de antiguos heroes y ancestros de númenor. Recordando a todos los Gondorianos por lo que luchar y las pasadas victoria contra la oscurida.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MEARAS_STABLE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los Mearas son una raza de caballos salvajes del norte de la Tierra Media. Sobrepasan la inteligencia, velocidad y fuerza de los caballos normales. Según las leyendas, los ancestros de los Mearas fueron traídos del Oeste por Oromë.</Text>
+		</Replace>
+		<!-- UNITS-->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CITADEL_GUARD_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los Guardianes de la Ciudadela, a veces referidos como Guardianes de la Torre de Gondor, fueron un grupo de soldados de elite de Gondor durante la Tercera y Cuarta Edad. Era principalmente unos guardias de la ciudad más que una fuerza móvil aunque a veces hacían viajes protegiendo los Senescales o Reyes de Gondor. En conjunto fueron considerados los mejores soldados de Gondor. Conocidos por su valentía, habilidades de lucha y lealtad ya que juraban proteger con sus vidas a su señor.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ROHIRRIM_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los Rohirrim son descendientes de Éothéod, una raza de Hombres que vivió en los valles del Gran Río Anduin. El nombre que se llaman a ellos mismos es Eorlingas. </Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

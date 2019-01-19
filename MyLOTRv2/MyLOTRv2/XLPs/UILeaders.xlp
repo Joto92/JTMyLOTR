@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_ARAGORN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ARAGORN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARAGORN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ARAGORN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THEODEN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THEODEN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELROND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ELROND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELROND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ELROND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THRANDUIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THRANDUIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THRANDUIL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THRANDUIL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GALADRIEL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GALADRIEL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GALADRIEL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GALADRIEL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DAIN_II_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DAIN_II_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DAIN_II_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DAIN_II_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAURON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SAURON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SAURON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SAURON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SARUMAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SARUMAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GORKIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GORKIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GORKIL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GORKIL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SULADAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SULADAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SULADAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SULADAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANGAMAITE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ANGAMAITE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ANGAMAITE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ANGAMAITE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KHAMUL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_KHAMUL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KHAMUL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_KHAMUL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KIONID_NEUTRAL"/>
+			<m_ObjectName text="LEADER_KIONID_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KIONID_BACKGROUND"/>
+			<m_ObjectName text="LEADER_KIONID_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_WITCH_KING_NEUTRAL"/>
+			<m_ObjectName text="LEADER_WITCH_KING_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_WITCH_KING_BACKGROUND"/>
+			<m_ObjectName text="LEADER_WITCH_KING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELENDIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ELENDIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELENDIL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ELENDIL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CIRDAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CIRDAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CIRDAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CIRDAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZOG_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AZOG_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZOG_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AZOG_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_LOADING_BACKGROUND"/>
+			<m_ObjectName text="LOTR_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SARUMAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SARUMAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THEODEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THEODEN_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

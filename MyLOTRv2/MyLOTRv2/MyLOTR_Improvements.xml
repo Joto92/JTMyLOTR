@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_SLAUGHTERHOUSE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_TUNNEL" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ELVEN_TOWER" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ELVEN_HOUSE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_HARADRIM_PYRAMID" Kind="KIND_IMPROVEMENT"/>
+
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" Name="LOC_IMPROVEMENT_SLAUGHTERHOUSE_NAME" Description="LOC_IMPROVEMENT_SLAUGHTERHOUSE_DESCRIPTION" Icon="ICON_IMPROVEMENT_SLAUGHTERHOUSE" PlunderType="PLUNDER_HEAL" PlunderAmount="100" Buildable="true" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_SLAUGHTERHOUSE"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" Name="LOC_IMPROVEMENT_TUNNEL_NAME" Description="LOC_IMPROVEMENT_TUNNEL_DESCRIPTION" Icon="ICON_IMPROVEMENT_TUNNEL" PlunderType="PLUNDER_GOLD" PlunderAmount="100" Buildable="true" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_TUNNEL"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" Name="LOC_IMPROVEMENT_ELVEN_TOWER_NAME" Description="LOC_IMPROVEMENT_ELVEN_TOWER_DESCRIPTION" Icon="ICON_IMPROVEMENT_ELVEN_TOWER" PlunderType="NO_PLUNDER" Buildable="true" PrereqTech="TECH_CASTLES" DefenseModifier="4" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ELVEN_TOWER"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" Name="LOC_IMPROVEMENT_ELVEN_HOUSE_NAME" Description="LOC_IMPROVEMENT_ELVEN_HOUSE_DESCRIPTION" Icon="ICON_IMPROVEMENT_ELVEN_HOUSE" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" Buildable="true" Housing="1" PrereqCivic="CIVIC_DRAMA_POETRY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ELVEN_HOUSE" Appeal="1" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" Name="LOC_IMPROVEMENT_HARADRIM_PYRAMID_NAME" Description="LOC_IMPROVEMENT_HARADRIM_PYRAMID_DESCRIPTION" Icon="ICON_IMPROVEMENT_HARADRIM_PYRAMID" PlunderType="PLUNDER_GOLD" PlunderAmount="25" Housing="1" Buildable="true" PrereqCivic="CIVIC_STATE_WORKFORCE" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_HARADRIM_PYRAMID" SameAdjacentValid="false"/>
+
+
+	</Improvements>
+
+	<Improvement_ValidFeatures>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" FeatureType="FEATURE_FLOODPLAINS"/>
+
+	</Improvement_ValidFeatures>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" TerrainType="TERRAIN_PLAINS_HILLS"/>
+
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" UnitType="UNIT_MORANNON_ORC"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" UnitType="UNIT_BUILDER"/>
+
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" YieldType="YIELD_FAITH" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" YieldType="YIELD_GOLD" YieldChange="0"/>
+
+	</Improvement_YieldChanges>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_TOWER" YieldChangeId="ElvenTower_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_ELVEN_HOUSE" YieldChangeId="ElvenHouse_FaithForest"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" YieldChangeId="HaradrimPyramid_GoldMine"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" YieldChangeId="HaradrimPyramid_GoldQuarry"/>
+
+	</Improvement_Adjacencies>
+
+	<Adjacency_YieldChanges>
+		<Row ID="ElvenTower_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_ELVEN_TOWER" PrereqTech="TECH_MASONRY"/>
+		<Row ID="ElvenHouse_FaithForest" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="HaradrimPyramid_GoldMine" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="2" AdjacentImprovement="IMPROVEMENT_MINE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="HaradrimPyramid_GoldQuarry" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="2" AdjacentImprovement="IMPROVEMENT_QUARRY" PrereqTech="TECH_MASONRY"/>
+
+	</Adjacency_YieldChanges>
+
+	<ImprovementModifiers>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ELVEN_HOUSE</ImprovementType>
+			<ModifierId>ELVEN_HOUSE_RIVERADJACENCY_CULTURE</ModifierId>
+		</Row>
+	</ImprovementModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>ELVEN_HOUSE_RIVERADJACENCY_CULTURE</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>PLOT_ADJACENT_TO_RIVER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>ELVEN_HOUSE_RIVERADJACENCY_CULTURE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HOUSE_RIVERADJACENCY_CULTURE</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+</GameData>

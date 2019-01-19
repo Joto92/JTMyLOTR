@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LOTR_Units22_FOW"/>
+			<m_ObjectName text="LOTR_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units32_FOW"/>
+			<m_ObjectName text="LOTR_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units38_FOW"/>
+			<m_ObjectName text="LOTR_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units50_FOW"/>
+			<m_ObjectName text="LOTR_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units80_FOW"/>
+			<m_ObjectName text="LOTR_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units256_FOW"/>
+			<m_ObjectName text="LOTR_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units22"/>
+			<m_ObjectName text="LOTR_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units32"/>
+			<m_ObjectName text="LOTR_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units38"/>
+			<m_ObjectName text="LOTR_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units50"/>
+			<m_ObjectName text="LOTR_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units80"/>
+			<m_ObjectName text="LOTR_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Units256"/>
+			<m_ObjectName text="LOTR_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits38"/>
+			<m_ObjectName text="MyLOTRPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits50"/>
+			<m_ObjectName text="MyLOTRPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits70"/>
+			<m_ObjectName text="MyLOTRPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits200"/>
+			<m_ObjectName text="MyLOTRPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits256"/>
+			<m_ObjectName text="MyLOTRPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRPotraits95"/>
+			<m_ObjectName text="MyLOTRPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRUnitActions256"/>
+			<m_ObjectName text="LOTRUnitActions256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRUnitActions80"/>
+			<m_ObjectName text="LOTRUnitActions80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRUnitActions50"/>
+			<m_ObjectName text="LOTRUnitActions50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRUnitActions38"/>
+			<m_ObjectName text="LOTRUnitActions38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings256"/>
+			<m_ObjectName text="LOTR_Buildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings128"/>
+			<m_ObjectName text="LOTR_Buildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings80"/>
+			<m_ObjectName text="LOTR_Buildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings50"/>
+			<m_ObjectName text="LOTR_Buildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings38"/>
+			<m_ObjectName text="LOTR_Buildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_Buildings32"/>
+			<m_ObjectName text="LOTR_Buildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags256"/>
+			<m_ObjectName text="MyLOTRFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags80"/>
+			<m_ObjectName text="MyLOTRFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags64"/>
+			<m_ObjectName text="MyLOTRFlags64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags50"/>
+			<m_ObjectName text="MyLOTRFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags48"/>
+			<m_ObjectName text="MyLOTRFlags48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags45"/>
+			<m_ObjectName text="MyLOTRFlags45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags44"/>
+			<m_ObjectName text="MyLOTRFlags44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags36"/>
+			<m_ObjectName text="MyLOTRFlags36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags32"/>
+			<m_ObjectName text="MyLOTRFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags30"/>
+			<m_ObjectName text="MyLOTRFlags30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRFlags22"/>
+			<m_ObjectName text="MyLOTRFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRReligionIcon_270"/>
+			<m_ObjectName text="LOTRReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRReligionIcon_100"/>
+			<m_ObjectName text="LOTRReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRReligionIcon_50"/>
+			<m_ObjectName text="LOTRReligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTRReligionIcon_22"/>
+			<m_ObjectName text="LOTRReligionIcon_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader256"/>
+			<m_ObjectName text="MyLOTRLeader256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader80"/>
+			<m_ObjectName text="MyLOTRLeader80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader64"/>
+			<m_ObjectName text="MyLOTRLeader64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader55"/>
+			<m_ObjectName text="MyLOTRLeader55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader50"/>
+			<m_ObjectName text="MyLOTRLeader50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader48"/>
+			<m_ObjectName text="MyLOTRLeader48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader45"/>
+			<m_ObjectName text="MyLOTRLeader45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyLOTRLeader32"/>
+			<m_ObjectName text="MyLOTRLeader32"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

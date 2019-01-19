@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_HEROIC_STATUE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_MEARAS_STABLE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_EREGION_FORGE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_MALLORN_TREE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DWARVEN_EXCAVATION" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_HARADRIM_PALACE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_CORSAIRS_TAVERN" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_TEMPLE_OF_TWILIGHT" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_NUMENOREAN_WALLS" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_NUMENOREAN_TOWER" Kind="KIND_BUILDING"/>
+		
+		<Row Type="BUILDING_ELVEN_HALLS" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DWARVEN_DOORS" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DWARVEN_HALLS" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ORC_PIT" Kind="KIND_BUILDING"/>
+
+	</Types>
+	
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_HEROIC_STATUE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+		<Row CivUniqueBuildingType="BUILDING_MEARAS_STABLE" ReplacesBuildingType="BUILDING_STABLE"/>
+		<Row CivUniqueBuildingType="BUILDING_EREGION_FORGE" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_MALLORN_TREE" ReplacesBuildingType="BUILDING_SHRINE"/>
+		<Row CivUniqueBuildingType="BUILDING_DWARVEN_EXCAVATION" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_HARADRIM_PALACE" ReplacesBuildingType="BUILDING_BARRACKS"/>
+		<Row CivUniqueBuildingType="BUILDING_TEMPLE_OF_TWILIGHT" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_NUMENOREAN_WALLS" ReplacesBuildingType="BUILDING_CASTLE"/>
+		<Row CivUniqueBuildingType="BUILDING_DWARVEN_DOORS" ReplacesBuildingType="BUILDING_CASTLE"/>
+		<Row CivUniqueBuildingType="BUILDING_ORC_PIT" ReplacesBuildingType="BUILDING_BARRACKS"/>
+
+	</BuildingReplaces>
+	
+	<Buildings>
+		<Row BuildingType="BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME"  Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" AdvisorType="ADVISOR_CULTURE" TraitType="TRAIT_CIVILIZATION_BUILDING_HEROIC_STATUE"/>
+		<Row BuildingType="BUILDING_MEARAS_STABLE" Name="LOC_BUILDING_MEARAS_STABLE_NAME" Description="LOC_BUILDING_MEARAS_STABLE_DESCRIPTION" PrereqTech="TECH_HORSEBACK_RIDING" PrereqDistrict="DISTRICT_ENCAMPMENT" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_MEARAS_STABLE" Quote="LOC_BUILDING_MEARAS_STABLE_QUOTE"/>
+		<Row BuildingType="BUILDING_EREGION_FORGE" Name="LOC_BUILDING_EREGION_FORGE_NAME" Description="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_EREGION_FORGE"/>
+		<Row BuildingType="BUILDING_MALLORN_TREE" Name="LOC_BUILDING_MALLORN_TREE_NAME" Description="LOC_BUILDING_MALLORN_TREE_DESCRIPTION" PrereqTech="TECH_ASTROLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="65" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_MALLORN_TREE" Housing="1"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" Name="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Description="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DWARVEN_EXCAVATION"  Housing="1"/>
+		<Row BuildingType="BUILDING_HARADRIM_PALACE" Name="LOC_BUILDING_HARADRIM_PALACE_NAME" Description="LOC_BUILDING_HARADRIM_PALACE_DESCRIPTION" PrereqTech="TECH_BRONZE_WORKING" PrereqDistrict="DISTRICT_ENCAMPMENT" PurchaseYield="YIELD_GOLD" Cost="80" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_HARADRIM_PALACE" Housing="1"/>
+		<Row BuildingType="BUILDING_CORSAIRS_TAVERN" Name="LOC_BUILDING_CORSAIRS_TAVERN_NAME" Description="LOC_BUILDING_CORSAIRS_TAVERN_DESCRIPTION" PrereqTech="TECH_BRONZE_WORKING" PrereqDistrict="DISTRICT_HARBOR" PurchaseYield="YIELD_GOLD" Cost="80" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_CORSAIRS_TAVERN" Housing="1"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" Name="LOC_BUILDING_TEMPLE_OF_TWILIGHT_NAME" Description="LOC_BUILDING_TEMPLE_OF_TWILIGHT_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_TEMPLE_OF_TWILIGHT"/>
+		<Row BuildingType="BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" PrereqTech="TECH_CASTLES" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="225" AdvisorType="ADVISOR_GENERIC" Maintenance="1" OuterDefenseHitPoints="60" OuterDefenseStrength="4" TraitType="TRAIT_CIVILIZATION_BUILDING_NUMENOREAN_WALLS"/>
+		<Row BuildingType="BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" PrereqTech="TECH_CASTLES" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="225" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Housing="1" OuterDefenseHitPoints="10" OuterDefenseStrength="1" TraitType="TRAIT_CIVILIZATION_BUILDING_NUMENOREAN_TOWER"/>
+		<Row BuildingType="BUILDING_ELVEN_HALLS" Name="LOC_BUILDING_ELVEN_HALLS_NAME" Description="LOC_BUILDING_ELVEN_HALLS_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="150" AdvisorType="ADVISOR_GENERIC" Maintenance="0" OuterDefenseHitPoints="10" OuterDefenseStrength="5"  Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_ELVEN_HALLS" MaxPlayerInstances="1"/>
+		<Row BuildingType="BUILDING_DWARVEN_DOORS" Name="LOC_BUILDING_DWARVEN_DOORS_NAME" Description="LOC_BUILDING_DWARVEN_DOORS_DESCRIPTION" PrereqTech="TECH_CASTLES" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="225" AdvisorType="ADVISOR_GENERIC" Maintenance="1" OuterDefenseHitPoints="60" OuterDefenseStrength="4" TraitType="TRAIT_CIVILIZATION_BUILDING_DWARVEN_DOORS"/>
+		<Row BuildingType="BUILDING_DWARVEN_HALLS" Name="LOC_BUILDING_DWARVEN_HALLS_NAME" Description="LOC_BUILDING_DWARVEN_HALLS_DESCRIPTION" PrereqTech="TECH_CASTLES" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="150" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DWARVEN_HALLS" />
+		<Row BuildingType="BUILDING_ORC_PIT" Name="LOC_BUILDING_ORC_PIT_NAME" Description="LOC_BUILDING_ORC_PIT_DESCRIPTION" PrereqTech="TECH_BRONZE_WORKING" PrereqDistrict="DISTRICT_ENCAMPMENT" PurchaseYield="YIELD_GOLD" Cost="90" AdvisorType="ADVISOR_CONQUEST" Maintenance="1" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_ORC_PIT"/>
+
+	</Buildings>
+	
+	<BuildingPrereqs>
+		<Row Building="BUILDING_TEMPLE_OF_TWILIGHT" PrereqBuilding="BUILDING_SHRINE"/>
+		<Row Building="BUILDING_NUMENOREAN_WALLS" PrereqBuilding="BUILDING_WALLS"/>
+		<Row Building="BUILDING_NUMENOREAN_TOWER" PrereqBuilding="BUILDING_NUMENOREAN_WALLS"/>
+		<Row Building="BUILDING_DWARVEN_DOORS" PrereqBuilding="BUILDING_WALLS"/>
+		<Row Building="BUILDING_DWARVEN_HALLS" PrereqBuilding="BUILDING_DWARVEN_DOORS"/>
+
+	</BuildingPrereqs>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_HEROIC_STATUE" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_MEARAS_STABLE" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_EREGION_FORGE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_EREGION_FORGE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_MALLORN_TREE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row BuildingType="BUILDING_MALLORN_TREE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_HARADRIM_PALACE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_HARADRIM_PALACE" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_HARADRIM_PALACE" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_CORSAIRS_TAVERN" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_NUMENOREAN_TOWER" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_NUMENOREAN_TOWER" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_ELVEN_HALLS" YieldType="YIELD_GOLD" YieldChange="8"/>
+		<Row BuildingType="BUILDING_DWARVEN_DOORS" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DWARVEN_DOORS" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DWARVEN_HALLS" YieldType="YIELD_GOLD" YieldChange="6"/>
+		<Row BuildingType="BUILDING_DWARVEN_HALLS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DWARVEN_HALLS" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_ORC_PIT" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+
+	</Building_YieldChanges>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_HEROIC_STATUE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_MEARAS_STABLE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_EREGION_FORGE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_MALLORN_TREE" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_HARADRIM_PALACE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_CORSAIRS_TAVERN" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_NUMENOREAN_TOWER" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_ORC_PIT" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
+
+	</Building_GreatPersonPoints>
+
+	<Building_GreatWorks>
+		<Row BuildingType="BUILDING_TEMPLE_OF_TWILIGHT" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+	</Building_GreatWorks>
+	
+	<MutuallyExclusiveBuildings>
+		<Row Building="BUILDING_MEARAS_STABLE" MutuallyExclusiveBuilding="BUILDING_BARRACKS"/>
+		<Row Building="BUILDING_BARRACKS" MutuallyExclusiveBuilding="BUILDING_MEARAS_STABLE"/>
+		<Row Building="BUILDING_HARADRIM_PALACE" MutuallyExclusiveBuilding="BUILDING_STABLE"/>
+		<Row Building="BUILDING_STABLE" MutuallyExclusiveBuilding="BUILDING_HARADRIM_PALACE"/>
+		<Row Building="BUILDING_STABLE" MutuallyExclusiveBuilding="BUILDING_ORC_PIT"/>
+		<Row Building="BUILDING_ORC_PIT" MutuallyExclusiveBuilding="BUILDING_STABLE"/>
+	</MutuallyExclusiveBuildings>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYLOTR_MEARAS_STABLE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>STABLE_UNIT_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_HARADRIM_PALACE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>BARRACKS_UNIT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CORSAIRS_TAVERN_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>LIGHTHOUSE_SEA_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_CITY_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>ORC_PIT_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_CITY_TRAINED_UNITS_ADJUST_XP_BONUS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>BARRACKS_UNIT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYLOTR_MEARAS_STABLE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>40</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_HARADRIM_PALACE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>40</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CORSAIRS_TAVERN_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>25</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_CITY_CENTER</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_ELVEN_HALLS_FOREST_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>ORC_PIT_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>35</Value>
+		</Row>
+	</ModifierArguments>
+
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_MEARAS_STABLE</BuildingType>
+			<ModifierId>MYLOTR_MEARAS_STABLE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HARADRIM_PALACE</BuildingType>
+			<ModifierId>MYLOTR_HARADRIM_PALACE_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CORSAIRS_TAVERN</BuildingType>
+			<ModifierId>MYLOTR_CORSAIRS_TAVERN_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELVEN_HALLS</BuildingType>
+			<ModifierId>ELVEN_HALLS_CULTUREWOODSADJACENCY</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORC_PIT</BuildingType>
+			<ModifierId>ORC_PIT_TRAINED_UNIT_XP_MODIFIER</ModifierId>
+		</Row>
+	</BuildingModifiers>
+
+	<Unit_BuildingPrereqs>
+		<Row Unit="UNIT_APOSTLE" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
+		<Row Unit="UNIT_INQUISITOR" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
+		<Row Unit="UNIT_WARRIOR_MONK" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
+		<Row Unit="UNIT_GURU" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
+	</Unit_BuildingPrereqs>
+</GameData>

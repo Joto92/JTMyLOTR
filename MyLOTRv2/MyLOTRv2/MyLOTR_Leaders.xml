@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_ARAGORN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_HEIR_OF_ISILDUR" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_THEODEN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GLORIOUS_CHARGE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ELROND" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_WHITE_COUNCIL" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_THRANDUIL" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_SHADOWS_IN_THE_WOODS" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_MIRKWOOD_ARCHER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GALADRIEL" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LADY_OF_THE_WOOD" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_UNIT_GALADHRIM_ARCHER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_DAIN_II" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_IRONFOOTS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_SAURON" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_DARK_POWER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_SARUMAN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_WHITE_HAND" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GORKIL" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GREAT_GOBLIN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_SULADAN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SERPENT_LORD" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ANGAMAITE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_CORSAIRS_LORD" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_KHAMUL" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_BLACK_EASTERLING" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_KIONID" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SLAVE_TRADER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_WITCH_KING" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_LORD_OF_THE_NAZGUL" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ELENDIL" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_ELENDIL_THE_FAIR" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_CIRDAN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_SHIPWRIGHT" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_AZOG" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_DEFILER" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_ARAGORN" Name="LOC_LEADER_ARAGORN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_THEODEN" Name="LOC_LEADER_THEODEN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ELROND" Name="LOC_LEADER_ELROND_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_THRANDUIL" Name="LOC_LEADER_THRANDUIL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GALADRIEL" Name="LOC_LEADER_GALADRIEL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DAIN_II" Name="LOC_LEADER_DAIN_II_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_SAURON" Name="LOC_LEADER_SAURON_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_SARUMAN" Name="LOC_LEADER_SARUMAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GORKIL" Name="LOC_LEADER_GORKIL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_SULADAN" Name="LOC_LEADER_SULADAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ANGAMAITE" Name="LOC_LEADER_ANGAMAITE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_KHAMUL" Name="LOC_LEADER_KHAMUL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_KIONID" Name="LOC_LEADER_KIONID_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_WITCH_KING" Name="LOC_LEADER_WITCH_KING_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ELENDIL" Name="LOC_LEADER_ELENDIL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_CIRDAN" Name="LOC_LEADER_CIRDAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_AZOG" Name="LOC_LEADER_AZOG_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_ARAGORN" ForegroundImage="LEADER_ARAGORN_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_THEODEN" ForegroundImage="LEADER_THEODEN_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_ELROND" ForegroundImage="LEADER_ELROND_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_THRANDUIL" ForegroundImage="LEADER_THRANDUIL_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GALADRIEL" ForegroundImage="LEADER_GALADRIEL_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_DAIN_II" ForegroundImage="LEADER_DAIN_II_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_SAURON" ForegroundImage="LEADER_SAURON_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_SARUMAN" ForegroundImage="LEADER_SARUMAN_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GORKIL" ForegroundImage="LEADER_GORKIL_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_SULADAN" ForegroundImage="LEADER_SULADAN_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_ANGAMAITE" ForegroundImage="LEADER_ANGAMAITE_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_KHAMUL" ForegroundImage="LEADER_KHAMUL_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_KIONID" ForegroundImage="LEADER_KIONID_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_WITCH_KING" ForegroundImage="LEADER_WITCH_KING_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_ELENDIL" ForegroundImage="LEADER_ELENDIL_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_CIRDAN" ForegroundImage="LEADER_CIRDAN_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_AZOG" ForegroundImage="LEADER_AZOG_NEUTRAL" BackgroundImage="LOTR_LOADING_BACKGROUND"/>
+
+	</LoadingInfo>
+
+	<DiplomacyInfo>
+		<Row Type="LEADER_ARAGORN" BackgroundImage="LEADER_ARAGORN_BACKGROUND"/>
+		<Row Type="LEADER_THEODEN" BackgroundImage="LEADER_THEODEN_BACKGROUND"/>
+		<Row Type="LEADER_ELROND" BackgroundImage="LEADER_ELROND_BACKGROUND"/>
+		<Row Type="LEADER_THRANDUIL" BackgroundImage="LEADER_THRANDUIL_BACKGROUND"/>
+		<Row Type="LEADER_GALADRIEL" BackgroundImage="LEADER_GALADRIEL_BACKGROUND"/>
+		<Row Type="LEADER_DAIN_II" BackgroundImage="LEADER_DAIN_II_BACKGROUND"/>
+		<Row Type="LEADER_SAURON" BackgroundImage="LEADER_SAURON_BACKGROUND"/>
+		<Row Type="LEADER_SARUMAN" BackgroundImage="LEADER_SARUMAN_BACKGROUND"/>
+		<Row Type="LEADER_GORKIL" BackgroundImage="LEADER_GORKIL_BACKGROUND"/>
+		<Row Type="LEADER_SULADAN" BackgroundImage="LEADER_SULADAN_BACKGROUND"/>
+		<Row Type="LEADER_ANGAMAITE" BackgroundImage="LEADER_ANGAMAITE_BACKGROUND"/>
+		<Row Type="LEADER_KHAMUL" BackgroundImage="LEADER_KHAMUL_BACKGROUND"/>
+		<Row Type="LEADER_KIONID" BackgroundImage="LEADER_KIONID_BACKGROUND"/>
+		<Row Type="LEADER_WITCH_KING" BackgroundImage="LEADER_WITCH_KING_BACKGROUND"/>
+		<Row Type="LEADER_ELENDIL" BackgroundImage="LEADER_ELENDIL_BACKGROUND"/>
+		<Row Type="LEADER_CIRDAN" BackgroundImage="LEADER_CIRDAN_BACKGROUND"/>
+		<Row Type="LEADER_AZOG" BackgroundImage="LEADER_AZOG_BACKGROUND"/>
+
+	</DiplomacyInfo>
+	
+	<LeaderTraits>
+		<Row LeaderType="LEADER_ARAGORN" TraitType="TRAIT_LEADER_HEIR_OF_ISILDUR"/>
+		<Row LeaderType="LEADER_THEODEN" TraitType="TRAIT_LEADER_GLORIOUS_CHARGE"/>
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_LEADER_WHITE_COUNCIL"/>
+		<Row LeaderType="LEADER_THRANDUIL" TraitType="TRAIT_SHADOWS_IN_THE_WOODS"/>
+		<Row LeaderType="LEADER_THRANDUIL" TraitType="TRAIT_CIVILIZATION_UNIT_MIRKWOOD_ARCHER"/>
+		<Row LeaderType="LEADER_GALADRIEL" TraitType="TRAIT_LADY_OF_THE_WOOD"/>
+		<Row LeaderType="LEADER_GALADRIEL" TraitType="TRAIT_CIVILIZATION_UNIT_GALADHRIM_ARCHER"/>
+		<Row LeaderType="LEADER_GALADRIEL" TraitType="TRAIT_CIVILIZATION_BUILDING_MALLORN_TREE"/>
+		<Row LeaderType="LEADER_DAIN_II" TraitType="TRAIT_LEADER_IRONFOOTS"/>
+		<Row LeaderType="LEADER_SAURON" TraitType="TRAIT_LEADER_THE_DARK_POWER"/>
+		<Row LeaderType="LEADER_SARUMAN" TraitType="TRAIT_LEADER_WHITE_HAND"/>
+		<Row LeaderType="LEADER_GORKIL" TraitType="TRAIT_LEADER_GREAT_GOBLIN"/>
+		<Row LeaderType="LEADER_SULADAN" TraitType="TRAIT_LEADER_SERPENT_LORD"/>
+		<Row LeaderType="LEADER_ANGAMAITE" TraitType="TRAIT_LEADER_CORSAIRS_LORD"/>
+		<Row LeaderType="LEADER_KHAMUL" TraitType="TRAIT_LEADER_THE_BLACK_EASTERLING"/>
+		<Row LeaderType="LEADER_KIONID" TraitType="TRAIT_LEADER_SLAVE_TRADER"/>
+		<Row LeaderType="LEADER_WITCH_KING" TraitType="TRAIT_LEADER_LORD_OF_THE_NAZGUL"/>
+		<Row LeaderType="LEADER_ELENDIL" TraitType="TRAIT_LEADER_ELENDIL_THE_FAIR"/>
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_LEADER_THE_SHIPWRIGHT"/>
+		<Row LeaderType="LEADER_AZOG" TraitType="TRAIT_LEADER_THE_DEFILER"/>
+
+		<!-- Extra Units-->
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_CIVILIZATION_UNIT_NOLDOR_WARRIOR"/>
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_CIVILIZATION_UNIT_RIVENDEL_LANCER"/>
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_CIVILIZATION_UNIT_NOLDOR_ARCHER"/>
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_CIVILIZATION_UNIT_NOLDOR_SPEARMAN"/>
+		<Row LeaderType="LEADER_ELROND" TraitType="TRAIT_CIVILIZATION_UNIT_EAGLE"/>
+
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_CIVILIZATION_UNIT_MITHLOND_SENTRY"/>
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_CIVILIZATION_UNIT_HIGH_ELF_ARCHER"/>
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_CIVILIZATION_UNIT_ELDAR_CAVALRY"/>
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_CIVILIZATION_UNIT_TELERI_WARRIOR"/>
+		<Row LeaderType="LEADER_CIRDAN" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ELVEN_TOWER"/>
+
+		<Row LeaderType="LEADER_GALADRIEL" TraitType="TRAIT_CIVILIZATION_UNIT_ENT"/>
+		<Row LeaderType="LEADER_THRANDUIL" TraitType="TRAIT_CIVILIZATION_BUILDING_ELVEN_HALLS"/>
+
+
+		<!-- End of Extra Units-->
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_HEIR_OF_ISILDUR" Name="LOC_TRAIT_HEIR_OF_ISILDUR_NAME" Description="LOC_TRAIT_HEIR_OF_ISILDUR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GLORIOUS_CHARGE" Name="LOC_TRAIT_GLORIOUS_CHARGE_NAME" Description="LOC_TRAIT_GLORIOUS_CHARGE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_COUNCIL" Name="LOC_TRAIT_WHITE_COUNCIL_NAME" Description="LOC_TRAIT_WHITE_COUNCIL_DESCRIPTION"/>
+		<Row TraitType="TRAIT_SHADOWS_IN_THE_WOODS" Name="LOC_TRAIT_SHADOWS_IN_THE_WOODS_NAME" Description="LOC_TRAIT_SHADOWS_IN_THE_WOODS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_MIRKWOOD_ARCHER" Name="LOC_TRAIT_CIVILIZATION_UNIT_MIRKWOOD_ARCHER_NAME" Description="LOC_TRAIT_CIVILIZATION_UNIT_MIRKWOOD_ARCHER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LADY_OF_THE_WOOD" Name="LOC_TRAIT_LADY_OF_THE_WOOD_NAME" Description="LOC_TRAIT_LADY_OF_THE_WOOD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_UNIT_GALADHRIM_ARCHER" Name="LOC_TRAIT_CIVILIZATION_UNIT_GALADHRIM_ARCHER_NAME" Description="LOC_TRAIT_CIVILIZATION_UNIT_GALADHRIM_ARCHER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_IRONFOOTS" Name="LOC_TRAIT_IRONFOOTS_NAME" Description="LOC_TRAIT_IRONFOOTS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_DARK_POWER" Name="LOC_TRAIT_THE_DARK_POWER_NAME" Description="LOC_TRAIT_THE_DARK_POWER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_HAND" Name="LOC_TRAIT_WHITE_HAND_NAME" Description="LOC_TRAIT_WHITE_HAND_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GREAT_GOBLIN" Name="LOC_TRAIT_GREAT_GOBLIN_NAME" Description="LOC_TRAIT_GREAT_GOBLIN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SERPENT_LORD" Name="LOC_TRAIT_SERPENT_LORD_NAME" Description="LOC_TRAIT_SERPENT_LORD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CORSAIRS_LORD" Name="LOC_TRAIT_CORSAIRS_LORD_NAME" Description="LOC_TRAIT_CORSAIRS_LORD_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_BLACK_EASTERLING" Name="LOC_TRAIT_THE_BLACK_EASTERLING_NAME" Description="LOC_TRAIT_THE_BLACK_EASTERLING_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SLAVE_TRADER" Name="LOC_TRAIT_SLAVE_TRADER_NAME" Description="LOC_TRAIT_SLAVE_TRADER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_LORD_OF_THE_NAZGUL" Name="LOC_TRAIT_LORD_OF_THE_NAZGUL_NAME" Description="LOC_TRAIT_LORD_OF_THE_NAZGUL_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_ELENDIL_THE_FAIR" Name="LOC_TRAIT_ELENDIL_THE_FAIR_NAME" Description="LOC_TRAIT_ELENDIL_THE_FAIR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_SHIPWRIGHT" Name="LOC_TRAIT_THE_SHIPWRIGHT_NAME" Description="LOC_TRAIT_THE_SHIPWRIGHT_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_DEFILER" Name="LOC_TRAIT_THE_DEFILER_NAME" Description="LOC_TRAIT_THE_DEFILER_DESCRIPTION"/>
+
+
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_HEIR_OF_ISILDUR" ModifierId="TRAIT_MYLOTR_EXTRA_WILDCARD_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_GLORIOUS_CHARGE" ModifierId="MYLOTR_FIFTY_PERCENT_FLANKING_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_GLORIOUS_CHARGE" ModifierId="MYLOTR_CAVALRY_FORCE_RETREAT"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_COUNCIL" ModifierId="TRAIT_ADJUST_ALLIED_WAR_DISCOUNT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_WHITE_COUNCIL" ModifierId="TRAIT_ADJUST_JOINTWAR_EXPERIENCE"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_WHITE_COUNCIL" ModifierId="TRAIT_MYLOTR_EXTRA_DIPLOMATIC_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_SHADOWS_IN_THE_WOODS" ModifierId="MYLOTR_TRAIT_INVISIBILITY_IN_WOODS"/>
+		<Row TraitType="TRAIT_SHADOWS_IN_THE_WOODS" ModifierId="MYLOTR_TRAIT_COMMERCIAL_FOREST"/>
+		<Row>
+			<TraitType>TRAIT_LADY_OF_THE_WOOD</TraitType>
+			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LADY_OF_THE_WOOD" ModifierId="MYLOTR_TRAIT_INVISIBILITY_IN_WOODS"/>
+		<Row TraitType="TRAIT_LEADER_IRONFOOTS" ModifierId="MYLOTR_MELEE_BONUS"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_IRONFOOTS</TraitType>
+			<ModifierId>TRAIT_FREE_TRADING_POSTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_THE_DARK_POWER" ModifierId="TRAIT_MILITARY_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_DARK_POWER" ModifierId="MYLOTR_EXTRA_MORANNON_ORC"/>
+		<Row TraitType="TRAIT_LEADER_THE_DARK_POWER" ModifierId="MYLOTR_SAURON_UNIT_MAINTENANCE_DISCOUNT"/>
+		<Row TraitType="TRAIT_LEADER_THE_DARK_POWER" ModifierId="MYLOTR_DARK_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_HAND" ModifierId="MYLOTR_EXTRA_URUK"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_HAND" ModifierId="MYLOTR_EXTRA_URUK_PIKEMAN"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_HAND" ModifierId="MYLOTR_DARK_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_GREAT_GOBLIN" ModifierId="MYLOTR_DARK_FORCES"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_GREAT_GOBLIN</TraitType>
+			<ModifierId>TRAIT_MYLOTR_INDUSTRIAL_ADJACENCY_MOUNTAIN_GRASS_MOUNTAIN</ModifierId><!-- Implemented In MyLOTRCivilizatons-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GREAT_GOBLIN</TraitType>
+			<ModifierId>TRAIT_MYLOTR_INDUSTRIAL_ADJACENCY_MOUNTAIN_PLAINS_MOUNTAIN</ModifierId><!-- Implemented In MyLOTRCivilizatons-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GREAT_GOBLIN</TraitType>
+			<ModifierId>TRAIT_MYLOTR_INDUSTRIAL_ADJACENCY_MOUNTAIN_DESERT_MOUNTAIN</ModifierId><!-- Implemented In MyLOTRCivilizatons-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GREAT_GOBLIN</TraitType>
+			<ModifierId>TRAIT_MYLOTR_INDUSTRIAL_ADJACENCY_MOUNTAIN_TUNDRA_MOUNTAIN</ModifierId><!-- Implemented In MyLOTRCivilizatons-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GREAT_GOBLIN</TraitType>
+			<ModifierId>TRAIT_MYLOTR_INDUSTRIAL_ADJACENCY_MOUNTAIN_SNOW_MOUNTAIN</ModifierId><!-- Implemented In MyLOTRCivilizatons-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SERPENT_LORD" ModifierId="MYLOTR_DESERT_UNITS_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_CORSAIRS_LORD" ModifierId="TRAIT_COMBAT_BONUS_LAND_ON_COAST"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_CORSAIRS_LORD" ModifierId="TRAIT_GRANT_COASTAL_RAID_ABILITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_BLACK_EASTERLING" ModifierId="MYLOTR_DARK_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_THE_BLACK_EASTERLING" ModifierId="TRAIT_COMBAT_BONUS_CITY_STATES"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_BLACK_EASTERLING" ModifierId="TRAIT_COMBAT_BONUS_OTHER_RELIGION"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_SLAVE_TRADER" ModifierId="TRAIT_MYLOTR_CAPTURE_AS_WORKERS"/><!-- Implemented In MYLOTR_Civilizations-->
+		<Row TraitType="TRAIT_LEADER_SLAVE_TRADER" ModifierId="TRAIT_INCOMING_TRADE_GAIN_GOLD"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_LORD_OF_THE_NAZGUL" ModifierId="TRAIT_MYLOTR_COMBAT_BONUS_CONQUER_CONTINENT"/>
+		<Row TraitType="TRAIT_LEADER_LORD_OF_THE_NAZGUL" ModifierId="UNIQUE_LEADER_CULTURE_KILLS"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_LORD_OF_THE_NAZGUL" ModifierId="MYLOTR_DARK_FORCES"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_ELENDIL_THE_FAIR</TraitType>
+			<ModifierId>TRAIT_FREE_ROADS_TO_CAPITAL</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_ELENDIL_THE_FAIR</TraitType>
+			<ModifierId>TRAIT_FREE_TRADING_POSTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_ELENDIL_THE_FAIR</TraitType>
+			<ModifierId>TRAIT_GOLD_FROM_DOMESTIC_TRADING_POSTS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_ELENDIL_THE_FAIR" ModifierId="TRAIT_ADJUST_NON_CAPITAL_FREE_CHEAPEST_BUILDING"/><!-- Implemented In Vanilla-->
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>ECONOMICUNION_HARBORGOLD</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>TRAIT_EARLY_OCEAN_NAVIGATION</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_ANCIENT_NAVAL_MELEE_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_MELEE_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RANGED_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RANGED_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RAIDER_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RAIDER_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_RENAISSANCE_NAVAL_MELEE_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_INDUSTRIAL_NAVAL_MELEE_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_RENAISSANCE_NAVAL_RANGED_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_INDUSTRIAL_NAVAL_RANGED_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_RENAISSANCE_NAVAL_RAIDER_PRODUCTION</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_THE_SHIPWRIGHT</TraitType>
+			<ModifierId>PRESSGANGS_INDUSTRIAL_NAVAL_RAIDER_PRODUCTION</ModifierId>
+		</Row>
+		<Row TraitType="TRAIT_LEADER_THE_DEFILER" ModifierId="BONUS_VS_WOUNDED_UNITS"/>
+		<Row TraitType="TRAIT_LEADER_THE_DEFILER" ModifierId="HEAL_AFTER_DEFEATING_UNIT"/>
+	</TraitModifiers>
+
+	<ModifierStrings>
+		<Row ModifierId="MYLOTR_COMBAT_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER" Context="Preview" Text="LOC_TRAIT_GLORIOUS_CHARGE_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_COMBAT_MELEE_BONUS_MODIFIER" Context="Preview" Text="LOC_TRAIT_IRONFOOTS_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_COMBAT_DESERT_BONUS_MODIFIER" Context="Preview" Text="LOC_TRAIT_SERPENT_LORD_DESCRIPTION"/>
+		<Row ModifierId="COMBAT_MYLOTR_BONUS_CONQUER_CONTINENT_MODIFIER" Context="Preview" Text="LOC_MYLOTR_BONUS_CONQUER_CONTINENT_DESCRIPTION"/>
+
+	</ModifierStrings>
+	
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_EXTRA_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_FIFTY_PERCENT_FLANKING_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CAVALRY_FORCE_RETREAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>UNIT_IS_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_EXTRA_DIPLOMATIC_GOVERNMENT_SLOT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_INVISIBILITY_IN_WOODS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_HIDDEN_VISIBILITY</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_FOREST_HIDDEN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MELEE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>THRUST_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DARK_FORCES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_SAURON_UNIT_MAINTENANCE_DISCOUNT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_UNIT_MAINTENANCE_DISCOUNT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_MORANNON_ORC</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK_PIKEMAN</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_EXTRA_UNIT_COPY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DESERT_UNITS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_DESERT_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_COMBAT_BONUS_CONQUER_CONTINENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYLOTR_BONUS_CONQUER_CONTINENT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REDCOAT_PLOT_IS_FOREIGN_CONTINENT</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		
+	</Modifiers>
+	
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_EXTRA_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_WILDCARD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_FIFTY_PERCENT_FLANKING_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYLOTR_COMBAT_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</ModifierId>
+			<Name>Percent</Name>
+			<Value>200</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CAVALRY_FORCE_RETREAT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>HUSSAR_FORCE_RETREAT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_EXTRA_DIPLOMATIC_GOVERNMENT_SLOT</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_DIPLOMATIC</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_INVISIBILITY_IN_WOODS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYLOTR_INVISIBILITY_IN_WOODS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<Name>Hidden</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COMMERCIAL_HUB</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYLOTR_DISTRICT_FOREST_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MELEE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYLOTR_COMBAT_MELEE_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DARK_FORCES</ModifierId>
+			<Name>Amount</Name>
+			<Value>-60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DARK_FORCES</ModifierId>
+			<Name>Overall</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_SAURON_UNIT_MAINTENANCE_DISCOUNT</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_MORANNON_ORC</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_MORANNON_ORC</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_MORANNON_ORC</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_URUK_HAI</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK_PIKEMAN</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_URUK_HAI_PIKEMAN</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_URUK_PIKEMAN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DESERT_UNITS_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYLOTR_COMBAT_DESERT_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_COMBAT_DESERT_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_COMBAT_BONUS_CONQUER_CONTINENT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_MYLOTR_BONUS_CONQUER_CONTINENT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYLOTR_BONUS_CONQUER_CONTINENT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+	
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYLOTR_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYLOTR_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_DESERT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_DESERT_HILLS</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_PLAINS_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS_HILLS</Value>
+		</Row>
+	</RequirementArguments>
+
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_ARAGORN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_QUOTE"/>
+		<Row LeaderType="LEADER_THEODEN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_QUOTE"/>
+		<Row LeaderType="LEADER_ELROND" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_QUOTE"/>
+		<Row LeaderType="LEADER_GALADRIEL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_QUOTE"/>
+		<Row LeaderType="LEADER_THRANDUIL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_QUOTE"/>
+		<Row LeaderType="LEADER_DAIN_II" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_QUOTE"/>
+		<Row LeaderType="LEADER_SAURON" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_QUOTE"/>
+		<Row LeaderType="LEADER_SARUMAN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SARUMAN_QUOTE"/>
+		<Row LeaderType="LEADER_GORKIL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GORKIL_QUOTE"/>
+		<Row LeaderType="LEADER_KHAMUL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_KHAMUL_QUOTE"/>
+		<Row LeaderType="LEADER_WITCH_KING" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_WITCH_KING_QUOTE"/>
+		<Row LeaderType="LEADER_ELENDIL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ELENDIL_QUOTE"/>
+		<Row LeaderType="LEADER_CIRDAN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_QUOTE"/>
+		<Row LeaderType="LEADER_AZOG" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_AZOG_QUOTE"/>
+	</LeaderQuotes>
+
+</GameData>

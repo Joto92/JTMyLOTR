@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_POLICY_FELLOWSHIP_OF_THE_RING_NAME" Language="en_US">
+			<text>Fellowship of the Ring</text>
+		</Row>
+		<Row Tag="LOC_POLICY_FELLOWSHIP_OF_THE_RING_DESCRIPTION" Language="en_US">
+			<text>Open borders with all city states</text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Mountain</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for Mountain</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Desert</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Desert Hills</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert Hills</Text>
+		</Row>
+		<Row Tag="LOC_MYLOTR_DISTRICT_FOREST_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science for Forest</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_TUNDRA_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Tundra</Text>
+		</Row>
+		<Row Tag="LOC_MYLOTR_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest</Text>
+		</Row>
+		<Row Tag="LOC_MYLOTR_DISTRICT_FOREST_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Forest</Text>
+		</Row>
+		<Row Tag="LOC_ELVEN_HALLS_FOREST_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Forest</Text>
+		</Row>
+		<!-- GONDOR | ARAGORN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARAGORN" Language="en_US">
+			<Text>Aragorn II, the son of Arathorn II and Gilraen, also known as Elessar as well as Strider. 16th Chieftain of the Dúnedain of the North; he was later crowned King Elessar Telcontar (March 1, 2931 - FO 120 or SR 1541), the 26th King of Arnor, and the 35th King of Gondor and first High King of Gondor and Arnor, since the short reign of Isildur.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CITADEL_GUARD_NAME" Language="en_US">
+			<Text>Citadel Guard</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CITADEL_GUARD_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength if there is at least one Citadel Guard adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_TIRITH" Language="en_US">
+			<Text>Minas Tirith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSGILIATH" Language="en_US">
+			<Text>Osgiliath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PELARGIR" Language="en_US">
+			<Text>Pelargir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINHIR" Language="en_US">
+			<Text>Linhir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOL_AMROTH" Language="en_US">
+			<Text>Dol Amroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALEMBEL" Language="en_US">
+			<Text>Calembel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ETHRING" Language="en_US">
+			<Text>Ethring</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLANHIR" Language="en_US">
+			<Text>Glanhir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSSARNEN" Language="en_US">
+			<Text>Ossarnen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RENDUL" Language="en_US">
+			<Text>Rendul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_BRETHIL" Language="en_US">
+			<Text>Minas Brethil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_ARTHOR" Language="en_US">
+			<Text>Minas Arthor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOSSARNACH" Language="en_US">
+			<Text>Lossarnach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEBENNIN" Language="en_US">
+			<Text>Lebennin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELFALAS" Language="en_US">
+			<Text>Belfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAMEDON" Language="en_US">
+			<Text>Lamedon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORTHOND" Language="en_US">
+			<Text>Morthond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANORIEN" Language="en_US">
+			<Text>Anórien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDRAST" Language="en_US">
+			<Text>Andrast</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANFALAS" Language="en_US">
+			<Text>Anfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PINNATH_GELIN" Language="en_US">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAIR_ANDROS" Language="en_US">
+			<Text>Cair Andros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADAVALINDA" Language="en_US">
+			<Text>Adavalinda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNON_DRUIN" Language="en_US">
+			<Text>Annon Drúin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNULOND" Language="en_US">
+			<Text>Annúlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IANTRAS" Language="en_US">
+			<Text>Iantras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOND_GALEN" Language="en_US">
+			<Text>Lond Galen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAMADALPH" Language="en_US">
+			<Text>Ramadalph</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SENELOND" Language="en_US">
+			<Text>Senelond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THARAGRONDOST" Language="en_US">
+			<Text>Tharagrondost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_MORTHIL" Language="en_US">
+			<Text>Bar Morthil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALENHAD" Language="en_US">
+			<Text>Calenhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SPATHLIN" Language="en_US">
+			<Text>Spathlin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FANUILOND" Language="en_US">
+			<Text>Fanuilond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALENHIROST" Language="en_US">
+			<Text>Calenhirost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOLFALAS" Language="en_US">
+			<Text>Tolfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METHIR" Language="en_US">
+			<Text>Methir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_EITHEL" Language="en_US">
+			<Text>Amon Eithel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EITHEL_TURIN" Language="en_US">
+			<Text>Eithel Túrin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_ETHRAID" Language="en_US">
+			<Text>Tirith Ethraid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_ITHIL" Language="en_US">
+			<Text>Minas Ithil</Text>
+		</Row>
+		<!-- END OF  GONDOR | ARAGORN -->
+		<!-- ROHAN | THEODEN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_THEODEN" Language="en_US">
+			<Text>Théoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROHIRRIM_NAME" Language="en_US">
+			<Text>Descendants of the Edain </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROHIRRIM_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against melee units and heal after defeating an enemy.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDORAS" Language="en_US">
+			<Text>Edoras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELMS_DEEP" Language="en_US">
+			<Text>Helm's Deep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALBURG" Language="en_US">
+			<Text>Alburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_WOLD" Language="en_US">
+			<Text>The Wold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTEMNET" Language="en_US">
+			<Text>Eastemnet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTEMNET" Language="en_US">
+			<Text>Westemnet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTFOLD" Language="en_US">
+			<Text>Eastfold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTFOLD" Language="en_US">
+			<Text>Westfold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WESTMARCH" Language="en_US">
+			<Text>West-march</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNHARROW" Language="en_US">
+			<Text>Dunharrow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORDS_OF_ISEN" Language="en_US">
+			<Text>Fords of Isen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SNOWBOURNE" Language="en_US">
+			<Text>Snowbourne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KINGSTEAD" Language="en_US">
+			<Text>Kingstead</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WITEBURG" Language="en_US">
+			<Text>Witeburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FLODGEHELD" Language="en_US">
+			<Text>Flodgeheld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORSBURY" Language="en_US">
+			<Text>Torsbury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ETHEBURH" Language="en_US">
+			<Text>Etheburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LANGHOLD" Language="en_US">
+			<Text>Langhold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARWICK" Language="en_US">
+			<Text>Harwick</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOLDHAM" Language="en_US">
+			<Text>Foldham</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STANGARD" Language="en_US">
+			<Text>Stangard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIMLIGHT" Language="en_US">
+			<Text>Limlight</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GATEHOUSE" Language="en_US">
+			<Text>Gatehouse</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CUTHSTAN" Language="en_US">
+			<Text>The Cuthstan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSERLEY" Language="en_US">
+			<Text>Oserley</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BEACONWATCH" Language="en_US">
+			<Text>Beaconwatch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FENMARCH" Language="en_US">
+			<Text>Fenmarch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENTWADE" Language="en_US">
+			<Text>Entwade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIDDLEMEAD" Language="en_US">
+			<Text>Middlemead</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UNDERHARROW" Language="en_US">
+			<Text>Underharrow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BROCKBRIDGE" Language="en_US">
+			<Text>Brockbridge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAPHOLT" Language="en_US">
+			<Text>Gapholt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOODHURST" Language="en_US">
+			<Text>Woodhurst</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRIMSLADE" Language="en_US">
+			<Text>Grimslade</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNFAST" Language="en_US">
+			<Text>Dunfast</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORLAW" Language="en_US">
+			<Text>Forlaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCYLFIG" Language="en_US">
+			<Text>Scylfig</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BYRETOR" Language="en_US">
+			<Text>Byre Tor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAP_ROHAN" Language="en_US">
+			<Text>Gap of Rohan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FRAMSBURG" Language="en_US">
+			<Text>Framsburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LANGWELL" Language="en_US">
+			<Text>Langwell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GREYLIN" Language="en_US">
+			<Text>Greylin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDUIN" Language="en_US">
+			<Text>Anduin</Text>
+		</Row>
+
+		<!-- END OF  ROHAN | THEODEN -->
+		<!-- ELDAR ELVES | ELROND -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELROND" Language="en_US">
+			<Text>Elrond was one of the mighty elf rulers of old who lived in Middle-earth from the First Age through the Third Age and into the beginning of the Fourth Age. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_WARRIOR_NAME" Language="en_US">
+			<Text>Noldor Elves</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee and Cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIVENDEL_LANCER_NAME" Language="en_US">
+			<Text>Elven Mounted Lancers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIVENDEL_LANCER_DESCRIPTION" Language="en_US">
+			<Text>Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MITHLOND_SENTRY_NAME" Language="en_US">
+			<Text>Guards of Mithlond </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MITHLOND_SENTRY_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIGH_ELF_ARCHER_NAME" Language="en_US">
+			<Text>Elven Army</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIGH_ELF_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] Combat Strength for fighting next to a Noldor Warrior or a Mithlond Sentry.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITHLOND" Language="en_US">
+			<Text>Mithlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIVENDEL" Language="en_US">
+			<Text>Rivendel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARLOND" Language="en_US">
+			<Text>Harlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORLOND" Language="en_US">
+			<Text>Forlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOND_THALOS" Language="en_US">
+			<Text>Lond Thalos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GALFALAS" Language="en_US">
+			<Text>Galfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNON_LHUN" Language="en_US">
+			<Text>Annon Lhun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDENATHRAD" Language="en_US">
+			<Text>Edenathrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_MAGLOR" Language="en_US">
+			<Text>Dor Maglor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_TINUVIEL" Language="en_US">
+			<Text>Dor-i-tinuviel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWAELAD" Language="en_US">
+			<Text>Gwaelad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALFALAS" Language="en_US">
+			<Text>Halfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGILIEN" Language="en_US">
+			<Text>Angilien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NELLFALAS" Language="en_US">
+			<Text>Nellfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALANOBEL" Language="en_US">
+			<Text>Talanobel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIMLING" Language="en_US">
+			<Text>Himling</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DANWAITH" Language="en_US">
+			<Text>Danwaith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELVAEDHORIEN" Language="en_US">
+			<Text>Elvaedhorien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOR_LEITHIEN" Language="en_US">
+			<Text>Dor Leithien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_EDHIL" Language="en_US">
+			<Text>Ost-in-Edhil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUILLOND" Language="en_US">
+			<Text>Duillond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADDUNANN" Language="en_US">
+			<Text>Echad Dúnann</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADEREGION" Language="en_US">
+			<Text>Echad Eregion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADMIROBEL" Language="en_US">
+			<Text>Echad Mirobel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWINGRIS" Language="en_US">
+			<Text>Gwingris</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDHELLOND" Language="en_US">
+			<Text>Edhellond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINGILIATH" Language="en_US">
+			<Text>Lin Giliath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADCANDELLETH" Language="en_US">
+			<Text>Echad Candelleth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THORENHAD" Language="en_US">
+			<Text>Thorenhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERIADOR" Language="en_US">
+			<Text>Eriador</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARLIDON" Language="en_US">
+			<Text>Harlidon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORLIDON" Language="en_US">
+			<Text>Forlidon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINDON" Language="en_US">
+			<Text>Lindon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRITHOMBAR" Language="en_US">
+			<Text>Brithombar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EGLAREST" Language="en_US">
+			<Text>Eglarest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARVERNIEN" Language="en_US">
+			<Text>Arvernien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAVENS_OF_SIRION" Language="en_US">
+			<Text>Havens of Sirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BALAR" Language="en_US">
+			<Text>Balar</Text>
+		</Row>
+		<!-- END OF ELDAR ELVES | ELROND -->
+		<!-- SILVAN ELVES | THRANDUIL -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_THRANDUIL" Language="en_US">
+			<Text>Thranduil, son of Oropher, was an Elven king who ruled over the Woodland Realm in the Second and Third Ages. Though inherently cautious, he eventually committed his kingdom to fighting against Sauron in the War of the Ring. He was the father of the elven prince of Mirkwood, Legolas, who was a member of the Fellowship of the Ring. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SILVAN_SPEARMAN_NAME" Language="en_US">
+			<Text>Silvan Spearman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SILVAN_SPEARMAN_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] against melee cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MIRKWOOD_ARCHER_NAME" Language="en_US">
+			<Text>Mirkwood Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MIRKWOOD_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] Combat Strength if there is at least one Silvan Spearman adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THRANDUIL_HALLS" Language="en_US">
+			<Text>Thranduil Halls</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CELABANNON" Language="en_US">
+			<Text>Celabannon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARAS_GALADHON" Language="en_US">
+			<Text>Caras Galadhon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CERIN_AMORTH" Language="en_US">
+			<Text>Cerin Amroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAUDH_EN_AIGABAUR" Language="en_US">
+			<Text>Haudh-en-Aigabaur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALDIRITH" Language="en_US">
+			<Text>Haldirith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYTHE" Language="en_US">
+			<Text>Hythe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THOLORIEN" Language="en_US">
+			<Text>Thólórien</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIMRODEL" Language="en_US">
+			<Text>Nimrodel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CELEBRANT" Language="en_US">
+			<Text>Celebrant</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THINGLAD" Language="en_US">
+			<Text>Thinglad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGLE" Language="en_US">
+			<Text>Angle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THEVINEYARDS" Language="en_US">
+			<Text>The Vineyards</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADANDESTEL" Language="en_US">
+			<Text>Echad Andestel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELAINGALADHRIM" Language="en_US">
+			<Text>Telain Galadhrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECHADSIRION" Language="en_US">
+			<Text>Echad Sirion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESTOLADMERNAEL" Language="en_US">
+			<Text>Estolad Mernael</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELETHIR" Language="en_US">
+			<Text>Helethir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTGALADH" Language="en_US">
+			<Text>Ost Galadh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THANGULHAD" Language="en_US">
+			<Text>Thangúlhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARAS_AMARTH" Language="en_US">
+			<Text>Caras Amarth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CEBER_FANUIN" Language="en_US">
+			<Text>Ceber Fanuin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORHTERN_MIRKWOOD" Language="en_US">
+			<Text>Northern Mirkwood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTERN_MIRKWOOD" Language="en_US">
+			<Text>Eastern Mirkwood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENCHANTED_RIVER" Language="en_US">
+			<Text>Enchanted River</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOREST_RIVER" Language="en_US">
+			<Text>Forest River</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OLD_AVAR_STREAM" Language="en_US">
+			<Text>Old Avar Stream</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_LANC" Language="en_US">
+			<Text>Amon Lanc</Text>
+		</Row>
+		<!-- END OF  SILVAN ELVES | THRANDUIL -->
+		<!-- SILVAN ELVES | GALADRIEL -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GALADRIEL" Language="en_US">
+			<Text>Galadriel was the co-ruler and Lady of Lothlórien alongside her husband, Lord Celeborn, however, neither took royal titles, as they only saw themselves as Guardians of The Golden Wood. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the three Elven rings. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GALADHRIM_ARCHER_NAME" Language="en_US">
+			<Text>Lorien Archers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GALADHRIM_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] Combat Strength if there is at least another Galadhrim Archer adjacent.</Text>
+		</Row>
+		<!-- END OF  SILVAN ELVES | GALADRIEL -->
+		<!-- DWARVES| DAIN II -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DAIN_II" Language="en_US">
+			<Text>Dáin II Ironfoot (or, King Dáin) was the son of Náin and the grandson of Grór, the youngest son of Dáin I of Durin's folk, and was lord of the Dwarves of the Iron Hills in Wilderland. He was a Dwarven King of Durin's Folk, the fifth King under the Mountain, and the Lord of the Iron Hills during the War of the Ring in Middle-earth in the late Third Age.  </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARVEN_GUARDIAN_NAME" Language="en_US">
+			<Text>Dwarven Guardians</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARVEN_GUARDIAN_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARVEN_PHALANXES_NAME" Language="en_US">
+			<Text>Dwarven Phalanxes</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARVEN_PHALANXES_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength if there is at least one Dwarven Phalanxes adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOAT_RIDERS_NAME" Language="en_US">
+			<Text>Goat Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOAT_RIDERS_DESCRIPTION" Language="en_US">
+			<Text>+1 Combat Strength when fighting in Hills and can move over Hills faster.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BOAR_RIDERS_NAME" Language="en_US">
+			<Text>Boar Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BOAR_RIDERS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when attacking ranged and siege units. 50 percent flanking bounes.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EREBOR" Language="en_US">
+			<Text>Erebor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRON_HILLS" Language="en_US">
+			<Text>Iron Hills</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AZANULINBAR_DUM" Language="en_US">
+			<Text>Azanulinbar-Dum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARUKKHIZDIN" Language="en_US">
+			<Text>Barukkhizdín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DANUK_KHIZDIN" Language="en_US">
+			<Text>Danuk-Khizdín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZELEG_UBRAZ" Language="en_US">
+			<Text>Zeleg-Ubraz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THORINS_HALLS" Language="en_US">
+			<Text>Thorin's Halls</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHAZADBIZAR" Language="en_US">
+			<Text>Khazadbizar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORR_DUM" Language="en_US">
+			<Text>Norr-Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MERLOST" Language="en_US">
+			<Text>Merlost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDENNOGROD" Language="en_US">
+			<Text>Edennogrod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUMNOGORTH_IAUR" Language="en_US">
+			<Text>Tumnogorth Iaur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHAZAD_DUM" Language="en_US">
+			<Text>Khazad-Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELEGOST" Language="en_US">
+			<Text>Belegost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOGROD" Language="en_US">
+			<Text>Nogrod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUNDABAD" Language="en_US">
+			<Text>Gundabad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAKALKUKHIZDIN" Language="en_US">
+			<Text>Makalkukhizdín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THAKALGUND" Language="en_US">
+			<Text>Thakalgund</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAZBIZAR" Language="en_US">
+			<Text>Barazbizar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARUK_ZIGIL" Language="en_US">
+			<Text>Baruk-Zigil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZARAK_DUM" Language="en_US">
+			<Text>Zarak Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUDRUGUND" Language="en_US">
+			<Text>Zudrugund</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOGLOND" Language="en_US">
+			<Text>Noglond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GONDAMON" Language="en_US">
+			<Text>Gondamon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HRIMBARG" Language="en_US">
+			<Text>Hrimbarg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VINDURHAL" Language="en_US">
+			<Text>Vindurhal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELEGROD" Language="en_US">
+			<Text>Helegrod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OTHRIKAR" Language="en_US">
+			<Text>Othrikar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIGILJABAL" Language="en_US">
+			<Text>Zigil-jâbal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KECHEL" Language="en_US">
+			<Text>Kechel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MEKHEMBIZRU" Language="en_US">
+			<Text>Mekhem-bizru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKHUZDAH" Language="en_US">
+			<Text>Akhuzdah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHAZAD_MADUR" Language="en_US">
+			<Text>Khazad-Madûr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARAGUL" Language="en_US">
+			<Text>Naragûl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUMUNAMAHAL" Language="en_US">
+			<Text>Tumunamahal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_FALIN" Language="en_US">
+			<Text>Bar Falin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MABLAL_DUM" Language="en_US">
+			<Text>Mablâl-Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARAD_DUM" Language="en_US">
+			<Text>Nárad-Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARUZIMABUL" Language="en_US">
+			<Text>Baruzimabûl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHELED_DUM" Language="en_US">
+			<Text>Kheled-Dûm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHELED_NALA" Language="en_US">
+			<Text>Kheled-Nâla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHELEDKHIZDIN" Language="en_US">
+			<Text>Kheledkhizdín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KIBIL_TARAG" Language="en_US">
+			<Text>Kibil-Tarag</Text>
+		</Row>
+		<!-- END OF DWARVES | DAIN II -->
+		<!-- MORDOR| SAURON -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAURON" Language="en_US">
+			<Text>Sauron was a fallen Maia, the creator of the One Ring, and the most trusted lieutenant of his master Melkor. After Melkor's defeat in the First Age, Sauron became the second Dark Lord and strove to conquer Arda (Middle-earth), creating the Rings of Power for this purpose. In the Second Age, he was defeated in the War of the Last Alliance by the last line of defense: Elves and Men under kings Gil-galad and Elendil.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MORANNON_ORC_NAME" Language="en_US">
+			<Text>Morannon Orcs</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MORANNON_ORC_DESCRIPTION" Language="en_US">
+			<Text>Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_HAI_NAME" Language="en_US">
+			<Text>Uruk Hais</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_HAI_DESCRIPTION" Language="en_US">
+			<Text>Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARG_RIDER_NAME" Language="en_US">
+			<Text>Warg Riders</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARG_RIDER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against damaged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARG_ARCHER_NAME" Language="en_US">
+			<Text>Warg Archers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WARG_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLOG_HAI_NAME" Language="en_US">
+			<Text>Olog-Hai</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLOG_HAI_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee units.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_DUR" Language="en_US">
+			<Text>Barad-Dûr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_MORGUL" Language="en_US">
+			<Text>Minas Morgul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DURTHANG" Language="en_US">
+			<Text>Durthang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORANNON" Language="en_US">
+			<Text>Morannon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOUNT_DOOM" Language="en_US">
+			<Text>Mount Doom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORGOROTH" Language="en_US">
+			<Text>Gorgoroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEREGOST" Language="en_US">
+			<Text>Seregost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CIRITH_UNGOL" Language="en_US">
+			<Text>Cirith Ungol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOL_GULDUR" Language="en_US">
+			<Text>Dol Guldur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTERN_GUARD" Language="en_US">
+			<Text>Eastern Guard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EASTERN_DESOLATION" Language="en_US">
+			<Text>Eastern Desolation</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LITHLAD" Language="en_US">
+			<Text>Lithlad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISENMOUTHE" Language="en_US">
+			<Text>Isenmouthe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARGROTH" Language="en_US">
+			<Text>Nargroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URULURSTSU_NURN" Language="en_US">
+			<Text>Urulurstsu Nurn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURN" Language="en_US">
+			<Text>Núrn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURNIANG_CAMP" Language="en_US">
+			<Text>Núrniag Camp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAGORLAD" Language="en_US">
+			<Text>Dagorlad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_BROWN_LANDS" Language="en_US">
+			<Text>The Brown Lands</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEAD_MARSHES" Language="en_US">
+			<Text>Dead Marshes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UDUN" Language="en_US">
+			<Text>Udun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORODRUIN" Language="en_US">
+			<Text>Orodruin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITHRAM_SPUR" Language="en_US">
+			<Text>Mithram Spur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NINDALF" Language="en_US">
+			<Text>Nindalf</Text>
+		</Row>
+		<!-- END OF MORDOR | SAURON -->
+		<!-- ISENGARD| SARUMAN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SARUMAN" Language="en_US">
+			<Text>Saruman was a Wizard, or Istar, who lived in Middle-earth during the Third Age. Originally, he was the chief of the wizards and of the White Council that opposed Sauron. His extensive studies of dark magic, however, eventually led him to desire the One Ring for himself. Thinking he could ally himself with Sauron and then betray him, Saruman allied Isengard with Mordor in the War of the Ring</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_HAI_PIKEMAN_NAME" Language="en_US">
+			<Text>Uruk-Hai Pikeman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_HAI_PIKEMAN_DESCRIPTION" Language="en_US">
+			<Text>Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_BERSERKER_NAME" Language="en_US">
+			<Text>Uruk-Hai Berserkers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_BERSERKER_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUNLANDER_NAME" Language="en_US">
+			<Text>Dunland</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUNLANDER_DESCRIPTION" Language="en_US">
+			<Text>Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISENGARD" Language="en_US">
+			<Text>Isengard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNLAND" Language="en_US">
+			<Text>Dunland</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARREGLYN" Language="en_US">
+			<Text>Carreglyn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STARKMOOR" Language="en_US">
+			<Text>Starkmoor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNBORG" Language="en_US">
+			<Text>Dunbog</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GALTREV" Language="en_US">
+			<Text>Galtrev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAN_CURUNIR" Language="en_US">
+			<Text>Nan Curunir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PREN_GWYDH" Language="en_US">
+			<Text>Pren Gwydh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BONEVALES" Language="en_US">
+			<Text>Bonevales</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DURGORS" Language="en_US">
+			<Text>Durgors</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LHAN_TARREB" Language="en_US">
+			<Text>Lhan Tarren</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LHANUCH" Language="en_US">
+			<Text>Lhanuch</Text>
+		</Row>
+		<!-- END OF ISENGARD | SARUMAN -->
+		<!-- GOBLIN | GORKIL -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GORKIL" Language="en_US">
+			<Text>Gorkil was a powerful goblin ruler during the Third Age. He and his armies took control of the abandoned outpost in the Ettenmoors in Angmar, formerly owned by the Witch-king of Angmar. Sauron uses Gorkil to control the goblins and serve his will. He also owns and raised a rare, gigantic scorpion. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOBLIN_WARRIOR_NAME" Language="en_US">
+			<Text>Goblin Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOBLIN_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOBLIN_ARCHER_NAME" Language="en_US">
+			<Text>Goblin Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOBLIN_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GUNDABAD_ORC_NAME" Language="en_US">
+			<Text>Gundabad Orcs</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GUNDABAD_ORC_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAVE_TROLL_NAME" Language="en_US">
+			<Text>Cave Trolls</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAVE_TROLL_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee units.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOBLIN_TOWN" Language="en_US">
+			<Text>Goblin-Town</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIGH_PASS" Language="en_US">
+			<Text>High Pass</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOUNT_GRAM" Language="en_US">
+			<Text>Mount Gram</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARN_DUM" Language="en_US">
+			<Text>Carn Dum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ETTENMOORS" Language="en_US">
+			<Text>Ettenmoors</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COLDFELLS" Language="en_US">
+			<Text>Coldfells</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORIA" Language="en_US">
+			<Text>Moria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUNDALOK" Language="en_US">
+			<Text>Gundalok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UGULAI" Language="en_US">
+			<Text>Ugûlai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GARKASH" Language="en_US">
+			<Text>Garkash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URUGARTH" Language="en_US">
+			<Text>Urugarth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALENHAD" Language="en_US">
+			<Text>Malenhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FASACH_FALROLD" Language="en_US">
+			<Text>Fasach Falrold</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DONNVAIL" Language="en_US">
+			<Text>Donnvail</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GATH_ULOR" Language="en_US">
+			<Text>Gath Ulor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHUS" Language="en_US">
+			<Text>Ahûs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RHUDAUR" Language="en_US">
+			<Text>Rhudaur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGHUL" Language="en_US">
+			<Text>Anghul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASHKANDUR" Language="en_US">
+			<Text>Ashkandur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORKAI" Language="en_US">
+			<Text>Morkai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHEDUN" Language="en_US">
+			<Text>Shedun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DURKANDAR" Language="en_US">
+			<Text>Durkandar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUSKA" Language="en_US">
+			<Text>Kuska</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LITASH" Language="en_US">
+			<Text>Litash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAVDA" Language="en_US">
+			<Text>Ravda</Text>
+		</Row>
+		<!-- END OF  GOBLIN | GORKIL -->
+		<!-- HARAD | SULADAN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SULADAN" Language="en_US">
+			<Text>Suladân, also known as the Serpent Lord, lived during the War of the Ring, he led the Desert-Men forces (Haradrim) with merciless precision. He was considered a mysterious being, perhaps even a monster of sorts, by the soldiers of Gondor, a shadow that would strike like an assassin and kill without fault, and even by his own loyal troops.  </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUMAKIL_NAME" Language="en_US">
+			<Text>Mumakils</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUMAKIL_DESCRIPTION" Language="en_US">
+			<Text>-5 [ICON_Strength] Combat Strength for all adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HARADRIM_ARCHER_NAME" Language="en_US">
+			<Text>Haradrim Archers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HARADRIM_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARAD" Language="en_US">
+			<Text>Harad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORB_CHELKAR" Language="en_US">
+			<Text>Korb Chelkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMRUN" Language="en_US">
+			<Text>Amrûn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OUD_ILAZ" Language="en_US">
+			<Text>Oud Ilaz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRITH_ARGON" Language="en_US">
+			<Text>Tirith Argon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOGATH" Language="en_US">
+			<Text>Bogath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GIZAR" Language="en_US">
+			<Text>Gizar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAS_AUCHEL" Language="en_US">
+			<Text>Kas Auchel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUPSHA" Language="en_US">
+			<Text>Kupsha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAL_NARGIL" Language="en_US">
+			<Text>Kal Nargil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEAH" Language="en_US">
+			<Text>Feah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRUK_BOYADLA" Language="en_US">
+			<Text>Kruk Boyadla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARESH" Language="en_US">
+			<Text>Maresh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALAZHAN" Language="en_US">
+			<Text>Talazhan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERSHAWAR" Language="en_US">
+			<Text>Ershawar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENMAHADH" Language="en_US">
+			<Text>Enmahadh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIKARIN_PEH" Language="en_US">
+			<Text>Mikarin Peh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRUK_AZHANIKA" Language="en_US">
+			<Text>Kruk Azhanika</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANKRUZ" Language="en_US">
+			<Text>Ankruz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IENA_PEH" Language="en_US">
+			<Text>Iena Peh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORASK" Language="en_US">
+			<Text>Torask</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOPANZKE" Language="en_US">
+			<Text>Kopanzke</Text>
+		</Row>
+		<!-- END OF  HARAD | SULADAN -->
+		<!-- UMBAR | ANGAMAITE -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ANGAMAITE" Language="en_US">
+			<Text>Angamaitë was a descendant of the rebel Castamir and carried on the traditional hatred against Gondor. In TA 1634, King Minardil was at Pelargir without fear of any attack. Angamaitë and Sangahyando soon learned about this through spies and sacked the city, killing Minardil and seizing great amounts of treasure. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UMBAR" Language="en_US">
+			<Text>Umbar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOBEL_ANCALIMON" Language="en_US">
+			<Text>Gobel Ancalimon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOBEL_MIRLOND" Language="en_US">
+			<Text>Gobel Mirlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AN_SAKAL" Language="en_US">
+			<Text>An Sakal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AN_TARIM" Language="en_US">
+			<Text>An Tarim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAR_MALDUIN" Language="en_US">
+			<Text>Bar Malduin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUSK_HARMAK" Language="en_US">
+			<Text>Ausk Harmak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AN_RUILIN" Language="en_US">
+			<Text>An Ruilin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAMLOND" Language="en_US">
+			<Text>Ramlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_HARN" Language="en_US">
+			<Text>Barad Harn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAS_ADRI" Language="en_US">
+			<Text>Has Adri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAS_FADAY" Language="en_US">
+			<Text>Has Faday</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAS_SABIYA" Language="en_US">
+			<Text>Has Sebiya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAS_YAYB" Language="en_US">
+			<Text>Has Yayb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAS_SHADRA" Language="en_US">
+			<Text>Kas Shadra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KIBA" Language="en_US">
+			<Text>Kiba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUK_ABARRIM" Language="en_US">
+			<Text>Suk Abârrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUK_ODA" Language="en_US">
+			<Text>Suk Oda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THARVEN" Language="en_US">
+			<Text>Tharven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EITHEL_ANGIR" Language="en_US">
+			<Text>Eithel Angir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISIGIR" Language="en_US">
+			<Text>Isigir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALDUR" Language="en_US">
+			<Text>Caldûr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAZON" Language="en_US">
+			<Text>Barazon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAROS" Language="en_US">
+			<Text>Maros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AN_KARAGMIR" Language="en_US">
+			<Text>An Karagmir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PELLARDUR" Language="en_US">
+			<Text>Pellardur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARDUMIR" Language="en_US">
+			<Text>Ardumir</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_LIKE_SURPRISE_WAR" Language="en_US">
+			<Text>Angamaitë likes people who declare surprise wars</Text>
+		</Row>
+		<!-- END OF  UMBAR | ANGAMAITE -->
+		<!-- RHUN | KHAMUL -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KHAMUL" Language="en_US">
+			<Text>Khamûl was one of the nine Ringwraiths, second to the Witch-King, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-King was slain, he became the Lord of Nazgûl for a short period. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HALDERDMAN_NAME" Language="en_US">
+			<Text>Golden Army</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HALDERDMAN_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting against cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KATAPHRAKTS_NAME" Language="en_US">
+			<Text>Kataphrakts</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KATAPHRAKTS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength outside of own borders.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RHUN" Language="en_US">
+			<Text>Rhûn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISTRAND" Language="en_US">
+			<Text>Mistrand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERMANAREIKSBAURG" Language="en_US">
+			<Text>Ermanareiksbaurg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PAIDAREIKSBAURG" Language="en_US">
+			<Text>Paidareiksbaurg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHURVASAGH" Language="en_US">
+			<Text>Khurvasagh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOKERDO" Language="en_US">
+			<Text>Fokerdo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEST" Language="en_US">
+			<Text>Lest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRAVOD" Language="en_US">
+			<Text>Kravod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSET_HABAOR" Language="en_US">
+			<Text>Tset-Habaor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VAARFEST" Language="en_US">
+			<Text>Vaarfest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAGATHAVULD" Language="en_US">
+			<Text>Sagathavuld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URGATHAVULD" Language="en_US">
+			<Text>Urgathavuld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOGATHAVULD" Language="en_US">
+			<Text>Logathavuld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAZAR_IBAR" Language="en_US">
+			<Text>Gazar Ibar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAZAR_BARAK" Language="en_US">
+			<Text>Gazar Barak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAZAR_NARKAD" Language="en_US">
+			<Text>Gazar Narkad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAZAR_GORD" Language="en_US">
+			<Text>Gazar Gord</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAZAR_UTAL" Language="en_US">
+			<Text>Gazar Utal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GATHOD" Language="en_US">
+			<Text>Gathod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CIRANTHIR" Language="en_US">
+			<Text>Ciranthir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASHKIRIR" Language="en_US">
+			<Text>Ashkirir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASDRIAG_CAMP" Language="en_US">
+			<Text>Asdriag Camp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ODHRIAGS_CAMP" Language="en_US">
+			<Text>Odhriags Camp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRYGATH_CAMP" Language="en_US">
+			<Text>Brygath Camp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORATH_CAMP" Language="en_US">
+			<Text>Lorath Camp</Text>
+		</Row>
+		<!-- END OF  RHUN | KHAMUL -->
+		<!-- KHAND | KIONID -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KIONID" Language="en_US">
+			<Text>Kîonid II and his twin Mîonid were princes of the tribes of northern Khand who were as well offspring of the Wainriders as they were of the Variags.In the War of the Ring the brothers united their realm with Sauron´s great eastern Army.  </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAGS_NAME" Language="en_US">
+			<Text>Variags</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAGS_DESCRIPTION" Language="en_US">
+			<Text>Yields 60% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_NAME" Language="en_US">
+			<Text>Variags Mounted Archers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAG_CHARIOT_NAME" Language="en_US">
+			<Text>Variag Chariot</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARIAG_CHARIOT_DESCRIPTION" Language="en_US">
+			<Text>This unit heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UBESESH" Language="en_US">
+			<Text>Ûbesêsh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAORKI" Language="en_US">
+			<Text>Lâorkí</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STURLURTSA_KHAND" Language="en_US">
+			<Text>Sturlurtsa Khand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKHARN" Language="en_US">
+			<Text>Akhârn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALAG_ROKHBIN" Language="en_US">
+			<Text>Alag Rôkhbin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALAGOTH" Language="en_US">
+			<Text>Alagoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMMU" Language="en_US">
+			<Text>Ammû</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KYZILKUM" Language="en_US">
+			<Text>Kyzilkum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHA_HAE" Language="en_US">
+			<Text>Kha'hae</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LHUG" Language="en_US">
+			<Text>Lhûg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MULDIN" Language="en_US">
+			<Text>Mûldin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAURIMLOTH" Language="en_US">
+			<Text>Naurimloth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PARKHEREB" Language="en_US">
+			<Text>Parkhereb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PASHAR" Language="en_US">
+			<Text>Pashâr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUBI_KHAND" Language="en_US">
+			<Text>Subi-khand</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEBURKHA" Language="en_US">
+			<Text>Nebûrkha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NENNURAD" Language="en_US">
+			<Text>Nennûrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OLBAMARL" Language="en_US">
+			<Text>Ôlbamarl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HLASTUON" Language="en_US">
+			<Text>Hlastûon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HRON_TUMRAKHI" Language="en_US">
+			<Text>Hrôn Tûmrakhi</Text>
+		</Row>
+		<!-- END OF KHAND | KIONID -->
+		<!-- ANGMAR | WITCH KING -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_WITCH_KING" Language="en_US">
+			<Text>The Witch-king of Angmar was the leader of the Nazgûl or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Númenórean king of men, he was corrupted by one of the nine Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. After the first defeat of Sauron in the War of the Last Alliance, the Witch-king fled to Angmar, a kingdom he ruled for over thousands of years until he returned to Mordor to lead Sauron's armies in the War of the Ring.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HILL_TROLL_NAME" Language="en_US">
+			<Text>Hill Trolls</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HILL_TROLL_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength when fighting in Hills</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNOW_TROLL_NAME" Language="en_US">
+			<Text>Snow Trolls</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNOW_TROLL_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength when fighting in Tundra and Snow.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RHUDAUR_SPEARMEN_NAME" Language="en_US">
+			<Text>Rhudaur Men</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RHUDAUR_SPEARMEN_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength when fighting in Hills.</Text>
+		</Row>
+		<Row Tag="LOC_MYLOTR_BONUS_CONQUER_CONTINENT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARGASH" Language="en_US">
+			<Text>Cargash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGSUL" Language="en_US">
+			<Text>Angsûl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RYND_MORVA_TARTH" Language="en_US">
+			<Text>Rynd Morva Tarth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GATH_FORTHNIR" Language="en_US">
+			<Text>Gath Forthnír</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_AGAR" Language="en_US">
+			<Text>Minas Agar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_ANGOS" Language="en_US">
+			<Text>Minas Angos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_CAUL" Language="en_US">
+			<Text>Minas Caul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_DELOTH" Language="en_US">
+			<Text>Minas Deloth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_DHEM" Language="en_US">
+			<Text>Minas Dhem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_MAUR" Language="en_US">
+			<Text>Minas Maur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_NIR" Language="en_US">
+			<Text>Minas Nir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_GULARAN" Language="en_US">
+			<Text>Minas Gularan</Text>
+		</Row>
+		<!-- END OF ANGMAR | WITCH KING -->
+		<!-- ARNOR | ELENDIL -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELENDIL" Language="en_US">
+			<Text>Elendil was the father of Isildur and Anárion, and the first High King of Gondor and Arnor and first King of all the Dúnedain. He was known as a great warrior, a wise king, and a heroic figure among the Dúnedain, who loved every man, woman and child of Arnor and Gondor, and was loved by them in return. He was killed by Sauron during the War of the Last Alliance. He was known as the greatest warrior of all the Dúnedain. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUNEDAIN_RANGERS_NAME" Language="en_US">
+			<Text>Dunedain Rangers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUNEDAIN_RANGERS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNUMINAS" Language="en_US">
+			<Text>Annúminas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORNOST" Language="en_US">
+			<Text>Fornost</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOND_DAER" Language="en_US">
+			<Text>Lond Daer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THARBAD" Language="en_US">
+			<Text>Tharbad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMON_SUL" Language="en_US">
+			<Text>Amon Sûl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METRAITH" Language="en_US">
+			<Text>Metraith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANNON_BARAN" Language="en_US">
+			<Text>Annon Baran</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAMETH_BRIN" Language="en_US">
+			<Text>Cameth Brin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARADHRAS" Language="en_US">
+			<Text>Aradhras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THALION" Language="en_US">
+			<Text>Thalion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGLOR" Language="en_US">
+			<Text>Anglor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FENNAS_DRUNIN" Language="en_US">
+			<Text>Fennas Drúnin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAR_TARMEARON" Language="en_US">
+			<Text>Mar Tarmëaron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_MALLOTH" Language="en_US">
+			<Text>Minas Malloth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THARCHEL" Language="en_US">
+			<Text>Tharchel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_ELDANARYON" Language="en_US">
+			<Text>Minas Eldanaryon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENEROND" Language="en_US">
+			<Text>Enerond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAEGOTH" Language="en_US">
+			<Text>Maegoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINAS_GIRITHLIN" Language="en_US">
+			<Text>Minas Girithlin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GANDERCH" Language="en_US">
+			<Text>Ganderch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELEGNEL" Language="en_US">
+			<Text>Helegnel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORCHELOR" Language="en_US">
+			<Text>Orchelor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORONDIR" Language="en_US">
+			<Text>Forondir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_GORTHAD" Language="en_US">
+			<Text>Ost Gorthad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OST_LADEN" Language="en_US">
+			<Text>Ost Laden</Text>
+		</Row>
+		<!-- END OF ARNOR | ELENDIL -->
+		<!-- ELDAR | CIRDAN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CIRDAN" Language="en_US">
+			<Text>Círdan was the lord of the Falas and then of the Balar during much of the First Age, one of the wisest and perhaps the mightiest of the Moriquendi. He was the bearer of the Great Ring Narya, which he in turn gave to Gandalf. He is one of the three oldest living elves in Middle-earth at the end of the Third Age, along with Galadriel and Celeborn, who were all born during the Years of the Trees. At the end of the Third Age, there were no other elves who had been alive at the start of the First Age.Círdan would sail on the last ship into the West, as he is the Lord of the Grey Havens.</Text>
+		</Row>
+		<!-- END OF ELDAR | CIRDAN -->
+		<!-- GOBLIN | AZOG	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AZOG" Language="en_US">
+			<Text>Azog, known also as the Defiler and the Pale Orc, was an orc who lived in the Third Age. He commanded the tribes of Moria from TA 2790 until his death in TA 2799. He was responsible for the death of King Thror and for King Thrain's madness. </Text>
+		</Row>
+		<!-- END OF GOBLIN | AZOG -->
+		<!-- City States-->
+		<!-- Bree-->
+		<Row Tag="LOC_MINOR_CIV_BREE_TRAIT_NAME" Language="en_US">
+			<Text>Bree</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BREE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Production] Production to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_BREE_NAME" Language="en_US">
+			<Text>Bree</Text>
+		</Row>
+		<Row Tag="LOC_BREE_DESCRIPTION" Language="en_US">
+			<Text>Village of Bree</Text>
+		</Row>
+		<Row Tag="LOC_BREE_ADJECTIVE" Language="en_US">
+			<Text>Bree</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BREE" Language="en_US">
+			<Text>Bree</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STADDLE" Language="en_US">
+			<Text>Staddle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COMBE" Language="en_US">
+			<Text>Combe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARCHET" Language="en_US">
+			<Text>Archet</Text>
+		</Row>
+		<!-- Dale-->
+		<Row Tag="LOC_MINOR_CIV_DALE_TRAIT_NAME" Language="en_US">
+			<Text>Dale</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DALE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. </Text>
+		</Row>
+		<Row Tag="LOC_DALE_NAME" Language="en_US">
+			<Text>Dale</Text>
+		</Row>
+		<Row Tag="LOC_DALE_DESCRIPTION" Language="en_US">
+			<Text>City State of Dale</Text>
+		</Row>
+		<Row Tag="LOC_DALE_ADJECTIVE" Language="en_US">
+			<Text>Dale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DALE" Language="en_US">
+			<Text>Dale</Text>
+		</Row>
+		<!-- Esgaroth-->
+		<Row Tag="LOC_MINOR_CIV_ESGAROTH_TRAIT_NAME" Language="en_US">
+			<Text>Esgaroth</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ESGAROTH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a River. </Text>
+		</Row>
+		<Row Tag="LOC_ESGAROTH_NAME" Language="en_US">
+			<Text>Esgaroth</Text>
+		</Row>
+		<Row Tag="LOC_ESGAROTH_DESCRIPTION" Language="en_US">
+			<Text>City State of Esgaroth</Text>
+		</Row>
+		<Row Tag="LOC_ESGAROTH_ADJECTIVE" Language="en_US">
+			<Text>Esgaroth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESGAROTH" Language="en_US">
+			<Text>Esgaroth</Text>
+		</Row>
+		<!-- Dorwinion-->
+		<Row Tag="LOC_MINOR_CIV_DORWINION_TRAIT_NAME" Language="en_US">
+			<Text>Dorwinion</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DORWINION_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_RESOURCE_WINE] Wine. +1 [ICON_Food] Food from [ICON_RESOURCE_WINE] Wine, [ICON_RESOURCE_INCENSE] Incense, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_TOBACCO] Tobacco, [ICON_RESOURCE_COFFEE] Coffee, and [ICON_RESOURCE_TEA] Tea Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_DORWINION_NAME" Language="en_US">
+			<Text>Dorwinion</Text>
+		</Row>
+		<Row Tag="LOC_DORWINION_DESCRIPTION" Language="en_US">
+			<Text>City State of Dorwinion</Text>
+		</Row>
+		<Row Tag="LOC_DORWINION_ADJECTIVE" Language="en_US">
+			<Text>Dorwinion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORWINION" Language="en_US">
+			<Text>Dorwinion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZRELKAIN" Language="en_US">
+			<Text>Szrel-Kain</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIAVOD" Language="en_US">
+			<Text>Riavod</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULDONAVAN" Language="en_US">
+			<Text>Uldonavan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ILANIN" Language="en_US">
+			<Text>Ilanin</Text>
+		</Row>
+		<!-- Hobbiton-->
+		<Row Tag="LOC_MINOR_CIV_HOBBITON_TRAIT_NAME" Language="en_US">
+			<Text>Hobbiton</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HOBBITON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_RESOURCE_TOBACCO] Tobacco. +1 [ICON_Gold] Gold to all [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_HOBBITON_NAME" Language="en_US">
+			<Text>Hobbiton</Text>
+		</Row>
+		<Row Tag="LOC_HOBBITON_DESCRIPTION" Language="en_US">
+			<Text>Village of Hobbiton</Text>
+		</Row>
+		<Row Tag="LOC_HOBBITON_ADJECTIVE" Language="en_US">
+			<Text>Hobbiton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOBBITON" Language="en_US">
+			<Text>Hobbiton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BYWATER" Language="en_US">
+			<Text>Bywater</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FROGMORTON" Language="en_US">
+			<Text>Frogmorton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUCKBOROUGH" Language="en_US">
+			<Text>Tuckborough</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STOCK" Language="en_US">
+			<Text>Stock</Text>
+		</Row>
+		<!-- Michel Delving-->
+		<Row Tag="LOC_MINOR_CIV_MICHEL_DELVING_TRAIT_NAME" Language="en_US">
+			<Text>Michel Delving</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MICHEL_DELVING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All cities recibe +2 Amentities.</Text>
+		</Row>
+		<Row Tag="LOC_MICHEL_DELVING_NAME" Language="en_US">
+			<Text>Michel Delving</Text>
+		</Row>
+		<Row Tag="LOC_MICHEL_DELVING_DESCRIPTION" Language="en_US">
+			<Text>Town of Michel Delving</Text>
+		</Row>
+		<Row Tag="LOC_MICHEL_DELVING_ADJECTIVE" Language="en_US">
+			<Text>Michel Delving</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MICHEL_DELVING" Language="en_US">
+			<Text>Michel Delving</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SACKVILLE" Language="en_US">
+			<Text>Sackville</Text>
+		</Row>
+		<!-- Woodmentown-->
+		<Row Tag="LOC_MINOR_CIV_WOODMENTOWN_TRAIT_NAME" Language="en_US">
+			<Text>Woodmentown</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_WOODMENTOWN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Lumbermills gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_WOODMENTOWN_NAME" Language="en_US">
+			<Text>Woodmentown</Text>
+		</Row>
+		<Row Tag="LOC_WOODMENTOWN_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Woodmentown</Text>
+		</Row>
+		<Row Tag="LOC_WOODMENTOWN_ADJECTIVE" Language="en_US">
+			<Text>Woodmentown</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOODMENTOWN" Language="en_US">
+			<Text>Woodmentown</Text>
+		</Row>
+		<!-- Beorning-->
+		<Row Tag="LOC_MINOR_CIV_BEORNING_TRAIT_NAME" Language="en_US">
+			<Text>Beorning</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BEORNING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Campus gains +1 [ICON_Science] Science for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_BEORNING_NAME" Language="en_US">
+			<Text>Beorning</Text>
+		</Row>
+		<Row Tag="LOC_BEORNING_DESCRIPTION" Language="en_US">
+			<Text>Village of Beornings</Text>
+		</Row>
+		<Row Tag="LOC_BEORNING_ADJECTIVE" Language="en_US">
+			<Text>Beorning</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BEORNING" Language="en_US">
+			<Text>Beorning</Text>
+		</Row>
+		<!-- Nurunkhizdin-->
+		<Row Tag="LOC_MINOR_CIV_NURUNKHIZDIN_TRAIT_NAME" Language="en_US">
+			<Text>Nurunkhizdin</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NURUNKHIZDIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All melee unit gain +5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<Row Tag="LOC_NURUNKHIZDIN_NAME" Language="en_US">
+			<Text>Nurunkhizdin</Text>
+		</Row>
+		<Row Tag="LOC_NURUNKHIZDIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Nurunkhizdin</Text>
+		</Row>
+		<Row Tag="LOC_NURUNKHIZDIN_ADJECTIVE" Language="en_US">
+			<Text>Nurunkhizdin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURUNKHIZDIN" Language="en_US">
+			<Text>Nurunkhizdin</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_NAME" Language="en_US">
+			<Text>Ironfist Clan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<!-- Forochel-->
+		<Row Tag="LOC_MINOR_CIV_FOROCHEL_TRAIT_NAME" Language="en_US">
+			<Text>Forochel</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FOROCHEL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains +1 [ICON_Gold] Gold for adjacency to Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_FOROCHEL_NAME" Language="en_US">
+			<Text>Forochel</Text>
+		</Row>
+		<Row Tag="LOC_FOROCHEL_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Forochel</Text>
+		</Row>
+		<Row Tag="LOC_FOROCHEL_ADJECTIVE" Language="en_US">
+			<Text>Forochel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOROCHEL" Language="en_US">
+			<Text>Forochel</Text>
+		</Row>
+		<!-- Dol Amroth-->
+		<Row Tag="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_NAME" Language="en_US">
+			<Text>Dol Amroth</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All land unit gain +4[ICON_Strength] Combat Strength when fighting next to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_DOL_AMROTH_NAME" Language="en_US">
+			<Text>Dol Amroth</Text>
+		</Row>
+		<Row Tag="LOC_DOL_AMROTH_DESCRIPTION" Language="en_US">
+			<Text>Principality of Dol Amroth</Text>
+		</Row>
+		<Row Tag="LOC_DOL_AMROTH_ADJECTIVE" Language="en_US">
+			<Text>Dol Amroth</Text>
+		</Row>
+		<!-- Nurn-->
+		<Row Tag="LOC_MINOR_CIV_NURN_TRAIT_NAME" Language="en_US">
+			<Text>Nurn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NURN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+30% Production toward Builders and newly trained Builders gain +1 actions</Text>
+		</Row>
+		<Row Tag="LOC_NURN_NAME" Language="en_US">
+			<Text>Nurn</Text>
+		</Row>
+		<Row Tag="LOC_NURN_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Nurn</Text>
+		</Row>
+		<Row Tag="LOC_NURN_ADJECTIVE" Language="en_US">
+			<Text>Nurn</Text>
+		</Row>
+		<!-- Dunland-->
+		<Row Tag="LOC_MINOR_CIV_DUNLAND_TRAIT_NAME" Language="en_US">
+			<Text>Dunland</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DUNLAND_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+20% Production toward Anticavalry units from all the eras since the Classical Era.</Text>
+		</Row>
+		<Row Tag="LOC_DUNLAND_NAME" Language="en_US">
+			<Text>Dunland</Text>
+		</Row>
+		<Row Tag="LOC_DUNLAND_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Dunland</Text>
+		</Row>
+		<Row Tag="LOC_DUNLAND_ADJECTIVE" Language="en_US">
+			<Text>Dunland</Text>
+		</Row>
+		<!-- Rhudaur-->
+		<Row Tag="LOC_MINOR_CIV_RHUDAUR_TRAIT_NAME" Language="en_US">
+			<Text>Rhudaur</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RHUDAUR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+20% Production toward Ranged units from all the eras since the Classical Era.</Text>
+		</Row>
+		<Row Tag="LOC_RHUDAUR_NAME" Language="en_US">
+			<Text>Rhudaur</Text>
+		</Row>
+		<Row Tag="LOC_RHUDAUR_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Rhudaur</Text>
+		</Row>
+		<Row Tag="LOC_RHUDAUR_ADJECTIVE" Language="en_US">
+			<Text>Rhudaur</Text>
+		</Row>
+		<!-- Enedwaith-->
+		<Row Tag="LOC_MINOR_CIV_ENEDWAITH_TRAIT_NAME" Language="en_US">
+			<Text>Enedwaith</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ENEDWAITH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_ENEDWAITH_NAME" Language="en_US">
+			<Text>Enedwaith</Text>
+		</Row>
+		<Row Tag="LOC_ENEDWAITH_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Enedwaith</Text>
+		</Row>
+		<Row Tag="LOC_ENEDWAITH_ADJECTIVE" Language="en_US">
+			<Text>Enedwaith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENEDWAITH" Language="en_US">
+			<Text>Enedwaith</Text>
+		</Row>
+		<!-- Minhiriath-->
+		<Row Tag="LOC_MINOR_CIV_MINHIRIATH_TRAIT_NAME" Language="en_US">
+			<Text>Minhiriath</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MINHIRIATH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All camps gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_MINHIRIATH_NAME" Language="en_US">
+			<Text>Minhiriath</Text>
+		</Row>
+		<Row Tag="LOC_MINHIRIATH_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Minhiriath</Text>
+		</Row>
+		<Row Tag="LOC_MINHIRIATH_ADJECTIVE" Language="en_US">
+			<Text>Minhiriath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MINHIRIATH" Language="en_US">
+			<Text>Minhiriath</Text>
+		</Row>
+		<!-- Drúadan-->
+		<Row Tag="LOC_MINOR_CIV_DRUADAN_TRAIT_NAME" Language="en_US">
+			<Text>Drúadan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DRUADAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_DRUADAN_NAME" Language="en_US">
+			<Text>Drúadan</Text>
+		</Row>
+		<Row Tag="LOC_DRUADAN_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Drúadan</Text>
+		</Row>
+		<Row Tag="LOC_DRUADAN_ADJECTIVE" Language="en_US">
+			<Text>Drúadan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRUADAN" Language="en_US">
+			<Text>Drúadan</Text>
+		</Row>
+		<!-- Drúwaith Iaur-->
+		<Row Tag="LOC_MINOR_CIV_DRUWAITH_IAUR_TRAIT_NAME" Language="en_US">
+			<Text>Drúwaith Iaur</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DRUWAITH_IAUR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +2 [ICON_Faith] Faith for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_DRUWAITH_IAUR_NAME" Language="en_US">
+			<Text>Drúwaith Iaur</Text>
+		</Row>
+		<Row Tag="LOC_DRUWAITH_IAUR_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Drúwaith Iaur</Text>
+		</Row>
+		<Row Tag="LOC_DRUWAITH_IAUR_ADJECTIVE" Language="en_US">
+			<Text>Drúwaith Iaur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRUWAITH_IAUR" Language="en_US">
+			<Text>Drúwaith Iaur</Text>
+		</Row>
+		<!-- Ehwathrumavuld-->
+		<Row Tag="LOC_MINOR_CIV_EHWATHRUMAVULD_TRAIT_NAME" Language="en_US">
+			<Text>Ehwathrumavuld</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EHWATHRUMAVULD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Pastures gain +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_EHWATHRUMAVULD_NAME" Language="en_US">
+			<Text>Ehwathrumavuld</Text>
+		</Row>
+		<Row Tag="LOC_EHWATHRUMAVULD_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Ehwathrumavuld</Text>
+		</Row>
+		<Row Tag="LOC_EHWATHRUMAVULD_ADJECTIVE" Language="en_US">
+			<Text>Ehwathrumavuld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EHWATHRUMAVULD" Language="en_US">
+			<Text>Ehwathrumavuld</Text>
+		</Row>
+		<!-- Ered Luin-->
+		<Row Tag="LOC_MINOR_CIV_ERED_LUIN_TRAIT_NAME" Language="en_US">
+			<Text>Ered Luin</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ERED_LUIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. </Text>
+		</Row>
+		<Row Tag="LOC_ERED_LUIN_NAME" Language="en_US">
+			<Text>Ered Luin</Text>
+		</Row>
+		<Row Tag="LOC_ERED_LUIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Ered Luin</Text>
+		</Row>
+		<Row Tag="LOC_ERED_LUIN_ADJECTIVE" Language="en_US">
+			<Text>Ered Luin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERED_LUIN" Language="en_US">
+			<Text>Ered Luin</Text>
+		</Row>
+		<!-- Dol Guldur-->
+		<Row Tag="LOC_MINOR_CIV_DOL_GULDUR_TRAIT_NAME" Language="en_US">
+			<Text>Dol Guldur</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DOL_GULDUR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Fe for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_DOL_GULDUR_NAME" Language="en_US">
+			<Text>Dol Guldur</Text>
+		</Row>
+		<Row Tag="LOC_DOL_GULDUR_DESCRIPTION" Language="en_US">
+			<Text>Stronghold of Dol Guldur</Text>
+		</Row>
+		<Row Tag="LOC_DOL_GULDUR_ADJECTIVE" Language="en_US">
+			<Text>Dol Guldur</Text>
+		</Row>
+		<!-- Balchoth-->
+		<Row Tag="LOC_MINOR_CIV_BALCHOTH_TRAIT_NAME" Language="en_US">
+			<Text>Balchoth</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BALCHOTH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_RESOURCE_HORSES] Horses and [ICON_RESOURCE_SHEEP] Sheep.</Text>
+		</Row>
+		<Row Tag="LOC_BALCHOTH_NAME" Language="en_US">
+			<Text>Balchoth</Text>
+		</Row>
+		<Row Tag="LOC_BALCHOTH_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Balchoth</Text>
+		</Row>
+		<Row Tag="LOC_BALCHOTH_ADJECTIVE" Language="en_US">
+			<Text>Balchoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BALCHOTH" Language="en_US">
+			<Text>Balchoth</Text>
+		</Row>
+		<!-- Variags-->
+		<Row Tag="LOC_MINOR_CIV_VARIAGS_TRAIT_NAME" Language="en_US">
+			<Text>Variags</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_VARIAGS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
+		</Row>
+		<Row Tag="LOC_VARIAGS_NAME" Language="en_US">
+			<Text>Variags</Text>
+		</Row>
+		<Row Tag="LOC_VARIAGS_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Variags</Text>
+		</Row>
+		<Row Tag="LOC_VARIAGS_ADJECTIVE" Language="en_US">
+			<Text>Variags</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VARIAGS" Language="en_US">
+			<Text>Variags</Text>
+		</Row>
+		<!-- Stiffbeards-->
+		<Row Tag="LOC_MINOR_CIV_STIFFBEARDS_TRAIT_NAME" Language="en_US">
+			<Text>Stiffbeards</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_STIFFBEARDS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone gains +1 [ICON_Production] Production for adjacency to Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_STIFFBEARDS_NAME" Language="en_US">
+			<Text>Stiffbeards</Text>
+		</Row>
+		<Row Tag="LOC_STIFFBEARDS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Stiffbeards</Text>
+		</Row>
+		<Row Tag="LOC_STIFFBEARDS_ADJECTIVE" Language="en_US">
+			<Text>Stiffbeards</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_TUNDRA_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for adjacency to Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STIFFBEARDS" Language="en_US">
+			<Text>Stiffbeards</Text>
+		</Row>
+		<!-- Iron Fists-->
+		<Row Tag="LOC_MINOR_CIV_IRONFISTS_TRAIT_NAME" Language="en_US">
+			<Text>Iron Fists</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_IRONFISTS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_IRONFISTS_NAME" Language="en_US">
+			<Text>Iron Fists</Text>
+		</Row>
+		<Row Tag="LOC_IRONFISTS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Iron Fists</Text>
+		</Row>
+		<Row Tag="LOC_IRONFISTS_ADJECTIVE" Language="en_US">
+			<Text>Iron Fists</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRONFISTS" Language="en_US">
+			<Text>Iron Fists</Text>
+		</Row>
+		<!-- Sagath-->
+		<Row Tag="LOC_MINOR_CIV_SAGATH_TRAIT_NAME" Language="en_US">
+			<Text>Sagath</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SAGATH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_SAGATH_NAME" Language="en_US">
+			<Text>Sagath</Text>
+		</Row>
+		<Row Tag="LOC_SAGATH_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Sagath</Text>
+		</Row>
+		<Row Tag="LOC_SAGATH_ADJECTIVE" Language="en_US">
+			<Text>Sagath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAGATH" Language="en_US">
+			<Text>Sagath</Text>
+		</Row>
+		<!-- Haruzan-->
+		<Row Tag="LOC_MINOR_CIV_HARUZAN_TRAIT_NAME" Language="en_US">
+			<Text>Haruzan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HARUZAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Culture] Culture to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_HARUZAN_NAME" Language="en_US">
+			<Text>Haruzan</Text>
+		</Row>
+		<Row Tag="LOC_HARUZAN_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Haruzan</Text>
+		</Row>
+		<Row Tag="LOC_HARUZAN_ADJECTIVE" Language="en_US">
+			<Text>Haruzan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARUZAN" Language="en_US">
+			<Text>Haruzan</Text>
+		</Row>
+		<!-- Chelkar-->
+		<Row Tag="LOC_MINOR_CIV_CHELKAR_TRAIT_NAME" Language="en_US">
+			<Text>Chelkar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CHELKAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Production [ICON_Production].</Text>
+		</Row>
+		<Row Tag="LOC_CHELKAR_NAME" Language="en_US">
+			<Text>Chelkar</Text>
+		</Row>
+		<Row Tag="LOC_CHELKAR_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Chelkar</Text>
+		</Row>
+		<Row Tag="LOC_CHELKAR_ADJECTIVE" Language="en_US">
+			<Text>Chelkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHELKAR" Language="en_US">
+			<Text>Chelkar</Text>
+		</Row>
+		<!-- Pezarsan-->
+		<Row Tag="LOC_MINOR_CIV_PEZARSAN_TRAIT_NAME" Language="en_US">
+			<Text>Pezarsan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_PEZARSAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_PEZARSAN_NAME" Language="en_US">
+			<Text>Pezarsan</Text>
+		</Row>
+		<Row Tag="LOC_PEZARSAN_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Pezarsan</Text>
+		</Row>
+		<Row Tag="LOC_PEZARSAN_ADJECTIVE" Language="en_US">
+			<Text>Pezarsan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEZARSAN" Language="en_US">
+			<Text>Pezarsan</Text>
+		</Row>
+		<!-- Chey Sart-->
+		<Row Tag="LOC_MINOR_CIV_CHEY_SART_TRAIT_NAME" Language="en_US">
+			<Text>Chey Sart</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CHEY_SART_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Faith [ICON_Faith].</Text>
+		</Row>
+		<Row Tag="LOC_CHEY_SART_NAME" Language="en_US">
+			<Text>Chey Sart</Text>
+		</Row>
+		<Row Tag="LOC_CHEY_SART_DESCRIPTION" Language="en_US">
+			<Text>Chiefdom of Chey Sart</Text>
+		</Row>
+		<Row Tag="LOC_CHEY_SART_ADJECTIVE" Language="en_US">
+			<Text>Chey Sart</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHEY_SART" Language="en_US">
+			<Text>Chey Sart</Text>
+		</Row>
+		<!-- Moria-->
+		<Row Tag="LOC_MINOR_CIV_MORIA_TRAIT_NAME" Language="en_US">
+			<Text>Moria</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MORIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_MORIA_NAME" Language="en_US">
+			<Text>Moria</Text>
+		</Row>
+		<Row Tag="LOC_MORIA_DESCRIPTION" Language="en_US">
+			<Text>Mines of Moria</Text>
+		</Row>
+		<Row Tag="LOC_MORIA_ADJECTIVE" Language="en_US">
+			<Text>Moria</Text>
+		</Row>
+		<!-- End of City States-->
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_AULE" Language="en_US">
+			<Text>Aulë</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_IRMO" Language="en_US">
+			<Text>Irmo</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_YAVANNA" Language="en_US">
+			<Text>Yavanna</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ELBERETH" Language="en_US">
+			<Text>Elbereth</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_OROME" Language="en_US">
+			<Text>Oromë</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ERU_ILUVATAR" Language="en_US">
+			<Text>Eru Ilúvatar</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MORGOTH" Language="en_US">
+			<Text>Morgoth</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MELKOR" Language="en_US">
+			<Text>Melkor</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_UNGOLIANT" Language="en_US">
+			<Text>Ungoliant</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ULMO" Language="en_US">
+			<Text>Ulmo</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_UINEN" Language="en_US">
+			<Text>Uinen</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_OSSE" Language="en_US">
+			<Text>Ossë</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MANWE" Language="en_US">
+			<Text>Manwë</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MELIAN" Language="en_US">
+			<Text>Melian</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SARUMAN" Language="en_US">
+			<Text>Saruman</Text>
+		</Row>
+		<!-- End of Religions-->
+		<!--Continents-->
+		<Row Tag="LOC_CONTINENT_LOTR_ERIADOR_DESCRIPTION" Language="en_US">
+			<Text>Eriador</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_RHOVANION_DESCRIPTION" Language="en_US">
+			<Text>Rhovanion</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_MORDOR_DESCRIPTION" Language="en_US">
+			<Text>Mordor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_GONDOR_DESCRIPTION" Language="en_US">
+			<Text>Gondor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_RHUN_DESCRIPTION" Language="en_US">
+			<Text>Rhûn</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_KHAND_DESCRIPTION" Language="en_US">
+			<Text>Khand</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_HARAD_DESCRIPTION" Language="en_US">
+			<Text>Harad</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_FORODWAITH_DESCRIPTION" Language="en_US">
+			<Text>Forodwaith</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_AMAN_DESCRIPTION" Language="en_US">
+			<Text>Aman</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_NORTH_BELERIAND_DESCRIPTION" Language="en_US">
+			<Text>North Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_EAST_BELERIAND_DESCRIPTION" Language="en_US">
+			<Text>East Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_WEST_BELERIAND_DESCRIPTION" Language="en_US">
+			<Text>West Beleriand</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_NUMENOR_DESCRIPTION" Language="en_US">
+			<Text>Numenor</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LOTR_HELCARAXE_DESCRIPTION" Language="en_US">
+			<Text>Helcaraxë</Text>
+		</Row>
+		<!--End Continents-->
+		<!-- Extra Units-->
+		<Row Tag="LOC_ABILITY_GONDOR_LONGBOWMAN_NAME" Language="en_US">
+			<Text>Gondor Longbowman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GONDOR_LONGBOWMAN_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength when in a district or fort.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAZGUL_NAME" Language="en_US">
+			<Text>Nazgul</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAZGUL_DESCRIPTION" Language="en_US">
+			<Text>2x flanking bonus.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGED_NAZGUL_NAME" Language="en_US">
+			<Text>Winged Nazgul</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGED_NAZGUL_DESCRIPTION" Language="en_US">
+			<Text>-5 to adjacent enemies.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORC_SPEARMAN_NAME" Language="en_US">
+			<Text>Orc Spearmen</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORC_SPEARMAN_DESCRIPTION" Language="en_US">
+			<Text>Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORC_ARCHER_NAME" Language="en_US">
+			<Text>Orc Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORC_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Less attack than normal but +1 additional attack if unit has not moved.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MORGUL_CAVALRY_NAME" Language="en_US">
+			<Text>Morgul Knight</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MORGUL_CAVALRY_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength against damaged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARF_AXE_THROWER_NAME" Language="en_US">
+			<Text>Dwarf Axe Thrower</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARF_AXE_THROWER_DESCRIPTION" Language="en_US">
+			<Text>+10 Combat Strength when defending vs. melee class units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARF_BATTLEWAGON_NAME" Language="en_US">
+			<Text>Dwarf Battlewagon</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DWARF_BATTLEWAGON_DESCRIPTION" Language="en_US">
+			<Text>Can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_CROSSBOWMAN_NAME" Language="en_US">
+			<Text>Uruk Crossbowman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_URUK_CROSSBOWMAN_DESCRIPTION" Language="en_US">
+			<Text>+7 Combat Strength vs. units in districts</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LOKE_NAR_ARCHER_NAME" Language="en_US">
+			<Text>Lôke-Nar Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LOKE_NAR_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Adjacent units of a different class get +10 Combat Strength vs. cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SILVAN_WARRIOR_NAME" Language="en_US">
+			<Text>Silvan Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SILVAN_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>+7 Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELNAITH_NAME" Language="en_US">
+			<Text>Elnaith</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELNAITH_DESCRIPTION" Language="en_US">
+			<Text>+10 combat bonus vs. melee units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELDAR_CAVALRY_NAME" Language="en_US">
+			<Text>Eldar Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELDAR_CAVALRY_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength when attacking ranged and siege units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_ARCHER_NAME" Language="en_US">
+			<Text>Noldor Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>+10 Combat Strength when defending vs. melee class units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_SPEARMAN_NAME" Language="en_US">
+			<Text>Noldor Spearman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NOLDOR_SPEARMAN_DESCRIPTION" Language="en_US">
+			<Text>+7 combat bonus when defending.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TELERI_WARRIOR_NAME" Language="en_US">
+			<Text>Teleri Warrior</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TELERI_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>+7 defense vs. ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LAIQUENDI_ARCHER_NAME" Language="en_US">
+			<Text>Laiquendi Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LAIQUENDI_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>+7 Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VANYAR_SPEARMAN_NAME" Language="en_US">
+			<Text>Vanyar Spearman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VANYAR_SPEARMAN_DESCRIPTION" Language="en_US">
+			<Text>+7 when attacking melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EDAIN_PHALANXES_NAME" Language="en_US">
+			<Text>Edain Phalanxes</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EDAIN_PHALANXESN_DESCRIPTION" Language="en_US">
+			<Text>No penalty for lost health.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NUMENOR_STEELBOW_NAME" Language="en_US">
+			<Text>Numenorean Steelbowman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NUMENOR_STEELBOW_DESCRIPTION" Language="en_US">
+			<Text>Receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANGBAND_ORC_NAME" Language="en_US">
+			<Text>Angband Orc</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANGBAND_ORC_DESCRIPTION" Language="en_US">
+			<Text>+10 when fighting on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANGBAND_WEREWOLVES_NAME" Language="en_US">
+			<Text>Angband Werewolves</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANGBAND_WEREWOLVES_DESCRIPTION" Language="en_US">
+			<Text>Heals every turn.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BALROG_NAME" Language="en_US">
+			<Text>Balrog</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BALROG_DESCRIPTION" Language="en_US">
+			<Text>-5 to adjacent enemies.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGLESS_DRAGON_NAME" Language="en_US">
+			<Text>Wingless Dragon</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGLESS_DRAGON_DESCRIPTION" Language="en_US">
+			<Text>-5 to adjacent enemies and can attack the city walls.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGED_DRAGON_NAME" Language="en_US">
+			<Text>Winged Dragon</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WINGED_DRAGON_DESCRIPTION" Language="en_US">
+			<Text>-5 to adjacent enemies,  +7 Combat Strength vs. units in districts and can attack the city walls.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VAMPIRES_NAME" Language="en_US">
+			<Text>Vampires</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VAMPIRES_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength against damaged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENT_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat Strength in woods.</Text>
+		</Row>
+		<!-- End of Extra Units-->
+		<!-- BUCKLAND-->
+		<Row Tag="LOC_MINOR_CIV_BUCKLAND_TRAIT_NAME" Language="en_US">
+			<Text>Buckland</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BUCKLAND_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains +1 [ICON_Culture] Culture if they are next to a River. </Text>
+		</Row>
+		<Row Tag="LOC_BUCKLAND_NAME" Language="en_US">
+			<Text>Buckland</Text>
+		</Row>
+		<Row Tag="LOC_BUCKLAND_DESCRIPTION" Language="en_US">
+			<Text>Village of Buckland</Text>
+		</Row>
+		<Row Tag="LOC_BUCKLAND_ADJECTIVE" Language="en_US">
+			<Text>Buckland</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUCKLAND" Language="en_US">
+			<Text>Buckland</Text>
+		</Row>
+		<!-- TUCKBOROUGH-->
+		<Row Tag="LOC_MINOR_CIV_TUCKBOROUGH_TRAIT_NAME" Language="en_US">
+			<Text>Tuckborough</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TUCKBOROUGH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All farms gain +1 [ICON_Food]. </Text>
+		</Row>
+		<Row Tag="LOC_TUCKBOROUGH_NAME" Language="en_US">
+			<Text>Tuckborough</Text>
+		</Row>
+		<Row Tag="LOC_TUCKBOROUGH_DESCRIPTION" Language="en_US">
+			<Text>Village of Tuckborough</Text>
+		</Row>
+		<Row Tag="LOC_TUCKBOROUGH_ADJECTIVE" Language="en_US">
+			<Text>Tuckborough</Text>
+		</Row>
+		<!-- SOUTHFARTHING-->
+		<Row Tag="LOC_MINOR_CIV_SOUTHFARTHING_TRAIT_NAME" Language="en_US">
+			<Text>Southfarthing</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SOUTHFARTHING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Plantations gain +1 [ICON_Gold] Gold. Receive the [ICON_RESOURCE_TOBACCO] Tobacco.</Text>
+		</Row>
+		<Row Tag="LOC_SOUTHFARTHING_NAME" Language="en_US">
+			<Text>Southfarthing</Text>
+		</Row>
+		<Row Tag="LOC_SOUTHFARTHING_DESCRIPTION" Language="en_US">
+			<Text>Village of Southfarthing</Text>
+		</Row>
+		<Row Tag="LOC_SOUTHFARTHING_ADJECTIVE" Language="en_US">
+			<Text>Southfarthing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOUTHFARTHING" Language="en_US">
+			<Text>Southfarthing</Text>
+		</Row>
+		<!-- HARONDOR-->
+		<Row Tag="LOC_MINOR_CIV_HARONDOR_TRAIT_NAME" Language="en_US">
+			<Text>Harondor</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HARONDOR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities earn +15% [ICON_Culture] Culture whenever you are not at war with any civilization.</Text>
+		</Row>
+		<Row Tag="LOC_HARONDOR_NAME" Language="en_US">
+			<Text>Harondor</Text>
+		</Row>
+		<Row Tag="LOC_HARONDOR_DESCRIPTION" Language="en_US">
+			<Text>Land of Harondor</Text>
+		</Row>
+		<Row Tag="LOC_HARONDOR_ADJECTIVE" Language="en_US">
+			<Text>Harondor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARONDOR" Language="en_US">
+			<Text>Harondor</Text>
+		</Row>
+		<!-- BLACKLOCKS-->
+		<Row Tag="LOC_MINOR_CIV_BLACKLOCKS_TRAIT_NAME" Language="en_US">
+			<Text>Blacklocks</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BLACKLOCKS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLOCKS_NAME" Language="en_US">
+			<Text>Blacklocks</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLOCKS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Blacklocks</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLOCKS_ADJECTIVE" Language="en_US">
+			<Text>Blacklocks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLACKLOCKS" Language="en_US">
+			<Text>Blacklocks</Text>
+		</Row>
+		<!-- STONEFOOTS-->
+		<Row Tag="LOC_MINOR_CIV_STONEFOOTS_TRAIT_NAME" Language="en_US">
+			<Text>Stonefoots</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_STONEFOOTS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_STONEFOOTS_NAME" Language="en_US">
+			<Text>Stonefoots</Text>
+		</Row>
+		<Row Tag="LOC_STONEFOOTS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Stonefoots</Text>
+		</Row>
+		<Row Tag="LOC_STONEFOOTS_ADJECTIVE" Language="en_US">
+			<Text>Stonefoots</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STONEFOOTS" Language="en_US">
+			<Text>Stonefoots</Text>
+		</Row>
+		<!-- AVARI-->
+		<Row Tag="LOC_MINOR_CIV_AVARI_TRAIT_NAME" Language="en_US">
+			<Text>Avari</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_AVARI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_AVARI_NAME" Language="en_US">
+			<Text>Avari</Text>
+		</Row>
+		<Row Tag="LOC_AVARI_DESCRIPTION" Language="en_US">
+			<Text>Realm of Avari Elves</Text>
+		</Row>
+		<Row Tag="LOC_AVARI_ADJECTIVE" Language="en_US">
+			<Text>Avari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AVARI" Language="en_US">
+			<Text>Avari</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

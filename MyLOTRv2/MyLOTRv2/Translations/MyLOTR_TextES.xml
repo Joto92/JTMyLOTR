@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_POLICY_FELLOWSHIP_OF_THE_RING_NAME" Language="es_ES">
+			<text>Comunidad del Anillo</text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FELLOWSHIP_OF_THE_RING_DESCRIPTION" Language="es_ES">
+			<text>Fronteras abiertas con todas las ciudades estado.</text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_MOUNTAIN_GOLD" Language="es_ES">
+			<Text>+1 de Oro[ICON_Gold] por Montaña</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_MOUNTAIN_PRODUCTION" Language="es_ES">
+			<Text>+1 de Producción [ICON_Production] por Montaña</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DESERT_GOLD" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro por Desierto</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DESERT_HILLS_GOLD" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro por Colinas de Desierto</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DESERT_FOOD" Language="es_ES">
+			<Text>+1 [ICON_Food] Alimentos por Desierto</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_DESERT_HILLS_FOOD" Language="es_ES">
+			<Text>+1 [ICON_Food] Alimentos por Colinas de Desierto</Text>
+		</Replace>
+		<Replace Tag="LOC_MYLOTR_DISTRICT_FOREST_SCIENCE" Language="es_ES">
+			<Text>+1 [ICON_Science] Ciencia por Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_TUNDRA_GOLD" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro por Tundra</Text>
+		</Replace>
+		<Replace Tag="LOC_MYLOTR_DISTRICT_FOREST_FAITH" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe por Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_MYLOTR_DISTRICT_FOREST_GOLD" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro por Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_ELVEN_HALLS_FOREST_CULTURE" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura por Bosques</Text>
+		</Replace>
+		<!-- GONDOR| ARAGORN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ARAGORN" Language="es_ES">
+			<Text>Aragorn II, hijo de Arathorn II y Gilraen, también conocido como Elessar o Trancos. 16º Capitán de los Dúnedain del Norte; fue el último rey coronado King Elessar Telcontar (1 Marzo de 2931 - FO 120 o SR 1541), el 26º Rey de Arnor y 35º Rey de Gondor primer Rey del Reino Unificado, desde el corto reinado de Isildur.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CITADEL_GUARD_NAME" Language="es_ES">
+			<Text>Guardia de la Ciudadela</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CITADEL_GUARD_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] si al menos hay un Guardia de la Ciudadela adyacente.</Text>
+		</Replace>
+		<!-- END OF GONDOR| ARAGORN-->
+		<!-- ROHAN| THEODEN-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THEODEN" Language="es_ES">
+			<Text>Théoden fue el 17º Rey de Rohan, el último de la Segunda Línea de la Casa Real de Eorl.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROHIRRIM_NAME" Language="es_ES">
+			<Text>Descendientes de los Edain</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROHIRRIM_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] contra unidades cuerpo a cuerpo, se cura 50 puntos al eliminar un enemigo.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HELMS_DEEP" Language="es_ES">
+			<Text>Abismo de Helm</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_WOLD" Language="es_ES">
+			<Text>El Páramo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTEMNET" Language="es_ES">
+			<Text>Estemnet</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTEMNET" Language="es_ES">
+			<Text>Oestemnet</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTFOLD" Language="es_ES">
+			<Text>Folde Este</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTFOLD" Language="es_ES">
+			<Text>Folde Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WESTMARCH" Language="es_ES">
+			<Text>Marca del Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DUNHARROW" Language="es_ES">
+			<Text>El Sagrario</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FORDS_OF_ISEN" Language="es_ES">
+			<Text>Vados de Isen</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SNOWBOURNE" Language="es_ES">
+			<Text>Nevado</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KINGSTEAD" Language="es_ES">
+			<Text>Kingstead</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WITEBURG" Language="es_ES">
+			<Text>Witeburg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FLODGEHELD" Language="es_ES">
+			<Text>Flodgeheld</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TORSBURY" Language="es_ES">
+			<Text>Torsbury</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ETHEBURH" Language="es_ES">
+			<Text>Etheburg</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LANGHOLD" Language="es_ES">
+			<Text>Langhold</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FOLDHAM" Language="es_ES">
+			<Text>Foldham</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GATEHOUSE" Language="es_ES">
+			<Text>Gatehouse</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CUTHSTAN" Language="es_ES">
+			<Text>The Cuthstan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BEACONWATCH" Language="es_ES">
+			<Text>Beaconwatch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FENMARCH" Language="es_ES">
+			<Text>Fenmarch</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ENTWADE" Language="es_ES">
+			<Text>Entwade</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MIDDLEMEAD" Language="es_ES">
+			<Text>Middlemead</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UNDERHARROW" Language="es_ES">
+			<Text>Underharrow</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BROCKBRIDGE" Language="es_ES">
+			<Text>Brockbridge</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAPHOLT" Language="es_ES">
+			<Text>Gapholt</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WOODHURST" Language="es_ES">
+			<Text>Woodhurst</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GAP_ROHAN" Language="es_ES">
+			<Text>Paso de Rohan</Text>
+		</Replace>
+		<!-- END OF ROHAN| THEODEN-->
+		<!-- ELDAR ELVES | ELROND -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ELROND" Language="es_ES">
+			<Text>Elrond es un medio-elfo (hijo de Elfos y Hombres, también llamados Peredhil) muy fuerte y sabio. Se enfrentó a Sauron en alguna ocasión y luchó en la Guerra de la Última Alianza y en la invasión de Eriador. Es hijo de Eärendil, tiene un hermano llamado Elros quien a diferencia de él, eligió ser de la raza humana.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_WARRIOR_NAME" Language="es_ES">
+			<Text>Elfos Noldor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de Combate contra unidades cuerpo a cuerpo y caballería.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RIVENDEL_LANCER_NAME" Language="es_ES">
+			<Text>Lanceros Elfos Montados</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RIVENDEL_LANCER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MITHLOND_SENTRY_NAME" Language="es_ES">
+			<Text>Guardianes de Mithlond</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MITHLOND_SENTRY_DESCRIPTION" Language="es_ES">
+			<Text>Recibe +5 [ICON_Strength] Fuerza de Combate si se encuentra adyacente a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HIGH_ELF_ARCHER_NAME" Language="es_ES">
+			<Text>Ejercito de Elfos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HIGH_ELF_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Recibe +5 [ICON_Strength] de Fuerza de Combate por luchar al lado de un Guerrero Noldor o un Centinela de Mithlond.</Text>
+		</Replace>
+		<!-- END OF  ELDAR ELVES | ELROND -->
+		<!-- SILVAN ELVES | THRANDUIL -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THRANDUIL" Language="es_ES">
+			<Text>Thranduil, hijo de Oropher, es el Rey Elfo que gobernó el Reino de los Bosques de la Segunda y Tercera Edad. Es el padre del priícipe del Bosque Negro, Legolas, quién fue miembro de la Comunidad del Anillo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SILVAN_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Silvanos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SILVAN_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] de Fuerza de Combate Contra Caballería cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MIRKWOOD_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros del Bosque Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MIRKWOOD_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] de Fuerza de Combate si se encuentran adyacente a un Lancero Silvano.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THRANDUIL_HALLS" Language="es_ES">
+			<Text>Cavernas de Thranduil</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THEVINEYARDS" Language="es_ES">
+			<Text>The Vineyards</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORHTERN_MIRKWOOD" Language="es_ES">
+			<Text>Mirkwood Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTERN_MIRKWOOD" Language="es_ES">
+			<Text>Mirkwood Este</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ENCHANTED_RIVER" Language="es_ES">
+			<Text>Río Encantado</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FOREST_RIVER" Language="es_ES">
+			<Text>Río del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OLD_AVAR_STREAM" Language="es_ES">
+			<Text>Old Avar Stream</Text>
+		</Replace>
+		<!-- END OF  SILVAN ELVES | THRANDUIL -->
+		<!-- SILVAN ELVES | GALADRIEL -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GALADRIEL" Language="es_ES">
+			<Text>Galadriel era co-gobernante y señora de Lothlórien junto a su marido, Celeborn, sin embargo, tampoco tomó títulos reales, pues se consideraban solamente guardianes del Bosque Dorado. Era una de los elfos Eldar más importantes de la Tierra Media y sobrepasaba casi a todas las demás elfas en belleza, conocimiento y poder. Tambíen fue la portadora de Nenya, uno de los tres anillos Elfos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GALADHRIM_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros de Lorien</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GALADHRIM_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Recibe +5 [ICON_Strength] de Fuerza de Combate si se encuentran adyacente a otro Arquero de Galadhrim.</Text>
+		</Replace>
+		<!-- END OF  SILVAN ELVES | GALADRIEL -->
+		<!-- DWARVES| DAIN II -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DAIN_II"  Language="es_ES">
+			<Text>Dáin II Pie de Hierro fue hijo de Náin y nieto de Grór, el hijo menor de Dáin I del linaje de Durin. Fue Señor de los Enanos de las Colinas de Hierro. Fue Rey Enano del Linaje de Durin y el Quinto Rei debajo la Montaña durante la Guerra del Anillo. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARVEN_GUARDIAN_NAME" Language="es_ES">
+			<Text>Guardianes Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARVEN_GUARDIAN_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] en tu territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARVEN_PHALANXES_NAME" Language="es_ES">
+			<Text>Falange Enana</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARVEN_PHALANXES_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate[ICON_Strength] si tiene otra Falange Enana adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOAT_RIDERS_NAME" Language="es_ES">
+			<Text>Jinetes de Carnero</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOAT_RIDERS_DESCRIPTION" Language="es_ES">
+			<Text>+1 de Fuerza de Combate cuando luchan el Colinas y no tiene penalización de movimineto en las Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BOAR_RIDERS_NAME" Language="es_ES">
+			<Text>Jinetes de Jabalí</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BOAR_RIDERS_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] cuando lucha contra unidades a distancia o de asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRON_HILLS" Language="es_ES">
+			<Text>Colinas de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THORINS_HALLS" Language="es_ES">
+			<Text>Thorin's Halls</Text>
+		</Replace>
+		<!-- END OF DWARVES | DAIN II -->
+		<!-- MORDOR| SAURON -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SAURON" Language="es_ES">
+			<Text>Sauron fue un Maia caido, el creador del Anillo Único, y el más leal del Maestro Melkor. Despues de la derrota de Melkor en la Primera Edad, Sauron se conviertio en el segundo Señor Oscuro y intento conquerir Arda (la Tierra Media), el creador de los Anillos de Poder para este proposito. En la Segunda Edad, fue derrotado en la Guerra de la Última Alianza por la última linea de defensa: los Elfos y los Hombres gobernados por los Reyes Gil-galad y Elendil.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MORANNON_ORC_NAME" Language="es_ES">
+			<Text>Orcos Morannon</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MORANNON_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Reduce el coste de pillaje.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_HAI_NAME" Language="es_ES">
+			<Text>Uruk Hais</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_HAI_DESCRIPTION" Language="es_ES">
+			<Text>No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WARG_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Huargo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WARG_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] contra unidades heridas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WARG_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Huargo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WARG_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_OLOG_HAI_NAME" Language="es_ES">
+			<Text>Olog-Hai</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_OLOG_HAI_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] de Fuerza de Combate contra unidades Cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOUNT_DOOM" Language="es_ES">
+			<Text>Mount Doom</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTERN_GUARD" Language="es_ES">
+			<Text>Eastern Guard</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EASTERN_DESOLATION" Language="es_ES">
+			<Text>Eastern Desolation</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_BROWN_LANDS" Language="es_ES">
+			<Text>Tierras Pardas</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEAD_MARSHES" Language="es_ES">
+			<Text>Ciénegas Muertas</Text>
+		</Replace>
+		<!-- END OF MORDOR | SAURON -->
+		<!-- ISENGARD| SARUMAN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SARUMAN" Language="es_ES">
+			<Text>Saruman fue un Mago o Istar, que vivio en la Tierra Media durante la Tercera Edad. Originalmente, fue el lider de los magos y del Concillio Blanco que se opuso a Sauron. Sus estudios sobre la magia negra evantualmente lo llevaro a desear el Anillo Único para si mismo. Creyendo que podia aliarse con Sauron y despues traicionarlo, Saruman se alio con con Mordor en la Guerra del Anillo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_HAI_PIKEMAN_NAME" Language="es_ES">
+			<Text>Piqueros Uruk-Hai</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_HAI_PIKEMAN_DESCRIPTION" Language="es_ES">
+			<Text>No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_BERSERKER_NAME" Language="es_ES">
+			<Text>Uruk Berserker</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_BERSERKER_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] al atacar y -7 a la Fuerza de combate [ICON_Strength] al defender. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DUNLANDER_NAME" Language="es_ES">
+			<Text>Dunlander</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DUNLANDER_DESCRIPTION" Language="es_ES">
+			<Text>Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BONEVALES" Language="es_ES">
+			<Text>Bonevales</Text>
+		</Replace>
+		<!-- END OF ISENGARD | SARUMAN -->
+		<!-- GOBLIN | GORKIL -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GORKIL" Language="es_ES">
+			<Text>Gorkil fue un poderoso gobernador goblin durante la Tercera Edad. Él y sus ejercitos tomaron control del avanzada en los Ettermors en Angmar y controlador el Reino perdido del Rey Brujo, Angmar. Sauron usa a Gorkil tomar el control de los goblins y controlar su voluntad. También monta un escorpion gigante. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOBLIN_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerrero Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOBLIN_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOBLIN_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GOBLIN_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GUNDABAD_ORC_NAME" Language="es_ES">
+			<Text>Orco de Gundabad</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GUNDABAD_ORC_DESCRIPTION" Language="es_ES">
+			<Text>+10 de Fuerza de Combate[ICON_Strength] luchando en Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CAVE_TROLL_NAME" Language="es_ES">
+			<Text>Troll de las Cavernas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CAVE_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee units.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOBLIN_TOWN" Language="es_ES">
+			<Text>Goblin-Town</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HIGH_PASS" Language="es_ES">
+			<Text>El Paso Alto</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOUNT_GRAM" Language="es_ES">
+			<Text>Monte Gram</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CARN_DUM" Language="es_ES">
+			<Text>Carn Dum</Text>
+		</Replace>
+		<!-- END OF  GOBLIN | GORKIL -->
+		<!-- HARAD | SULADAN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SULADAN" Language="es_ES">
+			<Text>Suladân, también conocido como Señor Serpiente, vivio durante la Guerra del Anillo. Él lidero las tropas de los hombres del desierto (Haradrim). Fue considerado por los soldados Gondorianos como un ser misterioso o incluso algun tipo de monstruo, un sombra que atacaria como un assesino o incluso alguno de sus leales soldados.  </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MUMAKIL_NAME" Language="es_ES">
+			<Text>Mumakils</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MUMAKIL_DESCRIPTION" Language="es_ES">
+			<Text>-5 a la Fuerza de combate [ICON_Strength] de todas las unidades enemigas adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HARADRIM_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Haradrim</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HARADRIM_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>+10 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<!-- END OF  HARAD | SULADAN -->
+		<!-- UMBAR | ANGAMAITE -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ANGAMAITE" Language="es_ES">
+			<Text>Angamaitë fue descendiente del rebelde Castamir y continuo con el tradicional odio hacia Gondor. En TA 1634, El Rey Minardil fue a Pelargir sin ningun miedo de un ataque, Angamaitë y Sangahyando se enteraron de esto a traves de sus espias y saquearon la ciudad matando al rey Minardil y obteniendo grandes tesoros. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_BACKSTAB_LIKE_SURPRISE_WAR" Language="es_ES">
+			<Text>Angamaitë le gustan las personas que declaran guerras por sorpresa.</Text>
+		</Replace>
+		<!-- END OF  UMBAR | ANGAMAITE -->
+		<!-- RHUN | KHAMUL -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_KHAMUL" Language="es_ES">
+			<Text>Khamûl uno de los reyes que fueron tentados por el poder que les otorgaban los Nueve Anillos que Sauron dio a los Hombres, segundo del Rey Brujo. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HALDERDMAN_NAME" Language="es_ES">
+			<Text>Ejercito de Oro</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HALDERDMAN_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate [ICON_Strength] contra unidades de caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KATAPHRAKTS_NAME" Language="es_ES">
+			<Text>Kataphrakts</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_KATAPHRAKTS_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate [ICON_Strength] fuera de su territorio.</Text>
+		</Replace>
+		<!-- END OF  RHUN | KHAMUL -->
+		<!-- KHAND | KIONID -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_KIONID" Language="es_ES">
+			<Text>Kîonid II y su gemelo Mîonid fueron principes de las tribus del norte de Khand, descendientes de los Wainriders y de los Variags. En la Guerra del Anillo los hermanos uniero su reino para el ejercito del Este de Sauron.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAGS_NAME" Language="es_ES">
+			<Text>Variags</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAGS_DESCRIPTION" Language="es_ES">
+			<Text>Da el 60% de la Fuerza de Combate [ICON_Strength] de las unidades derrotados como Oro [ICON_Gold].</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Variag Montados</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAG_CHARIOT_NAME" Language="es_ES">
+			<Text>Carro de Guerra Variag</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VARIAG_CHARIOT_DESCRIPTION" Language="es_ES">
+			<Text>Se cura en cada turno, incluso después de moverse o combatir.</Text>
+		</Replace>
+		<!-- END OF KHAND | KIONID -->
+		<!-- ANGMAR | WITCH KING -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_WITCH_KING" Language="es_ES">
+			<Text>El Rey Brujo de Angmar fue el lider de los Nazgûl o espectros del anillo, la mano derecha de Sauron durante la Segunda y Tercera Edad. Antaño un Rey de los Númenórean, fue corrompido por uno de los nueve anillos entragados a los hombres, se convirtio en un espectro no muerto al servicio de Sauron. Despues de la primera derrota de Sauron en la Guerra de la Última Alianza, el Rey Brujo huyo a Angmar, donde governo durante cientos de años hasta que volvió a Mordor para liderar los ejercitos de Angmar en la Guerra del Anillo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HILL_TROLL_NAME" Language="es_ES">
+			<Text>Trolls de las Colinas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HILL_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate luchando en Colinas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SNOW_TROLL_NAME" Language="es_ES">
+			<Text>Trolls de las Nieves</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SNOW_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate luchando en Tundra y en Nieve.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RHUDAUR_SPEARMEN_NAME" Language="es_ES">
+			<Text>Hombres de Rhudaur</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RHUDAUR_SPEARMEN_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate luchando en Colinas</Text>
+		</Replace>
+		<Replace Tag="LOC_MYLOTR_BONUS_CONQUER_CONTINENT_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<!-- END OF ANGMAR | WITCH KING -->
+		<!-- ARNOR | ELENDIL -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ELENDIL" Language="es_ES">
+			<Text>Elendil fue el padre de Isildur y Anárion, Primer Rey de Gondor y Arnor, primer Rey de Todos los Dúnedain. Fue conocido como un gran Guerrero, un rey sabio y una figura heroica entre todos los Dúnedain. Murió a manos de Sauron en la Guerra de la Última Alianza.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DUNEDAIN_RANGERS_NAME" Language="es_ES">
+			<Text>Montaraces Dúnedain</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DUNEDAIN_RANGERS_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] en tu territorio o adyacente a tu territorio.</Text>
+		</Replace>
+		<!-- END OF ARNOR | ELENDIL -->
+		<!-- ELDAR | CIRDAN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CIRDAN" Language="es_ES">
+			<Text>Círdan fue el Señor de Falas y después de Balar durante la Primera Edad, uno de los más sabios Moriquendi. Era el portador del Gran Anillo Narya, él cual entrego a Gandalf cuando llego a la Tierra Media. És uno de los tres elfos más viejos que vivian en la Tierra Media al final de la Tercera Edad, junto con Galadriel y Celeborn, que nacieron durante los Años de los Arboles. Al final de la Tercera Edad, no havia ningun otro elfo vivió que hubiera estado vivio durante la Primera Edad. Círdan zarparia en el último barco hacia el Oeste, ya que era el Señor de los Puertos Grises.</Text>
+		</Replace>
+		<!-- END OF ELDAR | CIRDAN -->
+		<!-- GOBLIN | AZOG	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AZOG" Language="es_ES">
+			<Text>Azog, conocido como el Profanador y el Orco Palido, fue un orco que vivió en la Tercera Edad. Comando las tribus de Moria y Gundaband de TA 2790 hasta su muerte en TA 2799. Fue responsable de la muerte del Rey Thror y por hacer volver loco al Rey Thrain. </Text>
+		</Replace>
+		<!-- END OF GOBLIN | AZOG -->
+		<!-- City States-->
+		<!-- Bree-->
+		<Replace Tag="LOC_MINOR_CIV_BREE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Puestos comerciales [ICON_TradingPost] en ciudades extranjeras proporcionan +1 de Producción [ICON_PRODUCTION] a las Rutas comerciales de tu propiedad [ICON_TradeRoute] que las atraviesen.</Text>
+		</Replace>
+		<Replace Tag="LOC_BREE_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Bree</Text>
+		</Replace>
+		<!-- Dale-->
+		<Replace Tag="LOC_MINOR_CIV_DALE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_DALE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Dale</Text>
+		</Replace>
+		<!-- Esgaroth-->
+		<Replace Tag="LOC_MINOR_CIV_ESGAROTH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de un Rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_ESGAROTH_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Esgaroth</Text>
+		</Replace>
+		<!-- Dorwinion-->
+		<Replace Tag="LOC_MINOR_CIV_DORWINION_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe el recurso de lujo [ICON_RESOURCE_WINE] Vino. +1 [ICON_Food] Alimentos de Plantaciones de [ICON_RESOURCE_WINE] Vino, [ICON_RESOURCE_INCENSE] Incenso, [ICON_RESOURCE_COCOA] Cacao, [ICON_RESOURCE_TOBACCO] Tabaco, [ICON_RESOURCE_COFFEE] Cafe y [ICON_RESOURCE_TEA] Te.</Text>
+		</Replace>
+		<Replace Tag="LOC_DORWINION_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Dorwinion</Text>
+		</Replace>
+		<!-- Hobbiton-->
+		<Replace Tag="LOC_MINOR_CIV_HOBBITON_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe el recurso [ICON_RESOURCE_TOBACCO] Tabaco. +1 [ICON_Gold] Oro a todas las [ICON_TradeRoute] Rutas Comerciales.</Text>
+		</Replace>
+		<Replace Tag="LOC_HOBBITON_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Hobbiton</Text>
+		</Replace>
+		<Replace Tag="LOC_HOBBITON_ADJECTIVE" Language="es_ES">
+			<Text>Hobbiton</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BYWATER" Language="es_ES">
+			<Text>Delagua</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FROGMORTON" Language="es_ES">
+			<Text>Los Ranales</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TUCKBOROUGH" Language="es_ES">
+			<Text>Alforzada</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STOCK" Language="es_ES">
+			<Text>Cepeda</Text>
+		</Replace>
+		<!-- Michel Delving-->
+		<Replace Tag="LOC_MINOR_CIV_MICHEL_DELVING_TRAIT_NAME" Language="es_ES">
+			<Text>Cavada Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MICHEL_DELVING_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades reciben +2 Amentities.</Text>
+		</Replace>
+		<Replace Tag="LOC_MICHEL_DELVING_NAME" Language="es_ES">
+			<Text>Cavada Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_MICHEL_DELVING_DESCRIPTION" Language="es_ES">
+			<Text>Pueblo de Cavada Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_MICHEL_DELVING_ADJECTIVE" Language="es_ES">
+			<Text>Cavada Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MICHEL_DELVING" Language="es_ES">
+			<Text>Cavada Grande</Text>
+		</Replace>
+		<!-- Woodmentown-->
+		<Replace Tag="LOC_MINOR_CIV_WOODMENTOWN_TRAIT_NAME" Language="es_ES">
+			<Text>Hombres del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_WOODMENTOWN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los Asseraderos ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_WOODMENTOWN_NAME" Language="es_ES">
+			<Text>Hombres del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_WOODMENTOWN_DESCRIPTION" Language="es_ES">
+			<Text>Tribue de Hombres del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_WOODMENTOWN_ADJECTIVE" Language="es_ES">
+			<Text>Hombres del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WOODMENTOWN" Language="es_ES">
+			<Text>Hombres del Bosque</Text>
+		</Replace>
+		<!-- Beorning-->
+		<Replace Tag="LOC_MINOR_CIV_BEORNING_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Los Campus ganan +1 [ICON_Science] Ciencia por adyacencia a Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_BEORNING_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Beornings</Text>
+		</Replace>
+		<!-- Nurunkhizdin-->
+		<Replace Tag="LOC_MINOR_CIV_NURUNKHIZDIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades cuerpo a cuerpo +5 [ICON_Strength] Fuerza de Combate luchando en Colinas</Text>
+		</Replace>
+		<Replace Tag="LOC_NURUNKHIZDIN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Nurunkhizdin</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_NAME" Language="es_ES">
+			<Text>Ironfist Clan</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] Fuerza de Combate luchando en Colinas</Text>
+		</Replace>
+		<!-- Forochel-->
+		<Replace Tag="LOC_MINOR_CIV_FOROCHEL_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Distrito Comercial gana 1 [ICON_Gold] Oro por adyacencia a Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_FOROCHEL_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Forochel</Text>
+		</Replace>
+		<!-- Dol Amroth-->
+		<Replace Tag="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades terrestres ganan +4[ICON_Strength] Fuerza de Combate luchando al lado de la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_DOL_AMROTH_DESCRIPTION" Language="es_ES">
+			<Text>Principado de Dol Amroth</Text>
+		</Replace>
+		<!-- Nurn-->
+		<Replace Tag="LOC_MINOR_CIV_NURN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+30% Producción para crear Constructores y los nuevos constructores obtienen +1 acción más.</Text>
+		</Replace>
+		<Replace Tag="LOC_NURN_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Nurn</Text>
+		</Replace>
+		<!-- Dunland-->
+		<Replace Tag="LOC_MINOR_CIV_DUNLAND_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+20% Producción para crear unidades de anticaballeria de todas las eras, empezando desde la Era Classica.</Text>
+		</Replace>
+		<Replace Tag="LOC_DUNLAND_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Dunland</Text>
+		</Replace>
+		<!-- Rhudaur-->
+		<Replace Tag="LOC_MINOR_CIV_RHUDAUR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+20% Producción para crear unidades a distancia de todas las eras, empezando desde la Era Classica.</Text>
+		</Replace>
+		<Replace Tag="LOC_RHUDAUR_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Rhudaur</Text>
+		</Replace>
+		<!-- Enedwaith-->
+		<Replace Tag="LOC_MINOR_CIV_ENEDWAITH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los barcos pesqueros obtienen +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_ENEDWAITH_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Enedwaith</Text>
+		</Replace>
+		<!-- Enedwaith-->
+		<Replace Tag="LOC_MINOR_CIV_MINHIRIATH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los campamentos obtienen +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINHIRIATH_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Minhiriath</Text>
+		</Replace>
+		<!-- Drúadan-->
+		<Replace Tag="LOC_MINOR_CIV_DRUADAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Sitios Sagrados ganan +1 [ICON_Faith] Fe por adyacencia a Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_DRUADAN_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Drúadan</Text>
+		</Replace>
+		<!-- Drúwaith Iaur-->
+		<Replace Tag="LOC_MINOR_CIV_DRUWAITH_IAUR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +2 [ICON_Faith] Fe por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_DRUWAITH_IAUR_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Drúwaith Iaur</Text>
+		</Replace>
+		<!-- Ehwathrumavuld-->
+		<Replace Tag="LOC_MINOR_CIV_EHWATHRUMAVULD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Pasturas ganan +1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_EHWATHRUMAVULD_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Ehwathrumavuld</Text>
+		</Replace>
+		<!-- Ered Luin-->
+		<Replace Tag="LOC_MINOR_CIV_ERED_LUIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_ERED_LUIN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Ered Luin</Text>
+		</Replace>
+		<!-- Dol Guldur-->
+		<Replace Tag="LOC_MINOR_CIV_DOL_GULDUR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe por la rutas entre tus ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_DOL_GULDUR_DESCRIPTION" Language="es_ES">
+			<Text>Fortaleza de Dol Guldur</Text>
+		</Replace>
+		<!-- Balchoth-->
+		<Replace Tag="LOC_MINOR_CIV_BALCHOTH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe los recursos de [ICON_RESOURCE_HORSES] Caballos y [ICON_RESOURCE_SHEEP] Ovejas.</Text>
+		</Replace>
+		<Replace Tag="LOC_BALCHOTH_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Balchoth</Text>
+		</Replace>
+		<!-- Variags-->
+		<Replace Tag="LOC_MINOR_CIV_VARIAGS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus recursos adicionales actúan como recursos de lujo, proporcionando 1 Servicio [ICON_Amenities] por tipo.</Text>
+		</Replace>
+		<Replace Tag="LOC_VARIAGS_DESCRIPTION" Language="es_ES">
+			<Text>Tribu Estado Variags</Text>
+		</Replace>
+		<!-- Stiffbeards-->
+		<Replace Tag="LOC_MINOR_CIV_STIFFBEARDS_TRAIT_NAME" Language="es_ES">
+			<Text>Barbatiesas</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_STIFFBEARDS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales ganan +1 [ICON_Production] de Producción por adyacencia a Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_STIFFBEARDS_NAME" Language="es_ES">
+			<Text>Barbatiesas</Text>
+		</Replace>
+		<Replace Tag="LOC_STIFFBEARDS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Barbatiesas</Text>
+		</Replace>
+		<Replace Tag="LOC_STIFFBEARDS_ADJECTIVE" Language="es_ES">
+			<Text>Barbatiesas</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_TUNDRA_PRODUCTION" Language="es_ES">
+			<Text>+1 [ICON_Production] de Producción por adyacencia a Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STIFFBEARDS" Language="es_ES">
+			<Text>Barbatiesas</Text>
+		</Replace>
+		<!-- Iron Fists-->
+		<Replace Tag="LOC_MINOR_CIV_IRONFISTS_TRAIT_NAME" Language="es_ES">
+			<Text>Puños de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_IRONFISTS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las minas ganan +1 [ICON_Production] de Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_IRONFISTS_NAME" Language="es_ES">
+			<Text>Puños de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_IRONFISTS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Puños de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_IRONFISTS_ADJECTIVE" Language="es_ES">
+			<Text>Puños de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IRONFISTS" Language="es_ES">
+			<Text>Puños de Hierro</Text>
+		</Replace>
+		<!-- Sagath-->
+		<Replace Tag="LOC_MINOR_CIV_SAGATH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Puestos comerciales [ICON_TradingPost] en ciudades extranjeras proporcionan +1 de Oro [ICON_Gold] a las Rutas comerciales de tu propiedad [ICON_TradeRoute] que las atraviesen.</Text>
+		</Replace>
+		<Replace Tag="LOC_SAGATH_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Sagath</Text>
+		</Replace>
+		<!-- Haruzan-->
+		<Replace Tag="LOC_MINOR_CIV_HARUZAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Puestos comerciales [ICON_TradingPost] en ciudades extranjeras proporcionan +1 de Cultura [ICON_Culture] a las Rutas comerciales de tu propiedad [ICON_TradeRoute] que las atraviesen.</Text>
+		</Replace>
+		<Replace Tag="LOC_HARUZAN_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Haruzan</Text>
+		</Replace>
+		<!-- Chelkar-->
+		<Replace Tag="LOC_MINOR_CIV_CHELKAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +2 Producción [ICON_Production].</Text>
+		</Replace>
+		<Replace Tag="LOC_CHELKAR_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Chelkar</Text>
+		</Replace>
+		<!-- Pezarsan-->
+		<Replace Tag="LOC_MINOR_CIV_PEZARSAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Puestos comerciales [ICON_TradingPost] en ciudades extranjeras proporcionan +1 de Oro [ICON_Gold] a las Rutas comerciales de tu propiedad [ICON_TradeRoute] que las atraviesen.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEZARSAN_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Pezarsan</Text>
+		</Replace>
+		<!-- Chey Sart-->
+		<Replace Tag="LOC_MINOR_CIV_CHEY_SART_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +2 Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_CHEY_SART_DESCRIPTION" Language="es_ES">
+			<Text>Tribu de Chey Sart</Text>
+		</Replace>
+		<!-- Moria-->
+		<Replace Tag="LOC_MINOR_CIV_MORIA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las minas ganan +1 [ICON_Production] de Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_MORIA_DESCRIPTION" Language="es_ES">
+			<Text>Minas de Moria</Text>
+		</Replace>
+		<!-- End of City States-->
+		<!--Continents-->
+		<Replace Tag="LOC_CONTINENT_LOTR_NORTH_BELERIAND_DESCRIPTION" Language="es_ES">
+			<Text>Beleriand Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_LOTR_EAST_BELERIAND_DESCRIPTION" Language="es_ES">
+			<Text>Beleriand Este</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_LOTR_WEST_BELERIAND_DESCRIPTION" Language="es_ES">
+			<Text>Beleriand Oeste</Text>
+		</Replace>
+		<!--End Continents-->
+		<!-- Extra Units-->
+		<Replace Tag="LOC_ABILITY_GONDOR_LONGBOWMAN_NAME" Language="es_ES">
+			<Text>Arco Largo Gondor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GONDOR_LONGBOWMAN_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate cuando se encuentra en un distrito o fuerte.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAZGUL_NAME" Language="es_ES">
+			<Text>Nazgul</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAZGUL_DESCRIPTION" Language="es_ES">
+			<Text>2x Bonus de Flanqueo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGED_NAZGUL_NAME" Language="es_ES">
+			<Text>Nazgul Alado</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGED_NAZGUL_DESCRIPTION" Language="es_ES">
+			<Text>-5 Fuerza de Combate a enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ORC_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Orcos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ORC_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Menos ataque de lo normal per +1 ataque adicional si la unidad no se ha movido.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MORGUL_CAVALRY_NAME" Language="es_ES">
+			<Text>Morgul Knight</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MORGUL_CAVALRY_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate contra unidades heridas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARF_AXE_THROWER_NAME" Language="es_ES">
+			<Text>Lanzadores de Hachas Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARF_AXE_THROWER_DESCRIPTION" Language="es_ES">
+			<Text>+10 Fuerza de Combate cuando se defiende contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARF_BATTLEWAGON_NAME" Language="es_ES">
+			<Text>Carro de Guerra Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DWARF_BATTLEWAGON_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_CROSSBOWMAN_NAME" Language="es_ES">
+			<Text>Ballestero Uruk</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_URUK_CROSSBOWMAN_DESCRIPTION" Language="es_ES">
+			<Text>+7 Fuerza de Combate contra unidades en distritos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LOKE_NAR_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Lôke-Nar</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LOKE_NAR_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades adyacentes de una classe distinta, ganan +10 Fuerza de Combate contra unidades de caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SILVAN_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerreros Silvanos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SILVAN_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>+7 Fuerza de Combate cuando se defienden en Bosques, Junglas, Colinas o Cienagas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELNAITH_NAME" Language="es_ES">
+			<Text>Elnaith</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELNAITH_DESCRIPTION" Language="es_ES">
+			<Text>+10 Fuerza de Combate contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELDAR_CAVALRY_NAME" Language="es_ES">
+			<Text>Caballeria Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELDAR_CAVALRY_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate cuando atacan a unidades a distancia o de asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Noldor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>+10 Fuerza de Combate cuando se defiende contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Noldor</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NOLDOR_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>+7 Fuerza de Combate cuando se defienden.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TELERI_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerreros Teleri</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TELERI_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>+7 defensa contra ataques a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LAIQUENDI_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Laiquendi</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LAIQUENDI_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>+7 Fuerza de Combate cuando se defienden en Bosques, Junglas, Colinas o Cienagas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VANYAR_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Vanyar</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VANYAR_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>+7 cuando atacan enemigos cuerpo a cuerpo o a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_EDAIN_PHALANXES_NAME" Language="es_ES">
+			<Text>Falange Edain</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_EDAIN_PHALANXESN_DESCRIPTION" Language="es_ES">
+			<Text>Sin penalización por perdida de salud.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NUMENOR_STEELBOW_NAME" Language="es_ES">
+			<Text>Arcos de Acero Numenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NUMENOR_STEELBOW_DESCRIPTION" Language="es_ES">
+			<Text>Recibe +5 [ICON_Strength] Fuerza de Combate si se encuentra adyacente a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANGBAND_ORC_NAME" Language="es_ES">
+			<Text>Orco de Angband</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANGBAND_ORC_DESCRIPTION" Language="es_ES">
+			<Text>+10 cuando luchan en Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANGBAND_WEREWOLVES_NAME" Language="es_ES">
+			<Text>Hombres lobo de Angband</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANGBAND_WEREWOLVES_DESCRIPTION" Language="es_ES">
+			<Text>Se cura cada turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BALROG_WEREWOLVES_NAME" Language="es_ES">
+			<Text>Balrog</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BALROG_DESCRIPTION" Language="es_ES">
+			<Text>-5 de Fuerza de Combate a los enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGLESS_DRAGON_NAME" Language="es_ES">
+			<Text>Dragon Sin Alas</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGLESS_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>-5 de Fuerza de Combate a los enemigos adyacentes y puede atacar a las murallas de la ciudad.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGED_DRAGON_NAME" Language="es_ES">
+			<Text>Dragon Alado</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_WINGED_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>-5 de Fuerza de Combate a los enemigos adyacentes, +7 fuerza de combate contra unidades en distritos y puede atacar a las murallas de la ciudad.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VAMPIRES_NAME" Language="es_ES">
+			<Text>Vampiros</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VAMPIRES_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate contra unidades heridas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ENT_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate en Bosques.</Text>
+		</Replace>
+		<!-- End of Extra Units-->
+		<!-- BUCKLAND-->
+		<Replace Tag="LOC_MINOR_CIV_BUCKLAND_TRAIT_NAME" Language="es_ES">
+			<Text>Buckland</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BUCKLAND_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Cultura [ICON_Culture] si estan al lado de un Rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUCKLAND_NAME" Language="es_ES">
+			<Text>Buckland</Text>
+		</Replace>
+		<Replace Tag="LOC_BUCKLAND_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Buckland</Text>
+		</Replace>
+		<Replace Tag="LOC_BUCKLAND_ADJECTIVE" Language="es_ES">
+			<Text>Buckland</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BUCKLAND" Language="es_ES">
+			<Text>Buckland</Text>
+		</Replace>
+		<!-- TUCKBOROUGH-->
+		<Replace Tag="LOC_MINOR_CIV_TUCKBOROUGH_TRAIT_NAME" Language="es_ES">
+			<Text>Alforzada</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TUCKBOROUGH_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Granjas ganan +1 [ICON_Food] Alimentos. </Text>
+		</Replace>
+		<Replace Tag="LOC_TUCKBOROUGH_NAME" Language="es_ES">
+			<Text>Alforzada</Text>
+		</Replace>
+		<Replace Tag="LOC_TUCKBOROUGH_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Alforzada</Text>
+		</Replace>
+		<Replace Tag="LOC_TUCKBOROUGH_ADJECTIVE" Language="es_ES">
+			<Text>Alforzada</Text>
+		</Replace>
+		<!-- SOUTHFARTHING-->
+		<Replace Tag="LOC_MINOR_CIV_SOUTHFARTHING_TRAIT_NAME" Language="es_ES">
+			<Text>Cuaderna del Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SOUTHFARTHING_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Plantaciones ganan +1 [ICON_Gold] de Oro. Recibe el recurso [ICON_RESOURCE_TOBACCO] Tabaco.</Text>
+		</Replace>
+		<Replace Tag="LOC_SOUTHFARTHING_NAME" Language="es_ES">
+			<Text>Cuaderna del Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_SOUTHFARTHING_DESCRIPTION" Language="es_ES">
+			<Text>Vila de Cuaderna del Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_SOUTHFARTHING_ADJECTIVE" Language="es_ES">
+			<Text>Cuaderna del Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOUTHFARTHING" Language="es_ES">
+			<Text>Cuaderna del Sur</Text>
+		</Replace>
+		<!-- HARONDOR-->
+		<Replace Tag="LOC_MINOR_CIV_HARONDOR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus ciudades ganan un +15% a Cultura [ICON_Culture] mientras no estés en guerra con ninguna otra civilización.</Text>
+		</Replace>
+		<Replace Tag="LOC_HARONDOR_DESCRIPTION" Language="es_ES">
+			<Text>Tierra de Harondor</Text>
+		</Replace>
+		<!-- BLACKLOCKS-->
+		<Replace Tag="LOC_MINOR_CIV_BLACKLOCKS_TRAIT_NAME" Language="es_ES">
+			<Text>Morenos</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_BLACKLOCKS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos de Campamento proporcionan +1 a la capacidad de las Rutas comerciales [ICON_TradeRoute] cada uno.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKLOCKS_NAME" Language="es_ES">
+			<Text>Morenos</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKLOCKS_DESCRIPTION" Language="es_ES">
+			<Text>Reino del Clan Morenos</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKLOCKS_ADJECTIVE" Language="es_ES">
+			<Text>Morenos</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BLACKLOCKS" Language="es_ES">
+			<Text>Morenos</Text>
+		</Replace>
+		<!-- STONEFOOTS-->
+		<Replace Tag="LOC_MINOR_CIV_STONEFOOTS_TRAIT_NAME" Language="es_ES">
+			<Text>Pies de piedra</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_STONEFOOTS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Los efectos regionales de tus distritos de Zona industrial y de Complejo de ocio llegan 3 casillas más lejos.</Text>
+		</Replace>
+		<Replace Tag="LOC_STONEFOOTS_NAME" Language="es_ES">
+			<Text>Pies de piedra</Text>
+		</Replace>
+		<Replace Tag="LOC_STONEFOOTS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Pies de piedra</Text>
+		</Replace>
+		<Replace Tag="LOC_STONEFOOTS_ADJECTIVE" Language="es_ES">
+			<Text>Pies de piedra</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STONEFOOTS" Language="es_ES">
+			<Text>Pies de piedra</Text>
+		</Replace>
+		<!-- AVARI-->
+		<Replace Tag="LOC_MINOR_CIV_AVARI_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos proporcionan +1 punto de gran personaje [ICON_GreatPerson] de su tipo (Gran escritor [ICON_GreatWriter], Gran artista [ICON_GreatArtist] y, para los distritos de Teatros, Gran músico [ICON_GreatMusician]).</Text>
+		</Replace>
+		<Replace Tag="LOC_AVARI_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Elfos Avari</Text>
+		</Replace>
+</LocalizedText>
+</GameData>

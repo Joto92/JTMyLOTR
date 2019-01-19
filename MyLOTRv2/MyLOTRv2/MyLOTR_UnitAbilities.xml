@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_CITADEL_GUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ROHIRRIM" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NOLDOR_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RIVENDEL_LANCER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MITHLOND_SENTRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HIGH_ELF_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SILVAN_SPEARMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MIRKWOOD_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GALADHRIM_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARVEN_GUARDIAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARVEN_PHALANXES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GOAT_RIDERS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BOAR_RIDERS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MORANNON_ORC" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_URUK_HAI" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WARG_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WARG_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_OLOG_HAI" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_URUK_HAI_PIKEMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_URUK_BERSERKER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DUNLANDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GOBLIN_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GOBLIN_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GUNDABAD_ORC" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_CAVE_TROLL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MUMAKIL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HARADRIM_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HALDERDMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KATAPHRAKTS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VARIAGS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VARIAGS_MOUNTED_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VARIAG_CHARIOT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HILL_TROLL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SNOW_TROLL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RHUDAUR_SPEARMEN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BLACK_NUMENOREAN_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DUNEDAIN_RANGERS" Kind="KIND_ABILITY"/>
+
+		<!--City States -->
+		<Row Type="ABILITY_MYLOTR_MELEE_HILLS_BONUS" Kind="KIND_ABILITY"/>
+		<!-- End City States-->
+
+		<!-- Extra Units-->
+		<Row Type="ABILITY_SWAN_KNIGHTS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GONDOR_LONGBOWMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NAZGUL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WINGED_NAZGUL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ORC_SPEARMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ORC_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MORGUL_CAVALRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARF_AXE_THROWER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARF_BATTLEWAGON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_URUK_CROSSBOWMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LOKE_NAR_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SILVAN_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELNAITH" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELDAR_CAVALRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NOLDOR_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NOLDOR_SPEARMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ENT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TELERI_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LAIQUENDI_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VANYAR_SPEARMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_EDAIN_PHALANXES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NUMENOR_STEELBOW" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ANGBAND_ORC" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ANGBAND_WEREWOLVES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BALROG" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WINGLESS_DRAGON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WINGED_DRAGON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VAMPIRES" Kind="KIND_ABILITY"/>
+
+		<!-- End of Extra Units-->
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_CITADEL_GUARD" Tag="CLASS_CITADEL_GUARD"/>
+		<Row Type="ABILITY_ROHIRRIM" Tag="CLASS_ROHIRRIM"/>
+		<Row Type="ABILITY_NOLDOR_WARRIOR" Tag="CLASS_NOLDOR_WARRIOR"/>
+		<Row Type="ABILITY_RIVENDEL_LANCER" Tag="CLASS_RIVENDEL_LANCER"/>
+		<Row Type="ABILITY_MITHLOND_SENTRY" Tag="CLASS_MITHLOND_SENTRY"/>
+		<Row Type="ABILITY_HIGH_ELF_ARCHER" Tag="CLASS_HIGH_ELF_ARCHER"/>
+		<Row Type="ABILITY_SILVAN_SPEARMAN" Tag="CLASS_SILVAN_SPEARMAN"/>
+		<Row Type="ABILITY_MIRKWOOD_ARCHER" Tag="CLASS_MIRKWOOD_ARCHER"/>
+		<Row Type="ABILITY_GALADHRIM_ARCHER" Tag="CLASS_GALADHRIM_ARCHER"/>
+		<Row Type="ABILITY_DWARVEN_GUARDIAN" Tag="CLASS_DWARVEN_GUARDIAN"/>
+		<Row Type="ABILITY_DWARVEN_PHALANXES" Tag="CLASS_DWARVEN_PHALANXES"/>
+		<Row Type="ABILITY_GOAT_RIDERS" Tag="CLASS_GOAT_RIDERS"/>
+		<Row Type="ABILITY_BOAR_RIDERS" Tag="CLASS_BOAR_RIDERS"/>
+		<Row Type="ABILITY_MORANNON_ORC" Tag="CLASS_MORANNON_ORC"/>
+		<Row Type="ABILITY_URUK_HAI" Tag="CLASS_URUK_HAI"/>
+		<Row Type="ABILITY_WARG_RIDER" Tag="CLASS_WARG_RIDER"/>
+		<Row Type="ABILITY_WARG_ARCHER" Tag="CLASS_WARG_ARCHER"/>
+		<Row Type="ABILITY_OLOG_HAI" Tag="CLASS_OLOG_HAI"/>
+		<Row Type="ABILITY_URUK_HAI_PIKEMAN" Tag="CLASS_URUK_HAI_PIKEMAN"/>
+		<Row Type="ABILITY_URUK_BERSERKER" Tag="CLASS_URUK_BERSERKER"/>
+		<Row Type="ABILITY_DUNLANDER" Tag="CLASS_DUNLANDER"/>
+		<Row Type="ABILITY_GOBLIN_WARRIOR" Tag="CLASS_GOBLIN_WARRIOR"/>
+		<Row Type="ABILITY_GOBLIN_ARCHER" Tag="CLASS_GOBLIN_ARCHER"/>
+		<Row Type="ABILITY_GUNDABAD_ORC" Tag="CLASS_GUNDABAD_ORC"/>
+		<Row Type="ABILITY_CAVE_TROLL" Tag="CLASS_CAVE_TROLL"/>
+		<Row Type="ABILITY_MUMAKIL" Tag="CLASS_MUMAKIL"/>
+		<Row Type="ABILITY_HARADRIM_ARCHER" Tag="CLASS_HARADRIM_ARCHER"/>
+		<Row Type="ABILITY_HALDERDMAN" Tag="CLASS_HALDERDMAN"/>
+		<Row Type="ABILITY_KATAPHRAKTS" Tag="CLASS_KATAPHRAKTS"/>
+		<Row Type="ABILITY_VARIAGS" Tag="CLASS_VARIAGS"/>
+		<Row Type="ABILITY_VARIAGS_MOUNTED_ARCHER" Tag="CLASS_VARIAGS"/>
+		<Row Type="ABILITY_VARIAG_CHARIOT" Tag="CLASS_VARIAG_CHARIOT"/>
+		<Row Type="ABILITY_HILL_TROLL" Tag="CLASS_HILL_TROLL"/>
+		<Row Type="ABILITY_SNOW_TROLL" Tag="CLASS_SNOW_TROLL"/>
+		<Row Type="ABILITY_RHUDAUR_SPEARMEN" Tag="CLASS_RHUDAUR_SPEARMEN"/>
+		<Row Type="ABILITY_BLACK_NUMENOREAN_ARCHER" Tag="CLASS_BLACK_NUMENOREAN_ARCHER"/>
+		<Row Type="ABILITY_DUNEDAIN_RANGERS" Tag="CLASS_DUNEDAIN_RANGERS"/>
+
+		<!--City States -->
+		<Row Type="ABILITY_MYLOTR_MELEE_HILLS_BONUS" Tag="CLASS_MELEE"/>
+		<!-- End City States-->
+		<!-- Extra Units-->
+		<Row Type="ABILITY_SWAN_KNIGHTS" Tag="CLASS_SWAN_KNIGHTS"/>
+		<Row Type="ABILITY_GONDOR_LONGBOWMAN" Tag="CLASS_GONDOR_LONGBOWMAN"/>
+		<Row Type="ABILITY_NAZGUL" Tag="CLASS_NAZGUL"/>
+		<Row Type="ABILITY_WINGED_NAZGUL" Tag="CLASS_WINGED_NAZGUL"/>
+		<Row Type="ABILITY_ORC_SPEARMAN" Tag="CLASS_ORC_SPEARMAN"/>
+		<Row Type="ABILITY_ORC_ARCHER" Tag="CLASS_ORC_ARCHER"/>
+		<Row Type="ABILITY_MORGUL_CAVALRY" Tag="CLASS_MORGUL_CAVALRY"/>
+		<Row Type="ABILITY_DWARF_AXE_THROWER" Tag="CLASS_DWARF_AXE_THROWER"/>
+		<Row Type="ABILITY_DWARF_BATTLEWAGON" Tag="CLASS_DWARF_BATTLEWAGON"/>
+		<Row Type="ABILITY_URUK_CROSSBOWMAN" Tag="CLASS_URUK_CROSSBOWMAN"/>
+		<Row Type="ABILITY_LOKE_NAR_ARCHER" Tag="CLASS_LOKE_NAR_ARCHER"/>
+		<Row Type="ABILITY_SILVAN_WARRIOR" Tag="CLASS_SILVAN_WARRIOR"/>
+		<Row Type="ABILITY_ELNAITH" Tag="CLASS_ELNAITH"/>
+		<Row Type="ABILITY_ELDAR_CAVALRY" Tag="CLASS_ELDAR_CAVALRY"/>
+		<Row Type="ABILITY_NOLDOR_ARCHER" Tag="CLASS_NOLDOR_ARCHER"/>
+		<Row Type="ABILITY_NOLDOR_SPEARMAN" Tag="CLASS_NOLDOR_SPEARMAN"/>
+		<Row Type="ABILITY_ENT" Tag="CLASS_ENT"/>
+		<Row Type="ABILITY_TELERI_WARRIOR" Tag="CLASS_TELERI_WARRIOR"/>
+		<Row Type="ABILITY_LAIQUENDI_ARCHER" Tag="CLASS_LAIQUENDI_ARCHER"/>
+		<Row Type="ABILITY_VANYAR_SPEARMAN" Tag="CLASS_VANYAR_SPEARMAN"/>
+		<Row Type="ABILITY_EDAIN_PHALANXES" Tag="CLASS_EDAIN_PHALANXES"/>
+		<Row Type="ABILITY_NUMENOR_STEELBOW" Tag="CLASS_NUMENOR_STEELBOW"/>
+		<Row Type="ABILITY_ANGBAND_ORC" Tag="CLASS_ANGBAND_ORC"/>
+		<Row Type="ABILITY_ANGBAND_WEREWOLVES" Tag="CLASS_ANGBAND_WEREWOLVES"/>
+		<Row Type="ABILITY_BALROG" Tag="CLASS_BALROG"/>
+		<Row Type="ABILITY_WINGLESS_DRAGON" Tag="CLASS_WINGLESS_DRAGON"/>
+		<Row Type="ABILITY_WINGED_DRAGON" Tag="CLASS_WINGLESS_DRAGON"/>
+		<Row Type="ABILITY_VAMPIRES" Tag="CLASS_VAMPIRES"/>
+
+		<!-- End of Extra Units-->
+
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_CITADEL_GUARD" Name="LOC_ABILITY_CITADEL_GUARD_NAME" Description="LOC_ABILITY_CITADEL_GUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ROHIRRIM" Name="LOC_ABILITY_ROHIRRIM_NAME" Description="LOC_ABILITY_ROHIRRIM_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NOLDOR_WARRIOR" Name="LOC_ABILITY_NOLDOR_WARRIOR_NAME" Description="LOC_ABILITY_NOLDOR_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RIVENDEL_LANCER" Name="LOC_ABILITY_RIVENDEL_LANCER_NAME" Description="LOC_ABILITY_RIVENDEL_LANCER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MITHLOND_SENTRY" Name="LOC_ABILITY_MITHLOND_SENTRY_NAME" Description="LOC_ABILITY_MITHLOND_SENTRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HIGH_ELF_ARCHER" Name="LOC_ABILITY_HIGH_ELF_ARCHER_NAME" Description="LOC_ABILITY_HIGH_ELF_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SILVAN_SPEARMAN" Name="LOC_ABILITY_SILVAN_SPEARMAN_NAME" Description="LOC_ABILITY_SILVAN_SPEARMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MIRKWOOD_ARCHER" Name="LOC_ABILITY_MIRKWOOD_ARCHER_NAME" Description="LOC_ABILITY_MIRKWOOD_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GALADHRIM_ARCHER" Name="LOC_ABILITY_GALADHRIM_ARCHER_NAME" Description="LOC_ABILITY_GALADHRIM_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARVEN_GUARDIAN" Name="LOC_ABILITY_DWARVEN_GUARDIAN_NAME" Description="LOC_ABILITY_DWARVEN_GUARDIAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARVEN_PHALANXES" Name="LOC_ABILITY_DWARVEN_PHALANXES_NAME" Description="LOC_ABILITY_DWARVEN_PHALANXES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOAT_RIDERS" Name="LOC_ABILITY_GOAT_RIDERS_NAME" Description="LOC_ABILITY_GOAT_RIDERS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BOAR_RIDERS" Name="LOC_ABILITY_BOAR_RIDERS_NAME" Description="LOC_ABILITY_BOAR_RIDERS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MORANNON_ORC" Name="LOC_ABILITY_MORANNON_ORC_NAME" Description="LOC_ABILITY_MORANNON_ORC_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_URUK_HAI" Name="LOC_ABILITY_URUK_HAI_NAME" Description="LOC_ABILITY_URUK_HAI_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WARG_RIDER" Name="LOC_ABILITY_WARG_RIDER_NAME" Description="LOC_ABILITY_WARG_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WARG_ARCHER" Name="LOC_ABILITY_WARG_ARCHER_NAME" Description="LOC_ABILITY_WARG_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_OLOG_HAI" Name="LOC_ABILITY_OLOG_HAI_NAME" Description="LOC_ABILITY_OLOG_HAI_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_URUK_HAI_PIKEMAN" Name="LOC_ABILITY_URUK_HAI_PIKEMAN_NAME" Description="LOC_ABILITY_URUK_HAI_PIKEMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_URUK_BERSERKER" Name="LOC_ABILITY_URUK_BERSERKER_NAME" Description="LOC_ABILITY_URUK_BERSERKER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DUNLANDER" Name="LOC_ABILITY_DUNLANDER_NAME" Description="LOC_ABILITY_DUNLANDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOBLIN_WARRIOR" Name="LOC_ABILITY_GOBLIN_WARRIOR_NAME" Description="LOC_ABILITY_GOBLIN_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOBLIN_ARCHER" Name="LOC_ABILITY_GOBLIN_ARCHER_NAME" Description="LOC_ABILITY_GOBLIN_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GUNDABAD_ORC" Name="LOC_ABILITY_GUNDABAD_ORC_NAME" Description="LOC_ABILITY_GUNDABAD_ORC_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_CAVE_TROLL" Name="LOC_ABILITY_CAVE_TROLL_NAME" Description="LOC_ABILITY_CAVE_TROLL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MUMAKIL" Name="LOC_ABILITY_MUMAKIL_NAME" Description="LOC_ABILITY_MUMAKIL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HARADRIM_ARCHER" Name="LOC_ABILITY_HARADRIM_ARCHER_NAME" Description="LOC_ABILITY_HARADRIM_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HALDERDMAN" Name="LOC_ABILITY_HALDERDMAN_NAME" Description="LOC_ABILITY_HALDERDMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_KATAPHRAKTS" Name="LOC_ABILITY_KATAPHRAKTS_NAME" Description="LOC_ABILITY_KATAPHRAKTS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VARIAGS" Name="LOC_ABILITY_VARIAGS_NAME" Description="LOC_ABILITY_VARIAGS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VARIAGS_MOUNTED_ARCHER" Name="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_NAME" Description="LOC_ABILITY_VARIAGS_MOUNTED_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VARIAG_CHARIOT" Name="LOC_ABILITY_VARIAG_CHARIOT_NAME" Description="LOC_ABILITY_VARIAG_CHARIOT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HILL_TROLL" Name="LOC_ABILITY_HILL_TROLL_NAME" Description="LOC_ABILITY_HILL_TROLL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SNOW_TROLL" Name="LOC_ABILITY_SNOW_TROLL_NAME" Description="LOC_ABILITY_SNOW_TROLL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RHUDAUR_SPEARMEN" Name="LOC_ABILITY_RHUDAUR_SPEARMEN_NAME" Description="LOC_ABILITY_RHUDAUR_SPEARMEN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BLACK_NUMENOREAN_ARCHER" Name="LOC_ABILITY_BLACK_NUMENOREAN_ARCHER_NAME" Description="LOC_ABILITY_BLACK_NUMENOREAN_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DUNEDAIN_RANGERS" Name="LOC_ABILITY_DUNEDAIN_RANGERS_NAME" Description="LOC_ABILITY_DUNEDAIN_RANGERS_DESCRIPTION"/>
+
+		<!--City States -->
+		<Row UnitAbilityType="ABILITY_MYLOTR_MELEE_HILLS_BONUS" Name="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_NAME" Description="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_DESCRIPTION" Inactive="true"/>
+		<!-- End City States-->
+
+		<!-- Extra Units-->
+		<Row UnitAbilityType="ABILITY_SWAN_KNIGHTS" Name="LOC_ABILITY_SWAN_KNIGHTS_NAME" Description="LOC_ABILITY_SWAN_KNIGHTS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GONDOR_LONGBOWMAN" Name="LOC_ABILITY_GONDOR_LONGBOWMAN_NAME" Description="LOC_ABILITY_GONDOR_LONGBOWMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NAZGUL" Name="LOC_ABILITY_NAZGUL_NAME" Description="LOC_ABILITY_NAZGUL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WINGED_NAZGUL" Name="LOC_ABILITY_WINGED_NAZGUL_NAME" Description="LOC_ABILITY_WINGED_NAZGUL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ORC_SPEARMAN" Name="LOC_ABILITY_ORC_SPEARMAN_NAME" Description="LOC_ABILITY_ORC_SPEARMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ORC_ARCHER" Name="LOC_ABILITY_ORC_ARCHER_NAME" Description="LOC_ABILITY_ORC_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MORGUL_CAVALRY" Name="LOC_ABILITY_MORGUL_CAVALRY_NAME" Description="LOC_ABILITY_MORGUL_CAVALRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARF_AXE_THROWER" Name="LOC_ABILITY_DWARF_AXE_THROWER_NAME" Description="LOC_ABILITY_DWARF_AXE_THROWER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARF_BATTLEWAGON" Name="LOC_ABILITY_DWARF_BATTLEWAGON_NAME" Description="LOC_ABILITY_DWARF_BATTLEWAGON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_URUK_CROSSBOWMAN" Name="LOC_ABILITY_URUK_CROSSBOWMAN_NAME" Description="LOC_ABILITY_URUK_CROSSBOWMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LOKE_NAR_ARCHER" Name="LOC_ABILITY_LOKE_NAR_ARCHER_NAME" Description="LOC_ABILITY_LOKE_NAR_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SILVAN_WARRIOR" Name="LOC_ABILITY_SILVAN_WARRIOR_NAME" Description="LOC_ABILITY_SILVAN_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELNAITH" Name="LOC_ABILITY_ELNAITH_NAME" Description="LOC_ABILITY_ELNAITH_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELDAR_CAVALRY" Name="LOC_ABILITY_ELDAR_CAVALRY_NAME" Description="LOC_ABILITY_ELDAR_CAVALRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NOLDOR_ARCHER" Name="LOC_ABILITY_NOLDOR_ARCHER_NAME" Description="LOC_ABILITY_NOLDOR_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NOLDOR_SPEARMAN" Name="LOC_ABILITY_NOLDOR_SPEARMAN_NAME" Description="LOC_ABILITY_NOLDOR_SPEARMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ENT" Name="LOC_ABILITY_ENT_NAME" Description="LOC_ABILITY_ENT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TELERI_WARRIOR" Name="LOC_ABILITY_TELERI_WARRIOR_NAME" Description="LOC_ABILITY_TELERI_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LAIQUENDI_ARCHER" Name="LOC_ABILITY_LAIQUENDI_ARCHER_NAME" Description="LOC_ABILITY_LAIQUENDI_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VANYAR_SPEARMAN" Name="LOC_ABILITY_VANYAR_SPEARMAN_NAME" Description="LOC_ABILITY_VANYAR_SPEARMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_EDAIN_PHALANXES" Name="LOC_ABILITY_EDAIN_PHALANXES_NAME" Description="LOC_ABILITY_EDAIN_PHALANXES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NUMENOR_STEELBOW" Name="LOC_ABILITY_NUMENOR_STEELBOW_NAME" Description="LOC_ABILITY_NUMENOR_STEELBOW_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ANGBAND_ORC" Name="LOC_ABILITY_ANGBAND_ORC_NAME" Description="LOC_ABILITY_ANGBAND_ORC_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ANGBAND_WEREWOLVES" Name="LOC_ABILITY_ANGBAND_WEREWOLVES_NAME" Description="LOC_ABILITY_ANGBAND_WEREWOLVES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BALROG" Name="LOC_ABILITY_BALROG_NAME" Description="LOC_ABILITY_BALROG_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WINGLESS_DRAGON" Name="LOC_ABILITY_WINGLESS_DRAGON_NAME" Description="LOC_ABILITY_WINGLESS_DRAGON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WINGED_DRAGON" Name="LOC_ABILITY_WINGED_DRAGON_NAME" Description="LOC_ABILITY_WINGED_DRAGON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VAMPIRES" Name="LOC_ABILITY_VAMPIRES_NAME" Description="LOC_ABILITY_VAMPIRES_DESCRIPTION"/>
+
+		<!-- End of Extra Units-->
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_CITADEL_GUARD</UnitAbilityType>
+			<ModifierId>MYLOTR_CITADEL_GUARD_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ROHIRRIM</UnitAbilityType>
+			<ModifierId>HEAL_AFTER_DEFEATING_UNIT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ROHIRRIM</UnitAbilityType>
+			<ModifierId>MYLOTR_ROHIRRIM_BONUS_VS_MELEE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NOLDOR_WARRIOR</UnitAbilityType>
+			<ModifierId>MYLOTR_MELEE_CAVALRY_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RIVENDEL_LANCER</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MITHLOND_SENTRY</UnitAbilityType>
+			<ModifierId>COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HIGH_ELF_ARCHER</UnitAbilityType>
+			<ModifierId>MYLOTR_HIGH_ELF_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SILVAN_SPEARMAN</UnitAbilityType>
+			<ModifierId>MYLOTR_MELEE_CAVALRY_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MIRKWOOD_ARCHER</UnitAbilityType>
+			<ModifierId>MYLOTR_MIRKWOOD_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GALADHRIM_ARCHER</UnitAbilityType>
+			<ModifierId>MYLOTR_GALADHRIM_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARVEN_GUARDIAN</UnitAbilityType>
+			<ModifierId>COSSACK_LOCAL_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARVEN_PHALANXES</UnitAbilityType>
+			<ModifierId>MYLOTR_DWARVEN_PHALANXES_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GOAT_RIDERS</UnitAbilityType>
+			<ModifierId>BALKAN_CAVALRY_COMBAT_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BOAR_RIDERS</UnitAbilityType>
+			<ModifierId>MYLOTR_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BOAR_RIDERS</UnitAbilityType>
+			<ModifierId>COURSERS_BONUS_VS_RANGED_SIEGE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MORANNON_ORC</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_HAI</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WARG_RIDER</UnitAbilityType>
+			<ModifierId>VULTURE_BONUS_VS_DAMAGED</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WARG_ARCHER</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_OLOG_HAI</UnitAbilityType>
+			<ModifierId>MYLOTR_TROL_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_HAI_PIKEMAN</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_BERSERKER</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_BERSERKER</UnitAbilityType>
+			<ModifierId>UNIT_STRONG_WHEN_ATTACKING</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_BERSERKER</UnitAbilityType>
+			<ModifierId>UNIT_WEAK_WHEN_DEFENDING</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DUNLANDER</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GOBLIN_WARRIOR</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GOBLIN_ARCHER</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GUNDABAD_ORC</UnitAbilityType>
+			<ModifierId>ROUGH_RIDER_BONUS_ON_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_CAVE_TROLL</UnitAbilityType>
+			<ModifierId>MYLOTR_TROL_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MUMAKIL</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HARADRIM_ARCHER</UnitAbilityType>
+			<ModifierId>REDCOAT_FOREIGN_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HALDERDMAN</UnitAbilityType>
+			<ModifierId>MYLOTR_EXTRA_ANTI_CAVALRY_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_KATAPHRAKTS</UnitAbilityType>
+			<ModifierId>MYLOTR_NOT_LOCAL_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VARIAGS</UnitAbilityType>
+			<ModifierId>MYLOTR_POST_COMBAT_GOLD</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VARIAGS_MOUNTED_ARCHER</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VARIAG_CHARIOT</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HILL_TROLL</UnitAbilityType>
+			<ModifierId>BALKAN_CAVALRY_COMBAT_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SNOW_TROLL</UnitAbilityType>
+			<ModifierId>MYLOTR_SNOW_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RHUDAUR_SPEARMEN</UnitAbilityType>
+			<ModifierId>BALKAN_CAVALRY_COMBAT_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BLACK_NUMENOREAN_ARCHER</UnitAbilityType>
+			<ModifierId>CONQUISTADOR_CITY_RELIGION_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DUNEDAIN_RANGERS</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DUNEDAIN_RANGERS</UnitAbilityType>
+			<ModifierId>COSSACK_LOCAL_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<!--City States -->
+		<Row>
+			<UnitAbilityType>ABILITY_MYLOTR_MELEE_HILLS_BONUS</UnitAbilityType>
+			<ModifierId>MYLOTR_MELEE_HILLS_BONUS</ModifierId>
+		</Row>
+		<!-- End City States-->
+		<!-- Extra Units-->
+		<Row>
+			<UnitAbilityType>ABILITY_SWAN_KNIGHTS</UnitAbilityType>
+			<ModifierId>COURSERS_BONUS_VS_RANGED_SIEGE</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GONDOR_LONGBOWMAN</UnitAbilityType>
+			<ModifierId>MYLOTR_OCCUPING_DISTRICT_FORT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NAZGUL</UnitAbilityType>
+			<ModifierId>DOUBLE_ENVELOPMENT_BONUS_FLANKING_BONUS_MODIFIER</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGED_NAZGUL</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ORC_SPEARMAN</UnitAbilityType>
+			<ModifierId>UNIT_REDUCED_PILLAGE_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ORC_ARCHER</UnitAbilityType>
+			<ModifierId>EXPERT_MARKSMAN_ADDITIONAL_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MORGUL_CAVALRY</UnitAbilityType>
+			<ModifierId>VULTURE_BONUS_VS_DAMAGED</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARF_AXE_THROWER</UnitAbilityType>
+			<ModifierId>SCHILTRON_DEFENSE_BONUS_VS_MELEE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARF_BATTLEWAGON</UnitAbilityType>
+			<ModifierId>FADE_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_URUK_CROSSBOWMAN</UnitAbilityType>
+			<ModifierId>URBAN_RAIDER_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LOKE_NAR_ARCHER</UnitAbilityType>
+			<ModifierId>HOLD_THE_LINE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SILVAN_WARRIOR</UnitAbilityType>
+			<ModifierId>CHOKE_POINTS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELNAITH</UnitAbilityType>
+			<ModifierId>THRUST_BONUS_VS_MELEE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELDAR_CAVALRY</UnitAbilityType>
+			<ModifierId>COURSERS_BONUS_VS_RANGED_SIEGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NOLDOR_ARCHER</UnitAbilityType>
+			<ModifierId>SCHILTRON_DEFENSE_BONUS_VS_MELEE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NOLDOR_SPEARMAN</UnitAbilityType>
+			<ModifierId>CREW_WEAPONS_DEFENSE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ENT</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ENT</UnitAbilityType>
+			<ModifierId>MYLOTR_ENT_COMBAT_BONUS</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TELERI_WARRIOR</UnitAbilityType>
+			<ModifierId>TOP_COVER_DEFENSE_BONUS_VS_RANGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LAIQUENDI_ARCHER</UnitAbilityType>
+			<ModifierId>CHOKE_POINTS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VANYAR_SPEARMAN</UnitAbilityType>
+			<ModifierId>BATTLECRY_BONUS_VS_MELEE_RANGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_EDAIN_PHALANXES</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NUMENOR_STEELBOW</UnitAbilityType>
+			<ModifierId>COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ANGBAND_ORC</UnitAbilityType>
+			<ModifierId>ROUGH_RIDER_BONUS_ON_HILLS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ANGBAND_WEREWOLVES</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BALROG</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGLESS_DRAGON</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGLESS_DRAGON</UnitAbilityType>
+			<ModifierId>ENABLE_WALL_ATTACK</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGED_DRAGON</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGED_DRAGON</UnitAbilityType>
+			<ModifierId>ENABLE_WALL_ATTACK</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WINGED_DRAGON</UnitAbilityType>
+			<ModifierId>URBAN_RAIDER_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VAMPIRES</UnitAbilityType>
+			<ModifierId>VULTURE_BONUS_VS_DAMAGED</ModifierId>
+		</Row>
+		<!-- End of Extra Units-->
+		
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYLOTR_CITADEL_GUARD_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_CITADEL_GUARD_PLOT_IS_CITADEL_GUARD_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_ROHIRRIM_BONUS_VS_MELEE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>THRUST_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MELEE_CAVALRY_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_HIGH_ELF_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_NOLDOR_WARRIOR_MITHLOND_SENTRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MIRKWOOD_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_SILVAN_SPEARMAN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_GALADHRIM_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_GALADHRIM_ARCHER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DWARVEN_PHALANXES_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_DWARVEN_PHALANXES_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TROL_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>THRUST_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_ANTI_CAVALRY_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>ANTI_CAVALRY_OPPONENT_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_NOT_LOCAL_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_POST_COMBAT_GOLD</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_SNOW_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYLOTR_MELEE_HILLS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BALKAN_CAVALRY_PLOT_IS_HILS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- End City States-->
+		<!-- Extra Units-->
+		<Row>
+			<ModifierId>MYLOTR_OCCUPING_DISTRICT_FORT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GARRISON_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- End of Extra Units-->
+		<Row>
+			<ModifierId>MYLOTR_ENT_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYLOTR_FOREST_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYLOTR_CITADEL_GUARD_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_ROHIRRIM_BONUS_VS_MELEE</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MELEE_CAVALRY_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_HIGH_ELF_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_MIRKWOOD_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_GALADHRIM_ARCHER_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_DWARVEN_PHALANXES_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER</ModifierId>
+			<Name>Percent</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_TROL_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_EXTRA_ANTI_CAVALRY_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_NOT_LOCAL_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_POST_COMBAT_GOLD</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_POST_COMBAT_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYLOTR_SNOW_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYLOTR_MELEE_HILLS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!-- End City States-->
+		<!-- Extra Units-->
+		<Row>
+			<ModifierId>MYLOTR_OCCUPING_DISTRICT_FORT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!-- End of Extra Units-->
+		<Row>
+			<ModifierId>MYLOTR_ENT_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+
+
+	<ModifierStrings>
+		<Row ModifierId="MYLOTR_CITADEL_GUARD_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_CITADEL_GUARD_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_ROHIRRIM_BONUS_VS_MELEE" Context="Preview" Text="LOC_ABILITY_ROHIRRIM_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_MELEE_CAVALRY_BONUS" Context="Preview" Text="LOC_ABILITY_NOLDOR_WARRIOR_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_HIGH_ELF_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_HIGH_ELF_ARCHER_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_MIRKWOOD_ARCHER_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_MIRKWOOD_ARCHER_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_GALADHRIM_ARCHER_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_GALADHRIM_ARCHER_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_DWARVEN_PHALANXES_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_DWARVEN_PHALANXES_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_FIFTY_PERCENT_FLANKING_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_BOAR_RIDERS_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_TROL_COMBAT_MELEE_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_OLOG_HAI_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_EXTRA_ANTI_CAVALRY_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_HALDERDMAN_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_NOT_LOCAL_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_KATAPHRAKTS_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_SNOW_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_SNOW_TROLL_DESCRIPTION"/>
+
+		<!--City States -->
+		<Row ModifierId="MYLOTR_MELEE_HILLS_BONUS" Context="Preview" Text="LOC_ABILITY_MYLOTR_MELEE_HILLS_BONUS_DESCRIPTION"/>
+		<!-- End City States-->
+		<!-- Extra Units-->
+		<Row ModifierId="MYLOTR_OCCUPING_DISTRICT_FORT" Context="Preview" Text="LOC_ABILITY_GONDOR_LONGBOWMAN_DESCRIPTION"/>
+		<Row ModifierId="MYLOTR_ENT_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_BROTHER_RANGER_DESCRIPTION"/>
+		<!-- End of Extra Units-->
+
+	</ModifierStrings>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYLOTR_CITADEL_GUARD_PLOT_IS_CITADEL_GUARD_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_NOLDOR_WARRIOR_MITHLOND_SENTRY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_SILVAN_SPEARMAN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_GALADHRIM_ARCHER_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_DWARVEN_PHALANXES_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_FOREST_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYLOTR_CITADEL_GUARD_PLOT_IS_CITADEL_GUARD_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_CITADEL_GUARD</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_MELEE_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_LC</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ANTI_CAVALRY_OPPONENT_REQUIREMENT_HC</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_NOLDOR_WARRIOR_MITHLOND_SENTRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_NOLDOR_WARRIOR</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_NOLDOR_WARRIOR_MITHLOND_SENTRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_MITHLOND_SENTRY</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_SILVAN_SPEARMAN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_SILVAN_SPEARMAN</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_GALADHRIM_ARCHER_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_GALADHRIM_ARCHER</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_PLOT_IS_NEXT_TO_DWARVEN_PHALANXES_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_DWARVEN_PHALANXES</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_UNIT_NOT_IN_OWNER_TERRITORY_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_SNOW_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_TUNDRA_HILLS</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYLOTR_FOREST_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_CITADEL_GUARD</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_NOLDOR_WARRIOR</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_MITHLOND_SENTRY</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_SILVAN_SPEARMAN</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_GALADHRIM_ARCHER</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_DWARVEN_PHALANXES</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_UNIT_NOT_IN_OWNER_TERRITORY_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_UNIT_IN_OWNER_TERRITORY</RequirementType>
+			<Inverse>true</Inverse>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_CITADEL_GUARD</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_CITADEL_GUARD</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_NOLDOR_WARRIOR</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_NOLDOR_WARRIOR</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_MITHLOND_SENTRY</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_MITHLOND_SENTRY</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_SILVAN_SPEARMAN</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_SILVAN_SPEARMAN</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_GALADHRIM_ARCHER</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_GALADHRIM_ARCHER</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_UNIT_NEXT_TO_DWARVEN_PHALANXES</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_DWARVEN_PHALANXES</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW_HILLS</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

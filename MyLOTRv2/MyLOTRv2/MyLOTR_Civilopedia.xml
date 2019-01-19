@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_QUOTE"  Language="en_US">
+			<Text>I am Aragorn son of Arathorn, and am called Elessar, the Elfstone, Dúnadain, the heir of Isildur Elendil's son of Gondor. Here is the sword that was broken and is forged again!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_QUOTE"  Language="en_US">
+			<Text>Arise, arise, Riders of Théoden! Fell deeds awake: fire and slaughter! spear shall be shaken, shield be splintered, a sword-day, a red day, ere the sun rises! Ride now, ride now! Ride to Gondor!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_QUOTE"  Language="en_US">
+			<Text>I was there, Gandalf. I was there three thousand years ago, when Isildur took the ring. I was there the day the strength of Men failed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_QUOTE"  Language="en_US">
+			<Text>Even the smallest person can change the course of the future.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_QUOTE"  Language="en_US">
+			<Text>Such is the nature of evil. In time all foul things come forth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_QUOTE"  Language="en_US">
+			<Text>Good morning. How are we all? I have a wee proposition, if you don't mind giving me a few moments of your time. Would you consider... JUST SODDING OFF! All ye, right now!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_QUOTE"  Language="en_US">
+			<Text>One ring to rule them all, One ring to find them, One ring to bring them all and in the darkness bind them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SARUMAN_QUOTE"  Language="en_US">
+			<Text>Time? What time do you think we have?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORKIL_QUOTE"  Language="en_US">
+			<Text>Bones will be shattered, necks will be wrung! You'll be beaten and battered, from racks you'll be hung! You will die down here and never be found! Down in the deep of Goblin-Town!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KHAMUL_QUOTE"  Language="en_US">
+			<Text>Shire... Baggins..</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WITCH_KING_QUOTE"  Language="en_US">
+			<Text>Come not between the Nazgul and his prey! Or he will not slay thee in thy turn. He will bear thee away to the houses of lamentation, beyond all darkness, where thy flesh shall be devoured, and thy shriveled mind be left naked to the Lidless Eye.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELENDIL_QUOTE"  Language="en_US">
+			<Text>Out of the Great Sea to Middle-earth I am come. In this place I will abide, and my heirs, unto the ending of the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_QUOTE"  Language="en_US">
+			<Text>Take this ring, Master… for your labours will be heavy; but it will support you in the weariness that you have taken upon yourself. For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill. But as for me, my heart is with the Sea, and I will dwell by the grey shores until the last ship sails. I will await you.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZOG_QUOTE"  Language="en_US">
+			<Text>Do you smell it? The scent of fear? I remember your father reeked of it... Thorin, son of Thrain.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEARAS_STABLE_QUOTE" Language="en_US">
+			<Text>You do not ride Shadowfax: he is willing to carry you-or not. If he is willing, that is enough. It is then his business to see that you remain on his back, unless you jump off into the air. – Gandalf about Shadowfax</Text>
+		</Row>
+		<!-- GONDOR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_GONDOR_LOCATION" Language="en_US">
+			<Text>South Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GONDOR_SIZE" Language="en_US">
+			<Text>Gondor: 716,426 square miles(1,855,535km²)[NEWLINE] Reunited Kingdom: 909,510 square miles(2,355,620km²)[NEWLINE] Arnor: 248,540 square miles(643,715.6km²)[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GONDOR_POPULATION" Language="en_US">
+			<Text>1-2 Million before the Reunaited Kingdom</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GONDOR_CAPITAL" Language="en_US">
+			<Text>Minas Tirith (since TA 1640), Before Osgiliath (SA 3320 - TA 1640)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GONDOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gondor was founded by the brothers Isildur and Anárion, exiles from Númenor. Gondor was an allied kingdom with Arnor, whose line of king chieftains came from Isildur, while the Line of the Kings of Gondor was from Anárion. Gondor was at the height of its power in its early years due to the ships and the military might that its armies possessed. However, continued attacks by allies of Sauron, civil war, and a devastating plague caused it to gradually decline over the course of the Third Age until Sauron's final defeat and the crowning of Aragorn II Elessar. Following that time the power of Gondor once again expanded, until the former lands of Arnor were brought under the banner of the Reunited Kingdom. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_TITLE" Language="en_US">
+			<Text>Aragorn II Elessar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_SUBTITLE" Language="en_US">
+			<Text>Twenty-sixth King of Arnor, thirty-fifth King of Gondor and the first High King of the Reunited Kingdom</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARAGORN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Aragorn II, the son of Arathorn II and Gilraen, also known as Elessar. 16th Chieftain of the Dúnedain of the North; he was later crowned King Elessar Telcontar (March 1, 2931 - FO 120 or SR 1541), the 26th King of Arnor, and the 35th King of Gondor and first High King of Gondor and Arnor, since the short reign of Isildur.</Text>
+		</Row>
+		<!-- END OF GONDOR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<!-- ROHAN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_ROHAN_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROHAN_SIZE" Language="en_US">
+			<Text>52,763 square miles (136,655.5km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROHAN_POPULATION" Language="en_US">
+			<Text>400,000-600,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROHAN_CAPITAL" Language="en_US">
+			<Text>Edoras (since  TA 2569), Before(Aldburg TA 2510- TA 2569)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The land of Rohan was orginally part of Gondor but it gained independence from Gondor. The land was first known as "Rohan" to the Men of Gondor, and its people the Rohirrim, meaning 'the Horse-lords', but the people of Rohan called themselves the Eorlingas, sons of Eorl the Young, first King of Rohan, as the land of Calenardhon was given in gift to Eorl and his people by Cirion, Steward of Gondor, in thanks for their service to Gondor in battle against the Balchoth. Eorl, the first king, swore an oath of friendship, at need or at call, to the Lords of Gondor, and thus the Rohirrim became the greatest allies of the Men of Gondor throughout the Third Age and beyond. They were known for their cavalry and horse training, which came into use countless times in battles such as the Battle of the Hornburg and on the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Rohan was an inland realm. Its countryside is described as a land of pastures and lush tall grassland which is frequently windswept. The meadows contain "many hidden pools, and broad acres of sedge waving above wet and treacherous bogs," which water the grasses. The lands of Rohan are frequently described as appearing like "seas of grass", and are therefore perfect for horses (the word roch, in Sindarin, means horse). At the time of the War of the Ring, Rohan was roughly a third the size of Gondor, whose borders had slowly been shrinking for centuries. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROHAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Its warm-continental climate generally brought hot summers and brisk but short winters, marking a midpoint between the harsh winters of Wilderland (to the north) and the long, subtropical summers of southern Gondor. The winds and air masses can come from almost any direction and the weather is highly variable in any season.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_TITLE" Language="en_US">
+			<Text>King Théoden</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_SUBTITLE" Language="en_US">
+			<Text>Seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Théoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. By the time of the War of the Ring, Théoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Gríma , who was secretly in the employ of Saruman the White. Gríma may even have been poisoning Théoden. In the last years before the War of the Ring, Théoden let his rule slip out of his hands, and Gríma gained an increasingly large hold over him. Rohan was troubled again by Orcs and Dunlendings as well as the new fighting Uruk-hai, who operated under the will of Saruman, ruling from Isengard.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODEN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, Théoden initially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gríma, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Théoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Théoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. </Text>
+		</Row>
+		<!-- END OF ROHAN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<!-- ELDAR ELVES  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ELDAR_ELVES_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ELDAR_ELVES_POPULATION" Language="en_US">
+			<Text>Early SA 150,000. In the TA 20,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ELDAR_ELVES_CAPITAL" Language="en_US">
+			<Text>The Realm of Eregion is Ost-in-Edhil(SA 750-SA 1697), The Realm of Lindon is Mithlond(since SA 1)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ELDAR_ELVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>After the destruction of Beleriand in the War of Wrath, the remaining Ñoldor repented of their rebellion and many returned to Eldamar along with some of the Sindar. The elves that chose to remain in Middle-earth founded peaceful realms. Most of the Ñoldor lived in Lindon with Gil-galad, the High King of the Ñoldor. Hundreds of years later Celebrimbor, the last of the House of Fëanor, founded a new Ñoldorin realm called Eregion. The Sindar joined also with Gil-galad in Lindon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ELDAR_ELVES_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Elven realms flourished for over one thousand years until SA 1200 when Sauron, under the guise of a messenger from the Valar, appeared out of the East to offer knowledge to the elves. Gil-galad mistrusted him and barred him from his kingdom. Sauron then approached Celebrimbor and the Elves of Eregion, and against Gil-galad's advice they accepted him and his knowledge. With Annatar's help, Celebrimbor forged the Rings of Power, but Three Rings alone were made in secret by Celebrimbor and were not directly touched by Sauron's power. Then, Sauron forged the One Ring in order to control the others. The elves discovered Sauron's plan and took off their rings. Celebrimbor sent the ring Nenya to Galadriel and sent Vilya and Narya to Gil-galad in Lindon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ELDAR_ELVES_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Furious that the elves had foiled his plans for domination, Sauron demanded the return of the rings and when they refused he prepared for war. For eight years, Sauron laid waste to Middle-earth in his war against the Elves, destroying Eregion and killing Celebrimbor. Eventually, with help of the Númenóreans, Gil-galad was able to lead the elves to victory. Gil-galad then decided to abandon Eregion in favor of the new refuge of Rivendell formed at the foothills of the Misty Mountains and he made his herald, Elrond, the Lord of Rivendell and his representative in Eriador. Lindon survived still as the greatest kingdom of elves in Middle-earth. The rest of the elves of Middle-earth who survived either moved to Lindon, sailed for the West, or continued to live in their lands under caution due to the continued threat from Sauron. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ELDAR_ELVES_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>By the latter half of the Second Age, Men continued to spread and grow in Middle-earth. The Faithful from the Downfall of Númenór founded the great mannish kingdoms of Arnor and Gondor. Though Men were set to supplant them in Middle-earth, the Elves were powerful and numerous enough to join with Men one last time to defeat Sauron. Gil-galad led the second greatest host of elves ever seen in Arda and formed the Last Alliance with Elendil, High King of all Dúnedain, and vanquished Sauron in SA 3441. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ELDAR_ELVES_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>With the Dominion of Men at hand, the Elves became less numerous and more secluded with many becoming wearier of the now mortal lands. Only the realms of Lindon, Lothlórien, and Rivendell survived as havens of Elven bliss. High Elves continued to live in Lindon but most sailed into the West after their king's death. The last of the High Elves left Middle-earth after the final defeat of Sauron in the War of the Ring.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elrond Half-elven, Lord of Rivendell, was one of the mighty Elf-rulers of old who lived in Middle-earth from the First Age to the beginning of the Fourth Age. He was the father of Arwen Undomiel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Elrond Half-elven is the son of Eärendil and Elwing, and a great-grandson of Lúthien. He was born in the refuge of the Havens of Sirion in Beleriand late in the First Age, soon before its sack by the Sons of Fëanor. Elrond and his twin brother Elros were captured and raised by Maedhros and Maglor, the Sons of Fëanor. Though at first there was no great love between them, eventually Maglor took pity on them and cherished them, and eventually grew to love them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Elrond and Elros were given the choice at the end of the First Age to be counted among Men or Elves. Elros chose the Fate of Men and became Elros Tar-Minyatur, the first King of Númenor. Elrond chose to be counted among the Elves, and remained in Lindon as captain and herald of Gil-Galad, the High King of the Ñoldor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In SA 1695, Elrond was sent to Eregion by Gil-galad in an attempt to protect it from the invading forces of Sauron. Unfortunately, Elrond's host was too weak and was unable to hold off Sauron's army. He retreated north with a host of elves out of Eregion including Celeborn and remained ever watchful of Sauron from there. It was during the following two years (SA 1697) that Elrond founded Rivendell at the feet of the Misty Mountains, which survived as one of the last remaining strongholds against Sauron at the end of the Third Age.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>After the combined forces of the elves under Gil-Galad, Cirdan, Elrond and the Men of Númenor defeated Sauron in SA 1701 Elrond remained in Rivendell and hosted the first White Council, attended by Galadriel, at which it was decided that Elrond's home, the Last Homely House, would remain the last stronghold west of the Misty Mountains, and that the Three Rings then held by Gil-Galad and Galadriel would remain hidden. According to one account Gil-Galad at this time gave Elrond Vilya the Blue Ring, though in other accounts Gil-Galad kept both Narya and Vilya until the end of the Second Age. It was also here that Elrond first met Celebrían, the daughter of Celeborn and Galadriel.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Near the end of the Second Age, Elrond rode beside Gil-Galad in the Last Alliance of Elves and Men, which set out from Rivendell to Mordor in SA 3431. Elrond was Gil-galad's herald during the war against Sauron. The Alliance, which also included elves from Lorien, men from Arnor and Gondor, and Dwarves led by Durin lV, eventually defeated Sauron's army and laid siege to Barad-dûr for seven years. Eventually, Sauron himself was defeated by Elendil and Gil-galad, allowing Isildur to cut the One Ring from Sauron's finger and claim the Ring for himself. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>he Last Alliance of Elves and Men took a toll on the forces of both Elves and Men. Gil-Galad, Elendil, and his younger son Anarion were killed in the siege. Elrond and Cirdan only remained as the commanders of the elves, and Isildur as lord of men. Upon discovering that Isildur had claimed the One Ring for himself Elrond urged Isildur to throw the Ring into the fires of Mount Doom, but the seduction of the ring made Isildur refuse. Isildur claimed the Ring as a Weregild for his father and brother, and Elrond (perhaps not fully understanding the nature of the One Ring) acknowledged his claim. Isildur was then named High King of Gondor and Arnor and took his father's throne, while Elrond returned to Rivendell at the end of the war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROND_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Elrond remained in Rivendell until the destruction of the One Ring and of Sauron, after which he went to Minas Tirith to surrender the Sceptre of Annúminas to King Elessar and give his daughter Arwen Undómiel away to be married. On September 29, 3021 TA, Elrond left Middle-earth to go over the sea with the other Ring-bearers, never to return.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Círdan was a Telerin Elf, a great mariner and shipwright in Middle-earth. In the First Age, Círdan was a ruler of a host of the Teleri under Elwë, and during the long wait in Beleriand he fell in love with the sea. When Ulmo returned for the Teleri, Círdan and his followers remained behind, partially because of their love for Belegaer, and partially because of his kinship with Elwë, who was lost. After Elwë returned and became King Thingol, Círdan ruled the Falathrim of the havens of Eglarest and Brithombar, although he seemed to have accepted Thingol's overlordship. Later he became an advisor and friend of Finrod Felagund, Lord of Nargothrond, although the Falas remained independent. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After the havens of the Falas were destroyed by FA 474, Círdan was instrumental in setting up the refuges at the Mouths of Sirion and the Isle of Balar, to which he retired for the remainder of the age. It was on this isle that he built the great ship Vingilot for Eärendil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In the Second Age, Círdan stayed behind when the Elves were summoned to Valinor, and set up the havens of Forlond, Harlond and Mithlond in the destroyed land of Lindon. Where he served as lieutenant of Gil-galad, the last High King of the Ñoldor of Middle-earth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>From the Third Age onwards, after the fall of Gil-galad and the beginning of the Age of Men, Círdan remained at the Grey Havens of Mithlond where he was lord, and built ships which ferried the departing Elves to Valinor. Círdan had possession of the one of the Three Elven Rings, Narya, but when the Wizards or Istari arrived in the early Third Age he recognised Olórin's wisdom (Gandalf), and gave him his ring.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIRDAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Following the War of the Ring he was seen to have prepared the ship that ferried across the other Ring-bearers: Gandalf, Elrond, Galadriel, Bilbo, and Frodo in the last year of the Third Age. Círdan would remain until the last ship set sail for the west.</Text>
+		</Row>
+		<!-- SILVAN ELVES  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_SILVAN_ELVES_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SILVAN_ELVES_SIZE" Language="en_US">
+			<Text>North Mirkwood 18,750 square miles(48,562.28km²) and Lorien 3,000 square miles(7,769.964km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SILVAN_ELVES_POPULATION" Language="en_US">
+			<Text>Early SA 40,000 in Lothlórien in the end of the TA 30,000.  Early SA 100,000 in Mirkwood in the end of TA 56,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SILVAN_ELVES_CAPITAL" Language="en_US">
+			<Text>The Realm of Lothlórien is Caras Galadhon. The Realm of Mirkwood is Halls of Thranduil (since TA 1050) but before it was Amon Lanc (SA 750- SA 1050)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SILVAN_ELVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Silvan Elves were mostly a subgroup of the Nandor, ultimately of Telerin descent. As Úmanyar, they, like the Sindar, began the Great Journey but did not complete it. In the Third Age, most remaining Silvan Elves lived either in Lothlórien or the Woodland Realm. Their kindred had frequently married into Ñoldor families over the centuries; as Galadriel, the Queen of the wood-elves of Lothlórien, was the daughter of a Ñoldor prince, making the term "Wood-elf" less particular to Silvan Elves in the Third Age.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SILVAN_ELVES_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Elves primarily of Silvan blood in Mirkwood were known to be distrustful of Dwarves but friendly to Men, with whom they traded. Mirkwood had been called "Greenwood the Great" until around the year TA 1050, when the shadow of Sauron fell upon it, and men began to call it Mirkwood. During his journey to the Lonely Mountain, Bilbo Baggins had to rescue the Dwarves of Thorin II Oakenshield's company from these Elves. These Elves had sent hosts to both the War of the Last Alliance, and in Bilbo's time, the Battle of the Five Armies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SILVAN_ELVES_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Silvan Elves of Lórien were the larger part of the Galadhrim or the Tree-people, who were a mixture of elves of Nandor, Noldor, and Sindar descent. Most of the Sindar that came to Lórien were refugees from Beleriand, arriving early in the Second Age, and the Sinda Amdír became the King of Lórien. After Amdír was killed in the Battle of Dagorlad, his son Amroth became King.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SILVAN_ELVES_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>After the destruction of Eregion, they were joined by many Sindarin speaking Noldor, led by Galadriel and Celeborn, who fled to Lórien through Moria. Galadriel was of Noldor descent, being the daughter of Finarfin, while Celeborn was of Sindarin descent of the Kingdom of Doriath. When Amroth was lost in the Third Age, Galadriel and Celeborn became known as the Lady and Lord of Lórien, but neither of them took the vacant Kingship.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Thranduil, son of Oropher, was an Elven king who ruled over the Woodland Realm in the Second and Third Ages. Though inherently cautious, he eventually committed his kingdom to fighting against Sauron in the War of the Ring. He was the father of the Elven prince of Mirkwood, Legolas, who was a member of the Fellowship of the Ring. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, and the Greenwood grew dark and became known as Mirkwood, and became infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THRANDUIL_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the War of the Ring, forces from Dol Guldur later attacked Mirkwood, Thranduil repulsed an attack and had the victory. His actions were in concert with the Dwarves and the Men of Dale against the Easterlings who attacked from the East. He came into an agreement with Celeborn that the southern part of Mirkwood would be counted as East Lórien. Thranduil took the northern region as far as the mountains; the wide forest between Mirkwood and East Lórien was given to the Beornings.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Galadriel was the co-ruler and Lady of Lothlórien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the Ñoldor and of Eärwen, whose cousin was Lúthien. Her elder brothers were Finrod Felagund,  Orodreth, Angrod, and Aegnor. She was also the bearer of Nenya, one of the three Elven rings of power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Galadriel was born in Valinor during the Years of the Trees, before the First Age had even begun. She and her people did not take part in the Kinslaying at Alqualondë. They followed Fingolfin instead and crossed the Helcaraxë in the far north.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Galadriel became friends with Melian the Maia, who wanted to know the cause of the exile of the Ñoldor. Galadriel only briefly narrated the story to her, leaving out the death of Finwë, the Kinslaying at Alqualondë, and the burning of the ships at Losgar. She dwelt in Nargothrond with her brother Finrod.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Celeborn and Galadriel traveled first to Lindon, where they ruled over a group of Elves as a fiefdom under Gil-galad. Sometime later, they had a daughter, Celebrían. They moved eastward and established the realm of Eregion, or Hollin, which they ruled under Gil-galad, the High King of the Ñoldor. Eregion, to the west of the Misty Mountains near Moria, was a prosperous kingdom during this time, and had open trade with the Dwarves. Also, during this time, they made contact with a Nandorin settlement in the valley of the Anduin, later to be known as Lothlórien. Subsequently, while Celebrimbor now ruled over Eregion, they left Eregion by way of the mines of Khazad-dûm and became the Lord and Lady of Lothlórien. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>During the Second Age, the Maia Annatar, the "Lord of Gifts", guided Celebrimbor and the other Ñoldor of Eregion in the creation of the Rings of Power. Galadriel took an immediate distrust to Annatar, and it later turned out that this mistrust was justified, as he was finally revealed to be Sauron. It was she who counseled Celebrimbor in the hiding of the rings, and when Eregion was attacked, Galadriel was entrusted with one of the Three Rings of the Elves. Her ring was Nenya, the Ring of Water. Conscious of Sauron's power, and wishing to thwart it, she did not openly use the powers of her ring as long as the One Ring was in Sauron's hands. However, during the Third Age, when the One Ring was lost, she put it to good use protecting the borders of her realm, for the powers of her ring were protection, preservation, and concealment from evil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GALADRIEL_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>After the fall of Sauron she, with Thranduil of Mirkwood and their elven allies, crossed the Anduin into Dol Guldur, where they tore down its walls and laid bare its pits. She then traveled to Minas Tirith for the wedding of King Aragorn and Lady Arwen, and continued living in Lórien until TA 3021 when she traveled to the Grey Havens and, with the remaining Ring-bearers, took a ship and returned at last to the Undying Lands whence she had come so long ago.</Text>
+		</Row>
+		<!-- DWARVES  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_LOTR_DWARVES_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LOTR_DWARVES_POPULATION" Language="en_US">
+			<Text>60,000 dwarves around Erebor (including Iron Hills) and 15,000 in the Blue Mountains.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LOTR_DWARVES_CAPITAL" Language="en_US">
+			<Text>Longbeards: Erebor (TA 1980 - 2770 and refunded at 2941), before Khazad-dûm (YT –TA 1980)[NEWLINE]Firebeards: Nogrod (YT - SA 40)[NEWLINE]Broadbeams: Belegost (YT - SA 40)[NEWLINE]Ironfists and Stiffbeards: North Orocarni[NEWLINE] Blacklocks and Stonefoots: South Orocarni</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Dwarves were made by Aulë, whom they themselves call Mahal, meaning “maker.” Aulë was unwilling to wait for the coming of the Children of Ilúvatar, for he was impatient and desired to have someone to teach his lore and crafts. Therefore, he made the first Seven Fathers of the Dwarves in secret in a hall under the mountains of Middle-earth. Ilúvatar was however not willing to suffer that the Dwarves should come before the Firstborn (Elves), and he decreed that the Seven Fathers should sleep underground and should not come forth until the Firstborn had awakened.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>About a century after the Elves awakened, the Seven Fathers of the Dwarves were roused. Of those seven, only the name of one is known, Durin I, who was called the deathless. Each one of the seven fathers became a king of his own clan, and each built his own great hall.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>First Age, the Dwarves made alliances with the Elves, and both prospered from trade. They fought alongside Elves and Men and participated in some of the major battles of the First Age, including The First Battle of Beleriand and the Nirnaeth Arnoediad in which the Dwarves of Belegost won great renown for being the only ones able to stand against the dragon Glaurung because they were naturally able to resist fire better than elves or men.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Dwarves from Nogrod crafted the necklace Nauglamír, and Thingol requested Dwarven smiths from Nogrod to set a Silmaril into that necklace. Thus were united the greatest works of Elves and Dwarves. Those Dwarf-smiths were driven mad by gold-lust, however, and murdered Thingol and stole the necklace and the stone, igniting the bitter rivalry between Dwarves and Elves that would rage between the two races until the end of the Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In the Second Age  was an era of great prosperity in which the halls of Khazad-dûm were greatly expanded and the Noldorin Elves of Lindon moved into Eregion to trade with the Dwarves for mithril. Population boomed because many refugees from Belegost and Nogrod, which were destroyed at the end of the First Age, moved to Khazad-dûm. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The rings of power did not have the effects that Sauron had intended, possibly because Aulë had made the Dwarves especially resistant to evil domination. The only apparent effect of the Dwarven rings was that the Dwarves became more greedy with gold lust, but they were not turned into wraiths like men. Sauron tried to recover the rings. Two he reclaimed fairly soon and four ended up in dragon hoards. Sauron did not reclaim the ring of Durin until the 2845th year of the Third Age when he captured Thráin II. Of the Dwarves, few fought upon either side; but the kindred of Durin of Moria fought against Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>In Third Age 1980, after centuries of greedy digging for mithril and other minerals, the Dwarves woke a Balrog that was sleeping in the deeps of the Misty Mountains since the First Age. The Dwarves fled Khazad-dum, which from then on was called Moria, which means "Black pit". Most of Durin's folk left for the Grey Mountains in the North, while some followed the new king, Thráin I, who briefly went to Erebor. For more than 300 years the Dwarves of the Grey Mountains prospered until the Dragons in the far North started to gain strength. Some fled to the Iron Hills, while most followed the new king Thrór to Erebor to start a new Kingdom under the Mountain. There, they prospered for over 200 years until the dragon Smaug descended in TA 2770. The King and his company went in exile South, while most of the survivors went to the Iron Hills.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>The Wizard Gandalf was instrumental into helping Thráin's son Thorin in reclaiming the Kingdom of Erebor. Thorin gathered around him twelve dwarves, mostly from his own line, and was joined by Gandalf and Bilbo Baggins. The Quest of Erebor ended with the death of Smaug. After a quarrel with the Men and Elves over the unguarded hoard, the Dwarves - assisted by those from the Iron Hills - united with the Men and Elves to fight the attacking Goblins and Wargs, in what was called the Battle of Five Armies, where Thorin was killed. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_DWARVES_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>In the War of the Rings, a force of 30,000 Longbeards and 20,000 Men of Dale held the Lonely Mountain against 200,000 Men of Rhun who had taken all of Brand's lands, leaving only his capital city of Dale.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dáin II Ironfoot was the son of Náin and the grandson of Grór, the youngest son of Dáin I of Durin's folk, and was lord of the Dwarves of the Iron Hills in Wilderland. He was a Dwarven King of Durin's Folk, the fifth King under the Mountain, and the Lord of the Iron Hills during the War of the Ring in Middle-earth in the late Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Dáin followed his grandfather, Grór, in lordship after Nain was killed by the great Orc chieftain Azog during the Battle of Azanulbizar, the final conflict in the War of the Dwarves and Orcs, before he could inherit the lordship. Almost immediately after the death of Náin, Dáin rushed up the steps and slew Azog himself, thus avenging his father's death. His kingdom at the Iron Hills was so great that they were the only people truly capable of dealing with Sauron's forces at that time.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Dáin was the friend and cousin of Thorin Oakenshield, and responded to Thorin's call for help during the quest to reclaim the Lonely Mountain. Dáin marched with five hundred Dwarven soldiers, exceptionally strong even by Dwarven standards, clad in heavy chainmail and iron boots, and armed with mattocks, shields, and swords. He arrived just in time for the Battle of the Five Armies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>After Thorin's death, Dáin became King under the Mountain and King of Durin's folk, the first not to be in a direct line. Dáin was a wise and just leader, and brought much wealth to the mountain realm and was on good terms with the Men of Dale in the south and the Elven king of Northern Mirkwood as well, which ensured peace for many years to come.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>A few months before the Council of Elrond, a messenger from Mordor appeared at the entrance of the Lonely Mountain and offered the Dwarves an alliance with Sauron, asking only in return that the Dwarves share what they knew "concerning Hobbits", and help to track down the One Ring, which the messenger described as "least of rings... a trifle that Sauron fancies."  The messenger said that, if the Dwarves could deliver the Ring itself, then Sauron would return three of the Rings of Power that originally belonged to the Dwarf-Lords, and Moria would be theirs to possess forever.  On the other hand, the messenger warned that "things will not seem so well" if the Dwarves did not help. Suspicious and apparently recognizing old enemies such as Orcs, Dain refused to be bribed or blackmailed, and sent the messenger away without an answer by claiming that he needed time to think over the proposal. He instead sent Glóin to Rivendell to consult with Elrond, while Dáin prepared the Lonely Mountain for war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAIN_II_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Dáin participated in the War of the Ring's northern campaign but was killed during the Battle of Dale in TA 3019, defending the body of King Brand of Dale before the gates of the Lonely Mountain. He was, by then, an extremely old Dwarf, at the age of two-hundred and fifty-two, but still strong for his age. He was still among the greatest of the Dwarven warriors, a direct descendant of Durin and his prowess in battle was nearly unmatched.</Text>
+		</Row>
+		<!-- MORDOR  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_MORDOR_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORDOR_SIZE" Language="en_US">
+			<Text>Aprox. 175,000 square miles (453.2479km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORDOR_POPULATION" Language="en_US">
+			<Text>500,000 orcs in Mordor and thousands Trolls and other creatures of Darkness</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORDOR_CAPITAL" Language="en_US">
+			<Text>Barad-dûr(since SA 1600)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MORDOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mordor was a black, volcanic plain located in the southeast of Middle-earth to the East of Gondor, Ithilien and the great river Anduin. Mordor was chosen by Sauron to be his realm because of the mountain ranges surrounding it on three sides, creating a natural fortress against his enemies. Translated, it means, "Land of Darkness".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MORDOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Sauron settled in Mordor 1,000 years after the end of the First Age, and it remained the pivot of his evil contemplations for the whole of the Second and Third Ages of Middle-earth. In the north-western corner of this land stood Mount Doom, where Sauron had forged the One Ring. Near Orodruin stood Sauron's stronghold Barad-dûr. After this time, Sauron was known as the Dark Lord of Mordor.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sauron was a fallen Maia, the creator of the One Ring, and the most trusted lieutenant of his master Melkor (Morgoth, the first Dark Lord). After Melkor's defeat in the First Age, Sauron became the second Dark Lord and strove to conquer Arda by creating the Rings of Power. In the Second Age, he was defeated in the War of the Last Alliance by the last line of defense: Elves and Men under kings Gil-galad and Elendil. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>During that battle, Isildur managed to cut off Sauron's finger with the Ring on it, causing the destruction of his corporeal form and scattering his armies. After spending hundreds of years lying dormant and slowly regaining his strength, Sauron returned to power in the Third Age, but was finally defeated in the War of the Ring through the destruction of the One Ring by Frodo Baggins.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Sauron was originally a Maia of Aulë the Smith; his name then was Mairon, meaning "the admirable." He learned much from Aulë in the ways of forging and crafting, becoming a great craftsman, and mighty in the lore of Aulë's people.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>After allying himself with Morgoth, Mairon maintained his appearance of being faithful to the Valar, but secretly fed Morgoth information about their dealings. It was only when Morgoth established his strongholds in Middle-earth that Sauron left the Blessed Realms and openly declared his allegiance, and ever after remained a foe of the Valar and the Free Peoples of Middle-earth. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In the Second Age, after lying hidden and dormant for 500 years, he began revealing himself once more, and by SA 1000 he gathered his power and established himself in the land of Mordor in eastern Middle-earth and began building the dreaded Dark Tower of Barad-dûr near Mount Doom. Sauron, like Morgoth, soon began raising massive armies of Orcs, Trolls, and possibly other creatures, as well as corrupting the hearts of Men with delusions of power and wealth, chiefly Easterlings and Southrons. He assumed the titles of "Lord of the Earth" and "King of Men" and this offended the Númenóreans. The Númenóreans, who were then proud, came to Middle-earth with astounding force of arms. King Ar-Pharazôn, who desired no less than the kingship of Middle-earth, marched his troops all the way to Mordor without a single battle, and demanded that Sauron abase himself before the King. Sauron could see clearly that even the most powerful of his servants could not stand against the Númenóreans, and so came from Barad-dûr without any offer of battle. He assumed a fair form and flattered Ar-Pharazôn, but the King demanded that Sauron come back to Númenor as a hostage. Sauron feigned unhappiness at this development but secretly was delighted, for this presented him with an opportunity to destroy the Númenóreans from within.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>After only a few short years in Númenor he grew from captive to the King's most trusted adviser, and nearly all the King's court fawned upon him. He converted many Númenóreans to the worship of Morgoth, lying that Morgoth had the power to save them from mortality. Finally, he convinced Ar-Pharazôn to rebel against the Valar and attack Valinor itself and claim it for himself. Númenor was drowned under the sea, and the great navy of Númenor was destroyed and the army that reached Aman was buried under mountains of falling rock and imprisoned in the Caves of the Forgotten. The world was bent, so that thereafter, only Elven-Ships could sail into the Utter West.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Sauron's body was destroyed, but his spirit was not diminished, and he fled back to Mordor bearing the Ring, where he slowly rebuilt a new body and his strength during the time known as the Dark Years. When Gil-Galad allied with Elendil to create the Last Alliance and together fought Sauron, they finally defeated his armies at the Battle of Dagorlad, and laid siege to Barad-dûr for seven years. Finally, Sauron himself came forth and dueled both Elendil and Gil-galad, slaying them both singlehandedly. Then Isildur, son of Elendil, took up his father's broken sword, Narsil and cut the One Ring from Sauron's finger. Sauron's physical body was destroyed. With nearly all of his power stored in the ring, he was vanquished when it was cut from his finger. Without their leader's dark will driving them on, Sauron's armies were routed and fled, and thus, his campaign to defeat the free peoples was seemingly ended, and his greatest weapon taken from him. But while Isildur had taken the ring, he could not bring himself to destroy it in the fires of Mount Doom where it was forged, instead he became corrupted by the One Ring and kept it for himself. He was eventually betrayed by it a few years later, and slain by Orcs at Gladden Fields. The Ring fell into the river Anduin, and was lost for centuries before being found by the two Stoorish friends Smeagol and Déagol. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAURON_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>In the year TA 1000, Sauron at last began to rise again, taking the stronghold of Dol Guldur, the Hill of Sorcery, in southern Mirkwood in TA 1050. There, he was disguised as a dark sorcerer known as "the Necromancer", and the Elves did not realize at first that he was actually Sauron returned. Sauron could draw on only the smallest fraction of its strength, so that his enemies were able to drive him from Dol Guldur with relative ease. However, the Dark Lord, having had ample time to prepare, was willing to abandon Dol Guldur, and returned to Mordor, where he openly declared himself in TA 2951, and began preparations for his final war against the free peoples of Middle-earth. </Text>
+		</Row>
+		<!-- ISENGARD  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ISENGARD_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ISENGARD_SIZE" Language="en_US">
+			<Text>Aprox. 2,000 square miles in Isengard (5,179.976km²) and 22,000 square miles in Dunland (56,979.74km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ISENGARD_POPULATION" Language="en_US">
+			<Text>45,000 dundenlings and 7,000 Uruks</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ISENGARD_CAPITAL" Language="en_US">
+			<Text>Isengard</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Isengard, also known as Angrenost ('Iron Fortress') in Sindarin, was one of the three Fortresses of Gondor, and held within it one of the realm's Palantiri. However, in the latter half of the Third Age, the stronghold came into the possession of Saruman, becoming his personal realm and home until his defeat in the War of the Ring. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Its location was at the northwestern corner of the Southern Kingdom of Gondor, guarding the Fords of Isen from enemy incursions into Calenardhon, and together with the fortress of Helm's Deep to its south protected the Gap of Rohan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After Calenardhon was given to the Éothéod by Cirion, Steward of Gondor, and became Rohan, Isengard remained part of Gondor, and the company of Aglarond removed to the northern fortress, although the rest of Gondor almost forgot about it. The small guard intermarried much with the Dunlendings, until the place became a Dunlending fortress in all but name. Orthanc, however, remained closed, as the Steward of Gondor still held the keys. Isengard soon came all but deserted. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the rule of Rohan's King Déor it turned out that Isengard had become openly hostile to the Rohirrim. Using Isengard as their base, the Dunlendings continued to raid Rohan during Déor's son Gram's rule, until during the rule of Gram's son Helm Hammerhand a Dunlending lord, Freca and his son Wulf nearly managed to destroy the Rohirrim. The Rohirrim eventually won, taking Isengard, and guarding it for Gondor. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>During the time of the Steward of Gondor Beren, Saruman the White suddenly reappeared from the East, and he offered to guard Isengard. Beren gladly gave him the keys to Orthanc, and Saruman settled there. After him the valley became known as Nan Curunír, or "Wizard's Vale". </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISENGARD_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>During the War of the Ring, Isengard was Saruman's base of operations against the Rohirrim, and he defiled the valley, cutting down its trees and grass and replacing them with stone and machinery. He dammed and diverted the Angren, possibly for use as hydropower. Isengard's valley was honeycombed with deep pits, used for breeding orcs and smithying weapons. Eventually, an army of Ents and Huorns led by Treebeard of Fangorn attacked Isengard, wrecking all of Saruman's industries, although they could not force entry to the Tower of Orthanc. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SARUMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Saruman the White was an Istary, he was the chief of the wizards and of the White Council that opposed Sauron. His extensive studies of dark magic, however, eventually led him to desire the One Ring for himself. Thinking he could ally himself with Sauron and then betray him, Saruman allied Isengard with Mordor in the War of the Ring, in which he was defeated.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SARUMAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In the year TA 2759, Saruman settled in Isengard with the permission of the Steward of Gondor, Beren, although he settled only as Warden of the Tower and representative of the Steward (the stronghold had by then been abandoned by Gondor). There he became important in the informal alliance defending the west of Middle-earth. In the tower of Isengard, Orthanc, he also found one of the remaining Palantíri.</Text>
+		</Row>
+		<!-- GOBLINS  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_LOTR_GOBLIN_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LOTR_GOBLIN_SIZE" Language="en_US">
+			<Text>Aprox 32,500 square miles (84,174.61km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LOTR_GOBLIN_POPULATION" Language="en_US">
+			<Text>50,000 goblins</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LOTR_GOBLIN_CAPITAL" Language="en_US">
+			<Text>Gundabad and Goblin-Town</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_GOBLIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>When Melkor was taken in chains to Valinor, the Orcs and other foul creatures were forced to flee from Angband. Their kingdoms spread throughout many mountains of Middle-earth; notable cities include Goblin-town near the High Pass above Rivendell, the Goblin-capital at Mount Gundabad, and the former Dwarf-kingdom of Moria, as well as those in the service of Isengard and Mordor. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_GOBLIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Goblin-town was a Goblin dwelling in the Misty Mountains south of the Mountains of Angmar - a network of branching caves and tunnels which stretches out from the High Pass in the Northern part of the mountain range. Most of the tunnels were carved by the Goblins, though they also incorporated pre-existing caverns and passages. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LOTR_GOBLIN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Mount Gundabad was a chief Orc mountain-stronghold situated at the northern end of the Misty Mountains, located to the east of the ancient realm of Angmar. n the middle of the Second Age, however, Orcs (ruled over by the servants of Sauron) invaded the mountains again and took Gundabad. The site would not be cleansed until very late in the Second Age, possibly around or after the fall of Sauron and the loss of the One Ring in SA 3441. In the Third Age, the Orcs of Angmar yet again claimed it as their capital, which was one of the reasons for the Dwarves' special hatred of them. After the fall of Angmar, Gundabad remained an Orc stronghold.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORKIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Great Goblin was a Goblin chieftain of the Misty Mountains. He was a very large creature with a huge head. He was the chief of a group of goblins who lived in Goblin-town near the High Pass. They preyed on travellers who used another, easier pass near the main gate of Goblin-town until people started avoiding that route over the mountains.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZOG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Azog, known also as the Defiler and the Pale Orc, was an orc who lived in the Third Age. He commanded the tribes of Moria from TA 2790 until his death in TA 2799. He was responsible for the death of King Thror and for King Thrain's madness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AZOG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Azog was a powerful orc who claimed rulership over the abandoned Dwarvish mines of Moria during the Third Age. He became the leader of the Goblins of Moria and initiated the War of the Dwarves and Orcs in TA 2790 by beheading King Thrór, who had come to revisit the ruins of the ancient dwarven kingdom of Moria.</Text>
+		</Row>
+		<!-- RHUN  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_RHUN_LOCATION" Language="en_US">
+			<Text>East Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHUN_POPULATION" Language="en_US">
+			<Text>500,000-800,000 Esterlings</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHUN_CAPITAL" Language="en_US">
+			<Text>Mistrand</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RHUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Easterlings, known in early times as Swarthy Men, were a race of Men who lived in the vast and uncharted lands of Rhûn, east of Mordor and the Sea of Rhûn. Easterlings were enemies of the Free Peoples and were allies of Sauron. There were many different nations and kingdoms of Easterlings living in the vast lands of Rhûn. These ranged from civilized empires to barbaric horse nomads of the open steppes. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RHUN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>During the War of the Ring at the end of the Third Age, the Easterlings joined with the forces of Mordor participating in the Northern battles that nearly defeated the Elves of Mirkwood, Men of Dale, and the Dwarves of the Lonely Mountain. In these battles the Easterlings, aside from the hordes of Orcs, were the most numerous and tenacious of Sauron's warriors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KHAMUL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Khamûl was once a mortal man who ruled the lands of the East known as Rhûn. He received one of the nine Rings of Power from the Dark Lord Sauron and in time he was corrupted and became one of his servants. His fall into Sauron's hands could explain why Rhûn was allied to Mordor. </Text>
+		</Row>
+		<!-- HARAD  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_HARAD_LOCATION" Language="en_US">
+			<Text>South Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HARAD_POPULATION" Language="en_US">
+			<Text>500,000 Haradrim</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HARAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Harad, fully named Haradwaith, was the immense realm located south of Gondor and Mordor. The Men of Harad were called Southrons or Haradrim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HARAD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After the First Age, the men of these lands were among the lesser men who were instructed by the voyaging Númenóreans in the basic arts of civilization. This went on for some time until the middle of the Second Age when the Númenóreans turned their backs on wisdom and became their overlords.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HARAD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>For many centuries of the Third Age, many Haradrim were still ruled by Black Númenórean Lords and ultimately, the Harad fell under the influence of Mordor for much of the Age. Much of Far Harad was a jungle, although there also was a desert. In Far Harad lived the great beasts known as Mûmakil or Oliphaunts native to Far Harad used by the Haradrim as moving war towers. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HARAD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Near Harad later formed an alliance or maybe even a coalition of some sort with the Corsairs of Umbar, and was involved in a series of continual battles with Gondor over South Gondor or Harondor. Anciently its northern border was held to be the river Harnen, but by the time of the War of the Ring all the land south of the river Poros was under the influence of the Haradrim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULADAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Suladân, also known as the Serpent Lord, lived during the War of the Ring, and the time when the grassy lands of Gondor, Rohan, and Dale and the sunny, scorched domains of Harad were in constant conflict, and led the Desert-Men forces (Haradrim) with merciless precision. He was considered a mysterious being, perhaps even a monster of sorts, by the soldiers of Gondor, a shadow that would strike like an assassin and kill without fault, and even by his own loyal troops. </Text>
+		</Row>
+		<!-- UMBAR  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_UMBAR_LOCATION" Language="en_US">
+			<Text>South Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_UMBAR_POPULATION" Language="en_US">
+			<Text>100,000 Corsairs of Umbar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_UMBAR_CAPITAL" Language="en_US">
+			<Text>Umbar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_UMBAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Umbar was a Mannish realm to the far south of Gondor in Middle-earth where the descendants of the King's Men lived, and in during the Great Years was known for the sea-faring Corsairs who reigned there in the havens that were built during the reign of the Kings of Gondor. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_UMBAR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After the Downfall of Númenor 58 years later, Umbar remained in the hands of the Númenóreans, in essence a Realm in Exile alongside Arnor and Gondor. But unlike these others, Umbar had been used by the 'King's Men', who had turned to the worship of Melkor in the last days of Númenor. These 'King's Men' were not friendly to the Elves or to their fellow Númenórean survivors who were allied to the elves, and became known as Black Númenóreans.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_UMBAR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The rulers of Umbar retained much influence over the Haradwaith well into the Third Age. When not part of Gondor, its system of government was no doubt tyrannical, but it may also have been a duumvirate: Black Númenórean and Corsair Lords are paired when mentioned; Herumor/Fuinur for example, and later Angamaitë/Sangahyando. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_UMBAR_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the War of the Ring, Umbar had not fully recovered of his wars against Gondor  but could still send 50 'great ships' and smaller vessels "beyond count", to raid the coastlands of Gondor and draw off major forces from the defence of Minas Tirith. They were once again defeated by Aragorn, and the Army of the Dead. With the Fall of Barad-dûr, Umbar, weakened and defeated, finally lost its sovereignty and submitted to the crown of King Elessar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ANGAMAITE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Angamaitë was the great-grandson of Castamir. Along with Sangahyando, he became an important figure amongst the Haradrim and the Corsairs of Umbar. Angamaitë was a descendant of the rebel Castamir and carried on the traditional hatred against Gondor. In TA 1634, King Minardil was at Pelargir without fear of any attack. Angamaitë and Sangahyando soon learned about this through spies and sacked the city, killing Minardil and seizing great amounts of treasure.</Text>
+		</Row>
+		<!-- KHAND  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_KHAND_LOCATION" Language="en_US">
+			<Text>East Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHAND_POPULATION" Language="en_US">
+			<Text>70,000 Variags</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHAND_CAPITAL" Language="en_US">
+			<Text>Ûbesêsh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Khand was the name of a land which lay to the south-east of Mordor and to the east of Near Harad. Almost nothing is known about Khand or its nomadic people. "Variags" (men of Khand) fought for Sauron's army, but nothing aside from their name was mentioned. Khand was under the influence of Mordor and supplied it with horses, and twice came into the history of Gondor: first in the year TA 1944 when the Variags together with the Wainriders attacked Gondor, and later during the War of the Ring when they fought and died on the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KIONID_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kîonid and his twin Mîonid were princes of the tribes of northern Khand who were as well offspring of the Wainriders as they were of the Variags.In the War of the Ring the brothers united their realm with Sauron´s great eastern Army.</Text>
+		</Row>
+		<!-- ANGMAR  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ANGMAR_LOCATION" Language="en_US">
+			<Text>North Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANGMAR_SIZE" Language="en_US">
+			<Text>Aprox. 70,000 square miles (181,299.2km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANGMAR_POPULATION" Language="en_US">
+			<Text>40,000 goblins/orcs and 8,000 evil Men</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANGMAR_CAPITAL" Language="en_US">
+			<Text>Carn Dûm(TA 1300 - TA 1975)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ANGMAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Angmar was a realm established in TA 1300 by the Lord of the Nazgûl later called the "Witch-king of Angmar" - located in a northern fork in the western Misty Mountains, and founded with the sole purpose of weakening the northern realm of Arnor. The land was known in part for its cold and snowy weather. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ANGMAR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Long before the Witch-king came to Angmar, the dwarves had many flourishing mines in the region, and halls that were secure and prosperous. It was not long before Durin's Folk felt the first assaults of Angmar. They fled southward, seeking the safety of their mines in the Weather Hills.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ANGMAR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>During the time of TA 1974, Angmar multiplied its forces and launched a final assault on Arthedain. Subsequently, they took its capital Fornost, thereby defeating the last northern kingdom of the Dunedain. Sometime later, Prince Eärnur - thirty-third and last King of Gondor - arrived to aid Arthedain, but he found he was too late. His army defeated the forces of Angmar in the Battle of Fornost, and the Witch-king fled to Mordor, leaving the kingdom of Angmar to fall in TA 1975.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WITCH_KING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Witch-king of Angmar was the leader of the Nazgûl or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Númenórean king of men, he was corrupted by one of the nine Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron.   </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WITCH_KING_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Lord of the Nazgûl reappeared in TA 1300 in the north near the lost realm of Arnor. There he founded the kingdom of Angmar. It was after the formation of Angmar and several conflicts with the Dúnedain of the North that the Lord of the Nazgûl received the title of "Witch-king, Lord of Angmar". </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WITCH_KING_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Eärnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dúnedain, and they marched on the Witch-king. The Witch-king, having destroyed the North-kingdom, fled to the North. Angmar was left leaderless and soon collapsed. </Text>
+		</Row>
+		<!-- ARNOR  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_ARNOR_LOCATION" Language="en_US">
+			<Text>Middle Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARNOR_SIZE" Language="en_US">
+			<Text>248,540 square miles (643,715.6km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARNOR_POPULATION" Language="en_US">
+			<Text>650,000 men</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARNOR_CAPITAL" Language="en_US">
+			<Text>Annúminas (SA 3320- TA 861) later Fornost(TA 861-TA 1974)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARNOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Arnor was founded in SA 3320 by Elendil and sons who went on to found the southern realm of Gondor. The history of the two kingdoms is intertwined; both kingdoms are known as the Realms of the Dúnedain in Exile. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELENDIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elendil  was the father of Isildur and Anárion, and the first High King of Gondor and Arnor and first King of all the Dúnedain. He was known as a great warrior, a wise king, and a heroic figure among the Dúnedain, who loved every man, woman and child of Arnor and Gondor, and was loved by them in return. He was killed by Sauron during the War of the Last Alliance. He was known as the greatest warrior of all the Dúnedain.</Text>
+		</Row>
+		<!-- BUILDINGS-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEROIC_STATUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Statues of ancient heroes and the númenor ancestors. Reminding all Gondorians for what they fight and the past victories against the evil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MEARAS_STABLE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Mearas were a breed of wild horses in the north of Middle-earth. They surpass normal horses in intelligence, speed and strength. According to lore, the ancestors of the Mearas were brought from the West by Oromë.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_EREGION_FORGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elven-smiths of Eregion are famous for his skills in Smithery. The Rings of Power were the masterwork of the Elven-smiths of Eregion headed by Celebrimbor, who was descended from Fëanor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MALLORN_TREE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Mallorn was a kind of large tree that throughout history only grew in Aman, Númenor, Lindon, and Lórien in the Eastern lands of Middle-earth. Mallorn-trees originally grew on Tol Eressëa, and probably also grew in Valinor. The Ñoldor may have introduced mellyrn to Gondolin when they came to Middle-earth, but these were all destroyed with the city. The Elves of Tol Eressëa brought mallorn-trees to the Men of Númenor and they grew on the shores around the Bay of Eldanna in that land. Even Tar-Aldarion, the great Ship-King, did not cut down these trees. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MALLORN_TREE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Caras Galadhon, the city of Galadriel and Celeborn within Lothlórien, was built in the branches of huge mallorn-trees, with a large hall built into the upper branches of the tallest tree at the centre of the city. The large horizontal branches of the mallorn lent themselves to being used in this way. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DWARVEN_EXCAVATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarves were taught special skills by the Vala Aulë and spent most of their time crafting, smithing and mining in their massive underground cities. The Dwarves were some of the greatest miners ever to exist in Middle-earth. Dwarven miners dug for precious minerals such as gold, iron, copper, and silver from all over mountains in Middle-earth, though the Dwarves considered coal mining degrading. In ancient times, the Dwarves found Mithril in the mines of Khazad-dûm. While mining beneath the Lonely Mountains, they discovered the Arkenstone at the Heart of the Mountain. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CORSAIRS_TAVERN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Bulding where all corsairs meet to sell their loot. ver time these sailors drew to their number various outlaws and brigands from outlying settlements surrounding the Anduin, and they took to raiding along the southern coast of Gondor, intercepting merchant vessels and abducting women to bolster their dissident community. They were also slavers and would often seize a ship's crew along with her cargo; if any resisted, they would be thrown overboard.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TEMPLE_OF_TWILIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Temple for the worship of Melkor. The most famous it the one in Armenelos, Númenor. Where they performed human sacrifices to Morgoth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUMENOREAN_WALLS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tall walls constructed by the Numenoreans, imposible to break. The only way to pass them was climb over them or break down the door.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUMENOREAN_TOWER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As the Beleriand and its great civilizations were destroyed at the end of the First Age, the only great towers in Arda were located in Eldamar and Númenor. Men of Numenor yearning for the west could see its lights from both the haven of Andúnië and from the decks of their great ships. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUMENOREAN_TOWER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After Numenor's destruction and the removal of Aman from the circles of the world, the surviving Dúnedain of the Realms in Exile built towers of their own most of which held a Palantír, which they used to order their kingdoms and to communicate with each other during times of strife. In the northwest lied the white towers of Arnor. Elostirion, built by Gil-galad in honor of Elendil was its tallest and most prominent. Northeast of it was the tower of Annúminas in the capital, and further to the southeast was the tower of Amon Sûl on Weathertop. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUMENOREAN_TOWER_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In far southeast of Amon Sûl was the tower Orthanc in Isengard or Angrenost which in those days belonged exclusively to Gondor. Then, there were the great towers of Gondor proper in Minas Anor, Osgiliath, and Minas Ithil all of which held one of the seeing stones in those days. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ELVEN_HALLS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>King Thranduil led his people to the north-east corner of the forest and delved there a fortress and series of great halls underground. He was inspired in this enterprise by Thingol's halls of Menegroth in Doriath during the First Age , and like Thingol, he used the skill of the Dwarves to aid in making his stronghold, though the Elvenking's Halls of Mirkwood were less grand than that magnificent ancient cavern.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DWARVEN_DOORS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven doors, build in the Montains where impossible to open without a key, some of them were secret, invisible and in lost cities with time forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DWARVEN_HALLS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarves were taught special skills by the Vala Aulë and spent most of their time crafting, smithing and mining in their massive underground cities.  The Dwarves dug immense halls under mountains where they built their cities. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DWARVEN_HALLS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>They built many famed halls including the Lonely Mountain , Belegost, Nogrod, Khazad-dum, the Halls of Thranduil, and Menegroth. The Dwarves also reforged the gates of Minas Tirith and rebuilt the walls of Helm's Deep after the War of the Ring. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_DWARVEN_HALLS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Their cities appeared to be constructed just under mountains or mountain ranges. Dwarven miners would excavate into the mountains to create an entrance, and then dig through and under the mountain to create the groundwork for their cities. Dwarven cities were absolutely massive and very expansive, reaching the far depths of the earth. Dwarves continued to mine in their cities to expand them and discover more resources like precious metals and minerals. </Text>
+		</Row>
+		<!-- IMPROVEMENTS-->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_TUNNEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Goblins lived deep under the Misty Mountains in many strongholds, ever since the War of Wrath in the First Age. In networks of branching caves and tunnels. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ELVEN_TOWER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>When the Noldor returned to Middle-earth in pursuit of Morgoth, many towers were built for the observation of the enemy in the North. The tallest and most prominent being Minas Tirth built by Finrod to watch the northern plain of Ard-galen, until it was conquered by Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ELVEN_TOWER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>As the Beleriand and its great civilizations were destroyed at the end of the First Age, the only great towers in Arda were located in Eldamar and Númenor. The elves of Tol Eressëa built a great tower in the eastern part of the island used for observing the sea.</Text>
+		</Row>
+		<!-- UNITS-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CITADEL_GUARD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Guards of the Citadel, sometimes referred to as the Guards of the Tower of Gondor, were an elite unit of the military in Gondor during the Third and Fourth Ages. They were mainly a stationary guard unit, rather than a mobile force, though were sometimes seen acting as a mobile guard when travelling with the Steward. They were headed by a Captain of the Guard, who was chosen by the Steward from nobility or high military ranks. As a whole, they were considered to be the best soldiers in the realm of Gondor. Known for their bravery, fighting skills, and unshakable loyalty, they swear an oath against their own lives to serve their lord.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ROHIRRIM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Rohirrim are descended from the Éothéod, a race of Men who lived in the vales of the Great River Anduin. The name they had for themselves was Eorlingas, after their king Eorl the Young who had first brought them to Rohan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ROHIRRIM_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Rohirrim are descended from the Éothéod, a race of Men who lived in the vales of the Great River Anduin. The name they had for themselves was Eorlingas, after their king Eorl the Young who had first brought them to Rohan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NOLDOR_WARRIOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ñoldor were the second clan of the Elves. In the First Age they fight against Morgoroth in Beleriand. In the Second Age these forces served in the Battle of Dagorlad, led by Gil-galad and Elrond, against the armies of Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIVENDEL_LANCER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ñoldor were the second clan of the Elves. In the First Age they fight against Morgoroth in Beleriand. In the Second Age these forces served in the Battle of Dagorlad, led by Gil-galad and Elrond, against the armies of Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MITHLOND_SENTRY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Teleri were the third of the Elf clans. Those who came to Aman became known as the Falmari. They were the ancestors of the Valinorean Teleri, and the Sindar, Laiquendi, and Nandor of Middle-earth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGH_ELF_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Sindar were Elves of Telerin descent. They are also known as the Grey Elves. They are the Elves that chose to remain in Beleriand and not complete the Great Journey. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SILVAN_SPEARMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Silvan Elves were mostly a subgroup of the Nandor, ultimately of Telerin descent. They, like the Sindar, began the Great Journey but did not complete it.  In the Third Age, most remaining Silvan Elves lived either in Lothlórien or the Woodland Realm. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MIRKWOOD_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Silvan sentinels were the guardians of the woodland realms of the Elves in Middle-earth. Through knowledge of the Sindar craft, the Silvan Elves were able to hone their skills with the bow and become master archers, now outfitted with new, shining weaponry and gear that only the Eldar could make. But as for their own woodcraft, none could surpass the Silvan Elves, who were already masters of the forest, able to hide in the shadows and remain undetected. Indeed, the "Silvan Shadow" was a trait not even the Sindar could master. Thus the true Sentinel of the Forest was born.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALADHRIM_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Galadhrim Warriors served as the defence forces of Lothlórien. They were elite elven troops armed with swords and longbows. They protected the capital city of Caras Galadhon. They had weapons of a better quality than those of the outer guards. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARVEN_GUARDIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven soldiers usually used axes as their weapon of choice because it can be used as a tool or a weapon, but in addition to axes they used hatchets, mattocks, short swords and war hammers. As for armor, Dwarves favored chain-mail and other metallic armor — the most expensive and precious of which was ring mail made of mithril. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARVEN_PHALANXES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A Dwarven soldier using the formation of phalanx that formed multiple ranks of warriors supporting each other with spears, pikes. As for armor, Dwarves favored chain-mail and other metallic armor — the most expensive and precious of which was ring mail made of mithril. The Dwarves Pikeman is seldom this foolhardy, so he typically is part of a close rank-and-file formation known as a Phalanx. A Phalanx is able to withstand direct charge by cavalry and can bring down giant brutes with a minimum of casualties. Much like other pikemen, Dwarven pikemen are employed to counter cavalry units, large combat animals such as dragons, trolls, giants and also to perform creeping operations to remove dens across the battlefield. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GOAT_RIDERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarves can not use horses on wars so the use armored goats. They are smaller than horses but can move in hills faster.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BOAR_RIDERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarves can not use horses on wars so the use armored war boars.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORANNON_ORC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Morannon Orcs were a type of Orc originating in Mordor, but were not necessarily all bred there at the Morannon, the Black Gate of Mordor. Morannon Orcs were troops of Mordor and appeared in most of the main battles such as the Battle of Osgiliath, the Siege of Gondor, Battle of Cair Andros and the Battle of the Black Gate. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_HAI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Uruk-hai (or simply Uruks) were the strongest species of Orc in Middle-earth, who at separate instances originated from Mordor and Isengard in the Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_HAI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Uruks first appeared about the year TA 2475, in which they came and conquered Ithilien in Gondor, and destroyed the city of Osgiliath. The Uruks in the service of Barad-dûr used the symbol of the red Eye of Sauron. The Red Eye was also painted on their shields. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_HAI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Uruk-hai were later bred by Saruman late in the Third Age, by his dark arts in the pits of Isengard. In the War of the Ring, the Uruk-hai made up a large part of Saruman's army, together with the Dunlendings, man-enemies of Rohan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WARG_RIDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Warg riders were a group of Orcs specially trained to ride Wargs, the gigantic bloodthirsty race of wolves from the North, into battle. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WARG_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Warg riders were a group of Orcs specially trained to ride Wargs, the gigantic bloodthirsty race of wolves from the North, into battle. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OLOG_HAI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Olog-hai were an advanced breed of troll that appeared in the last days of the War of the Ring in Sauron's service in Middle-earth.  They were bred by Sauron in the late Third Age, possibly for the same reason Saruman bred the Uruk-hai, for improvement and less vulnerability to sunlight. They lived primarily in Mordor and in southern Mirkwood.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OLOG_HAI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Olog-hai are described as being taller than a Man, covered in spiky scales, carrying war hammers, large swords, or spiked maces, and bucklers, and having claws and, on occasion, tusks. It is mentioned that after the War of the Ring, all Olog-hai were killed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_HAI_PIKEMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Uruk-hai Pikemen formed the core of the ten thousand strong army that Saruman the White sent to attack the Rohirrim's fortress of Helm's Deep. Uruk-hai Pikemen were equipped with large pikes around 12 feet in length in order to counter the cavalry that were the main strength of Rohan's army. Their armor was similar to the rest of Saruman's Uruk-hai consisting of a steel segmented breastplate, greaves, a helmet and gauntlets which often varied in appearance and quality due to being produced by crude orc smiths. Nevertheless they were one of the most heavily armed and armored soldiers that fought on Sauron's side during the War of the Ring. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_BERSERKER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>They were larger, even more fearsome versions of the Uruk-hai, standing about six-and-a-half feet tall and weighing an estimated three hundred pounds. Before they were sent into battle, it is said; the bowl of their small, tight-fitting helmet was filled with the blood of their enemy, and then pushed onto their heads. The intoxicating smell awakened a blood-lust that drove them to a battle-frenzy and made them immune to pain. Berserkers had no regard for personal safety, wore no armor except their helmets, and were expected to fight to the death. Their sole object was to establish a bridgehead. One Berserker was given the task to set off the explosive mines planted by the Uruk-hai. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DUNLANDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dunlendings, also known as Wildmen of Dunland, were the people of Dunland. They were known as a fierce culture of Men who sought vengeance on the people of Rohan who, as Saruman rightly said, drove them into the mountains. In The Two Towers, Saruman used their anger to manipulate and convince them to destroy the land of Rohan during the War of the Ring. He sends them across Rohan, burning and looting the land. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GOBLIN_WARRIOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Goblins were ugly creatures, "cruel, wicked, and bad-hearted." that spread throughout many mountains of Middle-earth. Goblin weapons include scimitars, axes, and spears, as well as bows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GOBLIN_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Goblins were ugly creatures, "cruel, wicked, and bad-hearted." that spread throughout many mountains of Middle-earth. Goblin weapons include scimitars, axes, and spears, as well as bows.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GUNDABAD_ORC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Gundabad Orcs  were the Orcs inhabiting Mount Gundabad. They had attacked the mountain and took it from the Dwarves of Durin dwelling there. They were the servants of the Witch-king of Angmar before they had seized Gundabad. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CAVE_TROLL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Cave-trolls were a race of trolls found within the caves of the Misty Mountains. Melkor created trolls before the First Age. They were very strong, but turned into stone in sunlight. Many trolls died in the War of Wrath, but some survived and joined the forces of Sauron, the greatest surviving servant of Morgoth. In the Second and Third Age, trolls were among Sauron's most dangerous warriors. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MUMAKIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mûmakil (known in Westron as Oliphaunts) were large creatures resembling elephants, often used in battle by the Haradrim. In the years of the War of the Ring, the fierce warriors of Harad came north to Gondor at the call of Sauron, and with their legions they brought the great Mûmakil, which they used as beasts of war. The twenty Mûmakil that the Haradrim brought to Pelennor were harnessed with red banners, bands and trappings of gold and brass, and on their backs great war towers from which archers and spearmen fought. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARADRIM_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Haradrim (Southrons) were also skilled archers, along with their allies the Easterlings. The Haradrim were masters of archery and had expert snipers positioned on the feared Mumakil. Their bows were short, possibly made of composite materials and by the time of the War of the Ring, could possibly have been compound, making them extremely deadly.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORSAIRS_OF_UMBAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Corsairs sailed in large, dark, wooden galley ships with large black junk-like sails. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HALDERDMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>They are soldiers armed with a long polearm known as a halberd, and are usually utilized in the anti-cavalry role and sometimes phalanx fighting formations. The halberd is far more effective and useful than its distant cousin, the pike. It consists of a long wooden pole (about 10+ feet long) with an axe head mounted to one side of the weapon and another implement, usually a metal spike, mounted to the opposite side. The Rhûnic halberd retains the ash pole wielded by its Gondorian adversaries, but has other, distinct features as well. For one, each appears to be a finely-crafted work of masterful craftsmanship, not a pruning hook. Instead of a smooth, keen axe head edge, the Easterling halberd possesses a heavily serrated edge designed to rend bone and flesh. The standard spear point tops the pole, while a steel spike protrudes from the opposite side of the axe head. Aside from the armies of Mordor, the Rhûnic soldiers were the best exponents of this superb weaponry.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KATAPHRAKTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kataphrakts were a type of Easterling heavy-cavalry. Their horses were heavily armored and they bore broad shields and curved scimitars. They were notorious for being an incredible defensive force when deployed together, capable of mounting an impressive shield-wall formation despite the fact that they were mounted. They were also an impressive fighting force when used in an offensive capacity, due to the sheer difficulty which enemies had to pierce their armor or to slay their armored horses in order to actually harm the riders. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VARIAGS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Little about the Variags is known about apart from the fact that they fought for Sauron in the War of the Ring. They first appeared in TA 1944 in the Northeast of Middle-earth, fighting alongside the Easterling tribe known as the Wainriders. On March 14 - 15 (Third Age: 3019) the Variags fought in Sauron's army at the Battle of the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VARIAGS_MOUNTED_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Little about the Variags is known about apart from the fact that they fought for Sauron in the War of the Ring. They first appeared in TA 1944 in the Northeast of Middle-earth, fighting alongside the Easterling tribe known as the Wainriders. On March 14 - 15 (Third Age: 3019) the Variags fought in Sauron's army at the Battle of the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VARIAG_CHARIOT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Little about the Variags is known about apart from the fact that they fought for Sauron in the War of the Ring. They first appeared in TA 1944 in the Northeast of Middle-earth, fighting alongside the Easterling tribe known as the Wainriders. On March 14 - 15 (Third Age: 3019) the Variags fought in Sauron's army at the Battle of the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HILL_TROLL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>"Hill-trolls" were a species of troll closely related to mountain-trolls and cave-trolls</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SNOW_TROLL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Snow-trolls are one of several troll subspecies. They are said to be native to the frozen northern wastelands of Angmar. The trolls who lived in the Coldfells in western Eriador must have been similar to these. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RHUDAUR_SPEARMEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The last Kings of Rhudaur were not of Númenórean blood, but were descended of Men in service of Angmar. Under their rule the land became a vassal of Angmar, and thus enemies of Cardolan and Arthedain. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BLACK_NUMENOREAN_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Black Númenóreans were a fallen group of Númenóreans who were descended from those loyal to the Númenórean crown but opposed to the Valar and relations with the Elves. They listened to the words of Sauron. Soon they were corrupted by him, and would come to worship the Darkness and Morgoth. Black Numenoreans in the 3rd age eventually joined The Witch King of Angmar in his conquests of Arnor. The fate of the Black Numenoreans of Angmar is unknown, but it's most likely they either all died or disbanded after the Battle of Fornost. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DUNEDAIN_RANGERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Were the northern wandering people of Eriador, the last remnant of the Dúnedain of Arnor, who had once peopled the North Kingdom of Arnor.  They protected the lands they wandered although their secretiveness made other peoples consider them dangerous and distrustful in Bree and the Shire, where they were known as "Watchers". At the time of the War of the Ring, the Rangers of the North were led by Aragorn, future king of the reunited kingdoms of Gondor and Arnor. But despite Aragorn's leadership, most of the Rangers remained scattered and diminished. Therefore, when the ranger Halbarad endeavored to aid Aragorn in the War, he could muster only a small number of Rangers to join him. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RANGERS_ITHILIEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Rangers of Ithilien were primarily archers. They used a simple longbow, often made of yew, likely up to 80 inches in length. Their arrows would have averaged about 28 inches in length with a steel tip with consistent accuracy up to 200 yards. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SWAN_KNIGHTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Knights of Dol Amroth or the Swan Knights were a group of soldiers who served Prince Imrahil during the Third Age of Middle Earth. On March 9, 3019, Prince Imrahil led a company of Swan Knights to Minas Tirith to help defend the City. Prince Imrahil led the sortie that rode to the aid of Faramir and the rear-guard who were retreating from Osgiliath when the forces of Sauron overran the Pelennor Fields on March 13. Notable actions of the Knights during this battle included rescuing Faramir from the Southrons, and riding to the aid of the Rohirrim, fighting long and hard until the arrival of Aragorn. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GONDOR_LONGBOWMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Gondorian army contains units of archers who use a longbow. The bows are made of heartwood, about 68 inches tall. The arrows are about 28 inches long with four-inch steel tips. They are accurate up to 200 yards. The longbowmen of the army wear their quiver (the case that holds the arrows) on their hips rather than on their backs like most archers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NAZGUL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Nazgûl (also known as Ringwraiths, The Nine, The Fallen Kings, Black Riders, Nunbolg, or Ulairi in Quenya) were the dreaded ring-servants of the Dark Lord Sauron in Middle-earth throughout the Second and Third ages, who in the later years of the Third Age dwelt in Minas Morgul and Dol Guldur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WINGED_NAZGUL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fellbeasts were the flying creatures that the Nazgûl rode after being unhorsed at the Ford of Bruinen. Identical in appearance to dragons, the fellbeasts were described as large, winged creatures without feathers. Its pinions were in between horned fingers; and its body gave off a stench. It is possible that fellbeasts came from "an older world". The dark lord Sauron bred these fellbeasts and gave them to his servants.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORC_SPEARMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Before Oromë found the Elves at Cuiviénen, Melkor enslaved some of them and cruelly tortured them, turning them into Orcs. Their strength in combat came from numbers and sheer violence. Due to superior organization, training and weaponry, Men, Dwarves, Elves, and at times even Hobbits, were able to defeat larger numbers of Orcs, provided an ability to withstand the horror and shock of the initial onslaught.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORC_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orcs and Goblins were often seen carrying bows, but are also viewed as poor handlers of the weapon. Their bows can range from being as tall as an Uruk to relatively short. The maximum effective ranges included 50 and 100 yards. Orc arrows were usually tipped with poison or barbed, so even a glancing hit could be fatal. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORGUL_CAVALRY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Minas Morgul Cavalry are the mounted troops that rode out with the Witch-king of Angmar from Minas Morgul to lead Sauron's armies to war. It's unknown whether they were mounted orcs, men, or both, or whether (if men) they were Easterlings, Southrons, or men originally quartered at Minas Morgul itself. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARF_AXE_THROWER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven soldiers usually used axes as their weapon of choice because it can be used as a tool or a weapon, some of them use small axes a distance range instead of archers. As for armor, Dwarves favored chain-mail and other metallic armor — the most expensive and precious of which was ring mail made of mithril. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARF_BATTLEWAGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Underground caverns are not conducive to breeding fast and healthy horses, so Dwarves are not natural cavaliers. That doesn't mean that Dwarves are totally without some degree of animal companions. One of the varieties of livestock kept by the Dwarves is the Yurg, a sort of underground Yak native to the Misty Mountains. Yurgs serve the Dwarves as beasts of burden during construction efforts as well as war. In addition, the Dwarves are always prepared to empty their pull-carts of construction supplies and load them up with axe-throwers or archers and take to the battlefield. The Dwarven Battlewagon is also well armored and extremely heavy, meaning that even one lone Battle Wagon can break through enemy lines without significant damage. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ROHAN_MILITIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Rohan included archers in its militia. They used shortbows, possibly because they fought mounted on horses and a longer bow might get in the way. The shortbows were much less powerful than those used by their allies, having probably a range of only 125 yards. Their arrows were unique in having a cutout in the heads; this cut down on weight and the amount of metal used while still allowing the arrowheads to have a larger surface area, which would cause a larger wound. Another unique aspect of the arrows was that they were fletched with leather.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_URUK_CROSSBOWMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Uruk-hai make use of a pump-action type of crossbow, which allows it to be fired and re-strung in a matter of seconds.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LOKE_NAR_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Lôke-Nar Rim were some of the finest archers in Middle-Earth. They possessed large composite longbows with incredible range and power.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SILVAN_WARRIOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Silvan Elves were mostly a subgroup of the Nandor, ultimately of Telerin descent. They, like the Sindar, began the Great Journey but did not complete it.  In the Third Age, most remaining Silvan Elves lived either in Lothlórien or the Woodland Realm. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELNAITH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elnaith, it's meaning is "Star-Spear-point", referring to the Elnaiths armament knights with Lances. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELDAR_CAVALRY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In Valinor, the Elves did ride horses. Fëanor's son, Celegorm, "in Valinor was a friend of Oromë, and often followed the Vala's horn.  Aredhel, while still in Eldamar, was also mentioned as one who loved to ride and hunt in the forests. The Noldor brought some of their horses, which flourished in Ard-galen, from Valinor with them on the ships that sailed to Losgar. The horses of Elves were ridden bitless, with only decorative headstalls and saddles, or wholly without tack, and the Mearas, like elf horses, also seemed to prefer being ridden thus by the riders they allowed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ELDAR_MOUNTED_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In Valinor, the Elves did ride horses. Fëanor's son, Celegorm, "in Valinor was a friend of Oromë, and often followed the Vala's horn.  Aredhel, while still in Eldamar, was also mentioned as one who loved to ride and hunt in the forests. The Noldor brought some of their horses, which flourished in Ard-galen, from Valinor with them on the ships that sailed to Losgar. The horses of Elves were ridden bitless, with only decorative headstalls and saddles, or wholly without tack, and the Mearas, like elf horses, also seemed to prefer being ridden thus by the riders they allowed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NOLDOR_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ñoldor were the second clan of the Elves. In the First Age they fight against Morgoroth in Beleriand. In the Second Age these forces served in the Battle of Dagorlad, led by Gil-galad and Elrond, against the armies of Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NOLDOR_SPEARMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ñoldor were the second clan of the Elves. In the First Age they fight against Morgoroth in Beleriand. In the Second Age these forces served in the Battle of Dagorlad, led by Gil-galad and Elrond, against the armies of Sauron.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TELERI_SWANSHIP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Falmari, the Telerian Elves of Aman under Olwë and the Falathrim, the Elves of the Havens of the Falas in Middle-earth were masters of shipbuilding and were great mariners, but were not great sea powers and explorers like those of Men as they used their ships mainly for traveling to and from place to place and later along the Straight Road to Aman. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UMBAR_RAIDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Corsairs sailed in large, dark, wooden galley ships with large black junk-like sails. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EAGLE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Great Eagles were beings of Arda said to have been "devised" by Manwë Súlimo, the leader of the Valar, and were often called the Eagles of Manwë. They were sent from Valinor to Middle-earth to keep an eye on the exiled Ñoldor, and also upon their foe the evil Vala Morgoth, and later yet upon Morgoth's lieutenant and future Dark Lord, Sauron. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ents, also known as Onodrim (Tree-host) by the Elves, are a very old race that appeared in Middle-earth at the same time that the dwarves did. They were apparently created at the behest of Yavanna after she learned of Aulë's children, the dwarves, knowing that they would want to fell trees. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TELERI_WARRIOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Teleri were the third of the Elf clans. Those who came to Aman became known as the Falmari. They were the ancestors of the Valinorean Teleri, and the Sindar, Laiquendi, and Nandor of Middle-earth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LAIQUENDI_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Laiquendi also known as the Green-elves were a group of Nandor under Denethor, son of Lenwë. These elves passed westward into the Beleriand over the Blue Mountains and came to reside in Ossiriand, the Land of Seven Rivers, and were quite secretive there.They made no weapons of steel, had only bows and arrows - which they were experts at handling. They dressed in forest-like green attire during the spring and summer months, therefore becoming known as the Green-elves. They were also fond of singing during the daylight hours. Their culture remained unique and distinct for many hundreds of years as they were for the most part a simple, peaceful, and reclusive people. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VANYAR_SPEARMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Vanyar, also called the Fair Elves, Light-elves and 'Spear-elves' , were the first and smallest of the Kindreds of the Eldar. Under the leadership of Ingwë, the Vanyar were the first to set forth on the Great Journey and the first to reach the shores of Belegaer; they sailed to Aman on the first voyage of Tol Eressëa and remained there permanently. The Vanyar were skilled in the arts of war and were known for their fashioning of spears, thus they no doubt fielded a formidable army in the war. Ingwë's son led an armed host of his people from Valinor to fight in the War of Wrath. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EDAIN_PHALANXES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A phalanx was a formation of soldiers that formed multiple ranks of warriors supporting each other with spears, pikes, and/or halberds. The phalanx is an extremely formidable formation on the offensive and defensive. The army of the Númenóreans also used these formations, as evidenced in the Battle of Dagorlad, during the Last Alliance of Elves and Men. It was supremely effective at halting significant Orcish advances and the indomitable reach of the infantrymen in the phalanx gave the archers ample protection to continue the round-the-clock slaughter of Sauron's army. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NUMENOR_STEELBOW_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As described in Unfinished Tales, the Númenóreans used a type of bow called the steelbow, which was hollow and made of steel, as its name implies. It was much feared by their enemies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NUMENOR_SHIP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>It was the nations of men that created great fleets of ships for the purposes of exploration and war. The Númenóreans were the first of the Mannish sea powers and they were used to colonise Middle-earth. After the Downfall of Númenór, it was passed on to the Dúnedain living in exile in Middle-earth of which Gondor was the most powerful for a time. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANGBAND_ORC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In the First Age, thousands of Orcs were bred in Angband by Morgoth and to participate in the Battles of Beleriand, which lasted 587 years. They first appeared in the Battle of Lhammoth, where they were defeated by the Noldor. When the House of Fëanor returned to Middle-earth Morgoth sent a force of Orcs against them. Although the Orcs outnumbered the exiles they were no match for the power and wrath of the Ñoldor, and were quickly and easily defeated. However, Fëanor could not defeat the power of Morgoth alone and he was killed, leaving the Orcs to continue to breed under the Dark Lord. Years later, when the House of Fingolfin arrived in Middle-earth, Orcs were sent against them as well, but they were utterly defeated in the Battle of the Lammoth. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANGBAND_WEREWOLVES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Werewolves were servants of Morgoth, bred from wolves and inhabited by dreadful spirits (fallen lesser Maiar or the fëar [souls] of orcs) imprisoned in these wolfish forms by Sauron. Unlike werewolves of other literature, the werewolves of Middle-earth do not transform from man to wolf at night and their behavior is not influenced by the full moon or other lunar cycles. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BALROG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Balrogs, also known as the Valaraukar, were Maiar that were seduced and corrupted by Melkor into his service. Balrogs were exceptionally powerful creatures. Only seven Balrogs were required to drive away Ungoliant, a large monster powerful enough to devour consume the fruits of Telperion, which produced the light for billions of stars. A single Balrog, who became known as Durin's Bane, alone managed to drive the Dwarves of Moria from their ancient and supremely fortified nation-state, which was at the time the greatest kingdom of Dwarves that had ever been. It also contended with Gandalf, and shattered the side of a mountain with physical might alone. The Balrogs were considerably bodily agile, such that their passing is once described as a “tempest of fire”. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WINGLESS_DRAGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>These Wingless Dragons were sometimes referred to as serpents, great Worms</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WINGED_DRAGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ancalagon and his armada of winged fire-drakes by themselves drove back the Host of the Valar during the War of Wrath at the end of the First Age, such was their incredible power. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VAMPIRES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The term 'Vampire' was used loosely to designate mysterious bat-like creatures serving Sauron and Morgoth. </Text>
+		</Row>
+		<!-- RELGIONS-->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_AULE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Aulë was an Ainur, one of the Aratar and a Valar, who was responsible for fashioning and crafting the substances of which Arda, the world, was composed. Besides the shaping of Arda, Aulë's greatest works were the Two Lamps of the Valar, the vessels of the Sun and Moon, and the Dwarves, whom he created out of impatience for the Children of Ilúvatar. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_IRMO_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Irmo is an Ainu, and a Vala who was responsible for the creation of dreams and desires as well as visions too. He was more commonly known as Lórien, after the name of his dwelling place.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_YAVANNA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Yavanna was of the Ainur and Valar, and one of the Aratar who was responsible for the growth of all the fruits and growing things of Arda. She resided in the Pastures of Yavanna, in the south of Valinor.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ELBERETH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Elbereth is the sindarin name of Varda an Ainu, and one of the Aratar and a Vala responsible for the outlining of the stars in the heavens above Arda. Varda was the most beautiful of all the Valar, and her beauty was said to be beyond the description of Men and Elves, for her face radiates the light of Eru Ilúvatar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_OROME_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Oromë was an Ainu, one of the Aratar and a Vala who was responsible for the hunt. During the Years of the Trees, after most of the Valar had withdrawn completely from Middle-earth and hidden themselves in Aman, Oromë still hunted in the forests of Middle-earth on occasion. Thus, it was he who discovered the Elves when they first awoke at Cuivienen and named them the Eldar. Among the Rohirrim and other Northmen, he was also sometimes called Béma.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ERU_ILUVATAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Eru is the supreme deity of Arda. He was the single creator, above the Valar, but has delegated almost all direct action within Eä to the Ainur, including the shaping of the Arda. Elves and Men were created by Eru directly, without delegation to the Ainur, and they are therefore called "Children of Ilúvatar" (Eruhini).  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MORGOTH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Morgoth, originally named Melkor, was the first Dark Lord, and the primordial source of evil in Eä. Originally the most powerful of the Ainur created by Eru Iluvatar, Melkor rebelled against his creator out of pride and sought to corrupt Arda. After committing many evils in the First Age, such as the theft of the Silmarils, which resulted in his name Morgoth, and the destruction of the Two Lamps and the Two Trees of Valinor, Morgoth was defeated by the Host of Valinor in the War of Wrath and cast out of Arda into the Void, where he now waits. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MELKOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Melkor, later known predominantly as Morgoth, was the first Dark Lord, and the primordial source of evil in Eä. Originally the most powerful of the Ainur created by Eru Iluvatar, Melkor rebelled against his creator out of pride and sought to corrupt Arda. After committing many evils in the First Age, such as the theft of the Silmarils, which resulted in his name Morgoth, and the destruction of the Two Lamps and the Two Trees of Valinor, Morgoth was defeated by the Host of Valinor in the War of Wrath and cast out of Arda into the Void, where he now waits.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_UNGOLIANT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ungoliant was a primordial taking the shape of a gigantic spider. She was initially an ally of Melkor in Aman, and for a short time in Middle-earth as well. She is the mother of Shelob, and therefore the oldest, and first spider of the south, possibly even the first spider of Arda. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ULMO_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ulmo was an Ainu, one of the Aratar, and the Vala responsible for the control over the oceans of Arda. A lover of water, Ulmo was one of the Arda's chief architects.  He always distrusted Melkor, and the Dark Lord feared the Sea almost as much as he feared Varda because the sea cannot be tamed. Ulmo had no dwelling in Valinor or any permanent dwelling on land, as he preferred the deeps of the seas and the rivers. His palace, on the bottom of Vaiya, was called Ulmonan. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_UINEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Uinen was a Maia spirit known as The Lady of the Sea and the wife of the Maia Ossë, and she was also a patron to all mariners.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_OSSE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ossë was a Maia associated with Ulmo. Ossë was a Ainu spirit of the sea in the service of Ulmo. He never entered into the deeps of the seas as did his master but was instead fond of wildness and unpredictability of tides along the coastlines of the lands. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MANWE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Manwë was the leader of the Ainur, one of the Aratar, King of the Valar, husband of Varda, brother of the Dark Lord Melkor, and King of Arda.The winds and airs are his servants. He was the greatest in authority, but not in power, of all the Valar, Melkor being more powerful. He was however the greatest of the Aratar, among whom Melkor was not counted. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MELIAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Lúthien Tinúviel.  For thousands of years, she used her powers to guard and defend the city with a protection spell called the Girdle of Melian, but she predicted that one person would one day breach this defense.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SARUMAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Saruman was an Istar. His extensive studies of dark magic, however, eventually led him to desire the One Ring for himself. Thinking he could ally himself with Sauron and then betray him, Saruman allied Isengard with Mordor in the War of the Ring, in which he was defeated. He initially advocated an alliance with Sauron, but he soon betrayed Sauron as well, as his ultimate goal was to supplant Sauron and rule Middle-earth. </Text>
+		</Row>
+		<!-- CITY STATE-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BREE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Bree was a village, of Men and hobbits, in Middle-earth, located east of the Shire and south of Fornost in Eriador. Bree was an ancient settlement of men in Eriador by the time of the Third Age of Middle-earth, but after the collapse of the Kingdom of Cardolan, which had claimed it, Bree continued to thrive without any central authority or government for many centuries. Bree had become the most westerly settlement of men in all of Middle-earth by the time of the War of the Ring, and became one of only three or four inhabited settlements in all of Eriador. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BREE_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>At the time of The Lord of the Rings, Bree-land was the only part of Middle-earth where Men and Hobbits dwelt side by side in peace. Being located on the most important crossroads in the north, on the crossing of the Great East Road and the Greenway, travellers would pass through Bree. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DALE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dale was a city of the Northmen, destroyed by the dragon Smaug and rebuilt after his demise.  Dale was situated in the valley between the south-western and south-eastern arms of the Lonely Mountain, nestled in a sharp U-shaped bend of the River Running. It was known as a merry town that traded, mainly in food-supplies, for the skills and craft-pieces of the Dwarves. Dale's toy market was the wonder of the North and the town was renowned for its bells.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ESGAROTH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Lake-town, or Esgaroth, , was a small settlement and community of Men in the north-western part of the Long Lake in the Rhovanion. The town was constructed entirely of wood and stands upon wooden pillars sunk into the bed of the Long Lake, south of the Lonely Mountain and east of Mirkwood. It seems that the town's prosperity was built on trade between the Men, Elves and Dwarves of northern Middle-earth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DORWINION_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dorwinion, also known as Dor-Winion, was a land in the vales of the Celduin, northwest of the Sea of Rhûn, that was famous for its great gardens and as the home of the finest wines in all of Middle-earth. Its people were descendants of the Edain, and they had close ties to the Northmen of Dale in genealogy as well as Avari elves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HOBBITON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Hobbiton was a village in the Westfarthing of the Shire. Hobbiton was located in the center of the Shire in the far eastern part of the Westfarthing. It was the home of many illustrious Hobbits, including Bilbo Baggins, Frodo Baggins, and Samwise Gamgee.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MICHEL_DELVING_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Michel Delving is the largest town in the Shire, located in the western edge of the Westfarthing in the White Downs on the Great East Road. The Mayor of the Shire is elected in Michel Delving, which is also the location of the Lockholes and the famous Mathom-house.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOODMENTOWN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Woodmen, known also the Woodmen of Mirkwood, were a race of Men distantly related to the Edain who, by the Third Age, inhabited the western portion of Mirkwood forest. Not much is known of the group other than their inhabitance, that they were excellent huntsmen, and that they were probably led by a Chieftain. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOODMENTOWN_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>During the early and mid parts of the First Age when men began spreading throughout Middle-earth, these people dwelled in the vast forested places in Middle-earth, particularly in Brethil. Surviving the tumults and wars over the ages, the descendants of these men came to live in Mirkwood along with a mysterious race of men called the Beornings. The Woodmen and the Beornings probably had close ties since they lived near to each other braving the many dangers of the forest. The Woodmen also probably had an alliance with the Elves that inhabited Mirkwood. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOODMENTOWN_CHAPTER_HISTORY_PARA_3"  Language="en_US">
+			<Text>After the War of the Ring and the cleansing of Mirkwood, the Woodmen and the Beornings were given a large portion of the forest between Thranduil's kingdom, Lorien, and East Lórien to dwell in.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BEORNING_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The origins of Beornings are not known, save that they dwelt in the Vales of Anduin between Mirkwood and the Great River in the late Third Age. Unlike other Men, they had the ability to change into bears. They were named after Beorn, their patriarch. They seemed to have the same life-span of mortal men, and could speak in both the tongue of men and of bears. They did not seem very fond of Dwarves, and were bitter enemies of the Goblins. The people of Rohan shared kinship with them. They hunted neither bird nor beast, their diet consisting mostly of cream and honey. The only known leaders of this people were Beorn and later his son Grimbeorn. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BEORNING_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>During the Third Age they guarded the Ford of Carrock from the Orcs and Wargs and they also aided the Elves in defending their kingdom in northern Mirkwood. During the War of the Ring, while wearing the One Ring at Amon Hen upon the seat of seeing, Frodo Baggins saw many things from afar, including the land of the Beornings aflame. This hints at an attack by Sauron's forces upon the Beornings, though the outcome of this attack is unknown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NURUNKHIZDIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Under the high central peaks of the Pinnon Rhûn, on the western shores of the Inland Sea, is the Ironfists Dwarven kingdom of Nurunkhizdín. Nurunkhizdín is small as Dwarven mansions go, but makes up in aesthetic beauty what it lacks in size. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FOROCHEL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The area of Forodwaith that lay north of Eriador was known as Forochel, together with the great ice-bay and cape, which carried the same name. This area roughly corresponded with the area where the Blue Mountains and the Iron Mountains once met. Forochel was inhabited by a tribe of brown skinned people called the Lossoth, or Snowmen. The chief of these tribes sheltered the Arthedain king Arvedui for a time and was given the Ring of Barahir as a reward.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DOL_AMROTH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dol Amroth was a feudal principality which formed part of the Kingdom of Gondor in the southern reaches of that realm. It was ruled by the Prince of Dol Amroth; the banner of the Silver Swan of Dol Amroth flew alongside that of the White Tree throughout the Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NURN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Núrn is a region located in the southernmost portion of the realm of Mordor that holds the inland Sea of Núrnen. Núrn was partially inhabited by Westron-speaking men that were enslaved by the Dark Lord Sauron. It was fertile enough to feed Sauron's numberless hordes during the War of the Ring, and covered in vast fields of grain worked by slaves. Its soil had been enriched by ash from Orodruin's eruptions, and its grasslands were fed by water from the Sea of Núrnen. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DUNLAND_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dunland was the land of the wild men, or 'Dunlendings'. Dunland means Hill Land in the language of neighboring Rohan, whose people named it after arriving in nearby Calenardhon in the later Third Age. Dunland was inhabited by the Dunlendings, Men who were mostly bearded and had dirty faces, and long matted hair. They wore clothes of leather and animal skin and carried weapons that were simple but effective for their purpose. They usually fought with clubs and pitchforks, and at times they carried torches to act as lights at night and to burn buildings by day. The buildings that Dunlendings lived and worked in were crude shacks of wood and animal skin that were often sabotaged by Wargs and sometimes the Rohirrim. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RHUDAUR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Rhudaur was the smallest of the kingdoms that originated from the break-up of Arnor in TA 861. From the start of its existence, Rhudaur was unfriendly towards the two other successor states, and took part in a bitter conflict with Arthedain over the Tower of Amon Sûl and the Palantír associated with the tower. The last Kings of Rhudaur were not of Númenórean blood, but were descended of Men in service of Angmar. Under their rule the land became a vassal of Angmar, and thus enemies of Cardolan and Arthedain. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ENEDWAITH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>During the First and early Second Ages Enedwaith was deeply forested, but with the arrival of the timber-hungry Númenóreans, from the seventh century of the Second Age onwards, the landscape was devastated. Only remote corners like Eryn Vorn survived in Eriador, and the Old Forest still further north. Many surviving natives took refuge in the eastern highlands of Enedwaith, "the foothills of the Misty Mountains", which ultimately became Dunland. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MINHIRIATH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The original inhabitants of Minhiriath (Minhiriathrim) were descended from the same Men as the ancestors of the Númenóreans, but because they spoke mutually unintelligible languages, the Númenóreans did not class the Minhiriathrim as Middle Men. When the large-scale deforestation of their land began under the Númenórean 'Ship Kings' after the 7th century Second Age, the Minhiriathrim became openly hostile, and were persecuted. Only those who "fled from Minhiriath into the dark woods of the great Cape of Eryn Vorn" survived. Most, if not all of these forest-dwellers subsequently "welcomed Sauron and hoped for his victory over the Men of the Sea", but they were to be disappointed - and permanently trapped - by Sauron's burning of much of the rest of the surviving forest, and final defeat, in SA 1701. After TA 1975, even though "a few secretive hunter-folk lived in the woods" throughout the Third Age (probably a reference which includes Eryn Vorn), Minhiriath was claimed by no kingdom at all. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DRUADAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Drúadan Forest also known as the Tawar-in-Drúedain was a pine forest in Gondor, located in Anorien, which was north of Minas Tirith. The forest was inhabited by a strange folk of men known as the Drúedain, the Wild Men of the Woods or Wood Woses.  It was known for being avoided by outsiders. The forest is remembered most for when the Riders of Rohan where guided through the forest on their way to the relief of Minas Tirith, by their leader Ghân-buri-Ghân. There was a road there, created long ago by the "Stonehouse-folk" (Men of Gondor), that everyone except the Wild Men had forgotten. It would have taken the Drúedain from sunrise to noon to walk it, but it required around ten hours for all of Rohan's army to get through. In the Fourth Age, King Aragorn II Elessar declared that the men of the forest would have the land to themselves because of their help during the war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DRUWAITH_IAUR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Drúwaith Iaur also known as Old Púkel land was a land west of Gondor between the river Isen and the White Mountains. Drúwaith Iaur was supposedly one of the homes to the remnants of the Drúedain or Woses and perhaps other men who had once lived in the White Mountains (Ered Nimrais), but Drúwaith Iaur population was never fully established.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EHWATHRUMAVULD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>In old times it was part of the kingdom of Rhovanion, now inhabited by tribes of Easterlings.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ERED_LUIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Blue Mountains or 'Ered Luin', also known as Ered Lindon, was a mountain range situated in the far west of Eriador. During the Third Age, its forests, besides that of Mirkwood, were the largest in Middle-earth. In the latter part of the Third Age, the Dwarves settled the Blue Mountains again when Thráin II and his son Thorin and the Dwarven survivors of the Sack of Erebor delved a prosperous settlement there.  The Firebeards and Broadbeams continued to live there through the Fourth Age, and probably till the diminishing of the race of Dwarves</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DOL_GULDUR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dol Guldur, also known as the Hill of Dark Sorcery, was Sauron's stronghold and base of operations when he worked his sorcery in the wood under the name of The Necromancer. It was located south of Mirkwood for over two-thousand years in the Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BALCHOTH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Balchoth were a fierce group of Easterlings. Under the influence of Sauron from Dol Guldur, the Balchoth attacked Gondor in TA 2510. They overran the plains of Calenardhon and almost destroyed the army of the Ruling Steward Cirion, but were defeated by the Éothéod under Eorl the Young at the Battle of the Field of Celebrant; the entire race was pursued and slaughtered by Eorl and his men. It is not known if any survived the massacre, but if any did, they probably joined the Easterlings around the Sea of Rhûn and were assimilated. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VARIAGS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Variags were Men from the land of Khand.  They first appeared in TA 1944 in the Northeast of Middle-earth, fighting alongside the Easterling tribe known as the Wainriders. On March 14 - 15 (Third Age: 3019) the Variags fought in Sauron's army at the Battle of the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_STIFFBEARD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Stiffbeards were among the Houses of the seven Fathers of the Dwarves in Middle-earth that dwelt in the mountains of the East, near Orocarni. They were originally paired with the Ironfists. They were sometimes known as Frost-Dwarves, Glacier-Dwarves, Ice-Dwarves or Snow-Dwarves due to their icy northern homeland. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IRONFISTS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Ironfists were one of the Houses of the seven Fathers of the Dwarves in Middle-earth. Presumably, as they do not appear in any of the tales, they lived far to the east in the northern range of the Orocarni mountains where they were paired with the Stiffbeards.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAGATH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Sagath were an Easterling Tribe on the eastern Borders of Rhovanion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HARUZAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Also known as Al Amrûn, this was the Haruze name for Near Harad, which included the Harnen river valley, Harondor and all the lands in between down to Nen Umbar and the true desert. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHELKAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Chelkar was an upland region of Near Harad in the Northeast bordering Harondor, Núrn and Khand, and the river Ode Auchel ran through the region, the region was so named as the proximity of the Ephel Dúath meant the climate was mild compared to the rest of Near Harad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PEZARSAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>This is a region of Near Harad east of Amrûn, centred on the Ode Pezar river and the Rath Khand road. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHEY_SART_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Chey Sart was situated in the center of Endor - between the Ered Harmal to the west, the serpentine Talathrant to the north, and the Chey Rill to the east. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MORIA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>In TA 1980, the Dwarves dug too deeply and greedily for Mithril and to their loss they unearthed a nameless terror in the depths beneath the city. This dreadful creature wrought destruction throughout the city wiping out most of the Dwarves and slaying King Durin VI. Thereafter the creature was named Durin's Bane. After the Dwarves had left, Khazad-dûm gathered dust and stood dark and empty, but for the sinister creature that lurked in the depths. This was when it was named Moria, the Black Pit. The Orcs, refugees from the north, began to raid the abandoned city of its treasures and made a decision to occupy it. They came upon the Balrog and began to worship it as their deity. Mordor started to send out troops of Orcs and Cave Trolls to populate Moria, making an evil place for them to multiply.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BUCKLAND_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Buckland, later known as the Eastmarch, was a small colony of the Hobbits lying in between the Old Forest and the Brandywine River, which separated the region from the Shire. Although it was colonized by Shire-hobbits, it was not formally a part of the Shire until early in the Fourth Age, hundreds of years after it was founded. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TUCKBOROUGH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Tuckborough is a location in the Westfarthing of The Shire. Being the main village of Tookland, it is where most of the Took clan resided. It was located at the western end of the Green Hill Country. The Stock Road ran eastward from Tuckborough to Stock. This region was the site of the Great Smials, the ancestral home of the Thains. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SOUTHFARTHING_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>A rural, fertile, and slightly warmer area of the Shire, the Southfarthing is the site of the towns Gamwich (original home of the Gamgee family), Cotton, and Longbottom, and much of the Pipe-weed production. The Southfarthing was also the source of the Old Winyards wine. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HARONDOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>South Gondor, also known as Harondor, was a region of Gondor near Harad and Umbar. South Gondor was south of Gondor and Harad and was contested between both countries. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BLACKLOCKS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Blacklocks were a relatively unmentioned clan of dwarves in Tolkien's writings. They presumably had black hair (hence their name) and might have had relations with other Dwarven clans. They most likely originated in the southern part of the Orocarni, being the only far eastern mountain range. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_STONEFOOTS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Stonefoots were one of Houses of the seven Fathers of the Dwarves that dwelt in the mountains of the East. They were originally paired with the Blacklocks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AVARI_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>When Oromë found that Elves that awakened in Cuiviénen, he invited them to come with him to Valinor. All the Minyar and most of the Tatyar and Nelyar were persuaded and followed Oromë into the west on the Great Journey. The remainder of the Tatyar and Nelyar remained suspicious of the Lords of the west, seeing them only in their wrath, or they simply refused to depart from their own lands, and spread gradually throughout the wide lands of Middle-earth. They were after known in Quenya, the language of the Eldar that eventually reached Valinor, by the name Avari, meaning "the Unwilling", because they refused the summons. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AVARI_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>Having never come to Valinor, the Avari remained wild folk, dwellers of forests. Little is known of them, as they do not appear in any of the tales, save some references to Avari creeping in the south of Beleriand in the First Age. The Dark Elves probably taught them many of the basic crafts of civilization, though the craft of the Eldar surpassed that of the Avari even more than that of the Avari surpassed primitive Men. </Text>
+		</Row>
+		<!-- NAMES-->
+		<Row Tag="LOC_CITIZEN_GONDOR_MALE_1"  Language="en_US">
+			<Text>Faramir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GONDOR_MALE_2" Language="en_US">
+			<Text>Boromir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GONDOR_MALE_3" Language="en_US">
+			<Text>Halbarad</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GONDOR_MALE_4" Language="en_US">
+			<Text>Madril</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GONDOR_MALE_5" Language="en_US">
+			<Text>Mablung</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_1"  Language="en_US">
+			<Text>Éomer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_2"  Language="en_US">
+			<Text>Erkenbrand</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_3"  Language="en_US">
+			<Text>Gamelin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_4"  Language="en_US">
+			<Text>Háma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_5"  Language="en_US">
+			<Text>Elfhelm</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_6"  Language="en_US">
+			<Text>Grimbold</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_MALE_7"  Language="en_US">
+			<Text>Déorwine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_FEMALE_1"  Language="en_US">
+			<Text>Éowyn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ROHAN_FEMALE_2"  Language="en_US">
+			<Text>Elfhid</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

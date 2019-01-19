@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RELIGION_AULE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_IRMO" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_YAVANNA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ELBERETH" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_OROME" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ERU_ILUVATAR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MORGOTH" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MELKOR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_UNGOLIANT" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ULMO" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_UINEN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_OSSE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MANWE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MELIAN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_SARUMAN" Kind="KIND_RELIGION" />
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_AULE" Name="LOC_RELIGION_AULE" Iconstring="Au" RequiresCustomName="0" Color="COLOR_RELIGION_AULE"/>
+		<Row ReligionType="RELIGION_IRMO" Name="LOC_RELIGION_IRMO" Iconstring="ir" RequiresCustomName="0" Color="COLOR_RELIGION_IRMO"/>
+		<Row ReligionType="RELIGION_YAVANNA" Name="LOC_RELIGION_YAVANNA" Iconstring="yv" RequiresCustomName="0" Color="COLOR_RELIGION_YAVANNA"/>
+		<Row ReligionType="RELIGION_ELBERETH" Name="LOC_RELIGION_ELBERETH" Iconstring="eb" RequiresCustomName="0" Color="COLOR_RELIGION_ELBERETH"/>
+		<Row ReligionType="RELIGION_OROME" Name="LOC_RELIGION_OROME" Iconstring="or" RequiresCustomName="0" Color="COLOR_RELIGION_OROME"/>
+		<Row ReligionType="RELIGION_ERU_ILUVATAR" Name="LOC_RELIGION_ERU_ILUVATAR" Iconstring="ei" RequiresCustomName="0" Color="COLOR_RELIGION_ERU_ILUVATAR"/>
+		<Row ReligionType="RELIGION_MORGOTH" Name="LOC_RELIGION_MORGOTH" Iconstring="mt" RequiresCustomName="0" Color="COLOR_RELIGION_MORGOTH"/>
+		<Row ReligionType="RELIGION_MELKOR" Name="LOC_RELIGION_MELKOR" Iconstring="mk" RequiresCustomName="0" Color="COLOR_RELIGION_MELKOR"/>
+		<Row ReligionType="RELIGION_UNGOLIANT" Name="LOC_RELIGION_UNGOLIANT" Iconstring="ug" RequiresCustomName="0" Color="COLOR_RELIGION_UNGOLIANT"/>
+		<Row ReligionType="RELIGION_ULMO" Name="LOC_RELIGION_ULMO" Iconstring="ul" RequiresCustomName="0" Color="COLOR_RELIGION_ULMO"/>
+		<Row ReligionType="RELIGION_UINEN" Name="LOC_RELIGION_UINEN" Iconstring="un" RequiresCustomName="0" Color="COLOR_RELIGION_UINEN"/>
+		<Row ReligionType="RELIGION_OSSE" Name="LOC_RELIGION_OSSE" Iconstring="os" RequiresCustomName="0" Color="COLOR_RELIGION_OSSE"/>
+		<Row ReligionType="RELIGION_MANWE" Name="LOC_RELIGION_MANWE" Iconstring="mw" RequiresCustomName="0" Color="COLOR_RELIGION_MANWE"/>
+		<Row ReligionType="RELIGION_MELIAN" Name="LOC_RELIGION_MELIAN" Iconstring="ml" RequiresCustomName="0" Color="COLOR_RELIGION_MELIAN"/>
+		<Row ReligionType="RELIGION_SARUMAN" Name="LOC_RELIGION_SARUMAN" Iconstring="Sr" RequiresCustomName="0" Color="COLOR_RELIGION_SARUMAN"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_DAIN_II" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_GALADRIEL" ReligionType="RELIGION_IRMO" />
+		<Row LeaderType="LEADER_THRANDUIL" ReligionType="RELIGION_YAVANNA" />
+		<Row LeaderType="LEADER_ELROND" ReligionType="RELIGION_ELBERETH" />
+		<Row LeaderType="LEADER_THEODEN" ReligionType="RELIGION_OROME" />
+		<Row LeaderType="LEADER_ARAGORN" ReligionType="RELIGION_ERU_ILUVATAR" />
+		<Row LeaderType="LEADER_SAURON" ReligionType="RELIGION_MORGOTH" />
+		<Row LeaderType="LEADER_SARUMAN" ReligionType="RELIGION_SARUMAN" />
+		<Row LeaderType="LEADER_SULADAN" ReligionType="RELIGION_MELKOR" />
+		<Row LeaderType="LEADER_ANGAMAITE" ReligionType="RELIGION_MELKOR" />
+		<Row LeaderType="LEADER_KHAMUL" ReligionType="RELIGION_MELKOR" />
+		<Row LeaderType="LEADER_KIONID" ReligionType="RELIGION_MELKOR" />
+		<Row LeaderType="LEADER_GORKIL" ReligionType="RELIGION_UNGOLIANT" />
+		<Row LeaderType="LEADER_WITCH_KING" ReligionType="RELIGION_MORGOTH" />
+		<Row LeaderType="LEADER_ELENDIL" ReligionType="RELIGION_ERU_ILUVATAR" />
+		<Row LeaderType="LEADER_CIRDAN" ReligionType="RELIGION_OSSE" />
+		<Row LeaderType="LEADER_AZOG" ReligionType="RELIGION_UNGOLIANT" />
+
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_AULE</Type>
+			<Red>0.298</Red>
+			<Green>0.117</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_IRMO</Type>
+			<Red>0</Red>
+			<Green>0</Green>
+			<Blue>0.298</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_YAVANNA</Type>
+			<Red>0.274</Red>
+			<Green>0.274</Green>
+			<Blue>0.149</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ELBERETH</Type>
+			<Red>0.282</Red>
+			<Green>0.894</Green>
+			<Blue>0.894</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_OROME</Type>
+			<Red>0.258</Red>
+			<Green>0.439</Green>
+			<Blue>0.258</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ERU_ILUVATAR</Type>
+			<Red>0.623</Red>
+			<Green>0.184</Green>
+			<Blue>0.423</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MORGOTH</Type>
+			<Red>0.121</Red>
+			<Green>0</Green>
+			<Blue>0.002</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MELKOR</Type>
+			<Red>0.215</Red>
+			<Green>0</Green>
+			<Blue>0.002</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_UNGOLIANT</Type>
+			<Red>0.058</Red>
+			<Green>0.001</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ULMO</Type>
+			<Red>0</Red>
+			<Green>0.066</Green>
+			<Blue>0.258</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_UINEN</Type>
+			<Red>0.372</Red>
+			<Green>0.372</Green>
+			<Blue>0.568</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_OSSE</Type>
+			<Red>0</Red>
+			<Green>0.470</Green>
+			<Blue>0.568</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MANWE</Type>
+			<Red>0</Red>
+			<Green>1</Green>
+			<Blue>0.568</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MELIAN</Type>
+			<Red>0.549</Red>
+			<Green>1</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_SARUMAN</Type>
+			<Red>0.999</Red>
+			<Green>1</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

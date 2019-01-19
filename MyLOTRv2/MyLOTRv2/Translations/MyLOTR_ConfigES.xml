@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- GONDOR| ARAGORN-->
+		<Replace Tag="LOC_CIVILIZATION_GONDOR_NAME" Language="es_ES">
+			<Text>Gondor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GONDOR_DESCRIPTION"  Language="es_ES">
+			<Text>Reino de Gondor</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GONDOR_ADJECTIVE"  Language="es_ES">
+			<Text>Gondoriano|Gondoriana|Gondorianos|Gondorianas</Text>
+			<Gender>masculine|feminine|masculine|feminine|</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ARAGORN_NAME" Language="es_ES">
+			<Text>Aragorn</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUMENOREAN_SONS_NAME" Language="es_ES">
+			<Text>Hijos de Númenar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUMENOREAN_SONS_DESCRIPTION" Language="es_ES">
+			<Text>Los Constructores reciben una carga adicional.Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEIR_OF_ISILDUR_NAME" Language="es_ES">
+			<Text>Heredero de Isildur</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEIR_OF_ISILDUR_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CITADEL_GUARD_NAME" Language="es_ES">
+			<Text>Guardia de la Ciudadela</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CITADEL_GUARD_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Anti-Caballeria de Gondor. +5 a la Fuerza de combate [ICON_Strength] si al menos hay un Guardia de la Ciudadela adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HEROIC_STATUE_NAME" Language="es_ES">
+			<Text>Estatua Heroica</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" Language="es_ES">
+			<Text>Da +3 de Cultura [ICON_Culture] y 1 Punto para Grandes Generales.</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_AGENDA_REUNITED_KINGDOM_NAME" Language="es_ES">
+			<Text>Reino Reunificado</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_REUNITED_KINGDOM_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones pacíficas que tengan una ciudad en su continente natal. Odia las civilizaciones que inician guerras contra ciudades-estado o civilizaciones que se encuentren en su continente. Le gustan las civilizaciones amigas declaradas. Odia las civilizaciones que traicionan y declaran guerras por sorpresa.</Text>
+		</Row>
+		<!-- ROHAN| THEODEN-->
+		<Replace Tag="LOC_CIVILIZATION_ROHAN_NAME" Language="es_ES">
+			<Text>Rohan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ROHAN_DESCRIPTION"  Language="es_ES">
+			<Text>Reino de Rohan</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ROHAN_ADJECTIVE"  Language="es_ES">
+			<Text>Rohirrim</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_THEODEN_NAME" Language="es_ES">
+			<Text>Théoden</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_MARK_OF_THE_RIDERS_NAME" Language="es_ES">
+			<Text>La Marca de los Jinetes</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_MARK_OF_THE_RIDERS_DESCRIPTION" Language="es_ES">
+			<Text>Recibe una segunda unidad de Rohirrim cada vez que entrena una. Todas las pasturas dan 1 [ICON_Culture] de Cultura</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GLORIOUS_CHARGE_NAME" Language="es_ES">
+			<Text>Carga Gloriosa</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GLORIOUS_CHARGE_DESCRIPTION" Language="es_ES">
+			<Text>+300% bonus de flanqueo. Todas las unidades de caballeria hacen retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHIRRIM_NAME" Language="es_ES">
+			<Text>Rohirrim</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHIRRIM_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Caballeria de Rohan. +5 a la Fuerza de combate [ICON_Strength] contra unidades cuerpo a cuerpo, se cura 50 puntos al eliminar un enemigo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHIRRIM_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Rohirrim</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHIRRIM_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de Caballeria a distancia de Rohan. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MEARAS_STABLE_NAME" Language="es_ES">
+			<Text>Establo de Mearas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MEARAS_STABLE_DESCRIPTION" Language="es_ES">
+			<Text>+40% de experiencia de combate para todas las unidades de Caballería entrenadas en esta ciudad. No se puede construir en un distrito de Campamento que ya tenga Cuartel. 1 de Producción [Icon_Production] y 2 Puntos para Grandes Generales.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_ROHAN_WILL_ANSWER_NAME" Language="es_ES">
+			<Text>Rohan Responderá</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_ROHAN_WILL_ANSWER_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones que están dispuestas a formar alianzas duraderas. No le gustan los que denuncian o atacan a sus amigos y aliados.</Text>
+		</Replace>
+		<!-- END OF ROHAN| THEODEN-->
+		<!-- ELDAR ELVES | ELROND -->
+		<Replace Tag="LOC_CIVILIZATION_ELDAR_ELVES_NAME" Language="es_ES">
+			<Text>Elfos Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ELDAR_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>Reino de los Elfos Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ELDAR_ELVES_ADJECTIVE" Language="es_ES">
+			<Text>Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ELROND_NAME" Language="es_ES">
+			<Text>Elrond</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELVEN_INMORTALITY_NAME" Language="es_ES">
+			<Text>Inmortalidad Élfica</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELVEN_INMORTALITY_DESCRIPTION" Language="es_ES">
+			<Text>Todas sus unidades no sufren penalizaciones al combate cuando reciben daños. Dobla los puntos por turno de Grandes Artistas, Musicos y Escritores. -20% de Crecimiento de Ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_COUNCIL_NAME" Language="es_ES">
+			<Text>Concilio Blanco</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_COUNCIL_DESCRIPTION" Language="es_ES">
+			<Text>Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos. Espacio adicional para política diplomatica. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_WARRIOR_NAME" Language="es_ES">
+			<Text>Soldados Noldor</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo de los Elfos Eldar que remplaza el Guerrero con Espada.+5 [ICON_Strength] Fuerza de Combate contra unidades cuerpo a cuerpo y caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIVENDEL_LANCER_NAME" Language="es_ES">
+			<Text>Jinete Noldor</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIVENDEL_LANCER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria ligera de los Elfos Eldar que remplaza los Jinetes. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MITHLOND_SENTRY_NAME" Language="es_ES">
+			<Text>Lanceros Teleri</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MITHLOND_SENTRY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anti-caballeria de los Elfos Eldar que replaza los Piqueros.Recibe +5 [ICON_Strength] Fuerza de Combate si se encuentra adyacente a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGH_ELF_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Sindar</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGH_ELF_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia de los Elfos Eldar que replaza los Ballesteros. Más rango, combate y ataque a distancia. Recibe +5 [ICON_Strength] de Fuerza de Combate por luchar al lado de un Guerrero Noldor o un Centinela de Mithlond.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_EREGION_FORGE_NAME" Language="es_ES">
+			<Text>Forja de Eregion</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los Elfos Eldar que substituye el Taller.Proporciona 2 de Culture [ICON_Culture], 2 de Producción [ICON_Production], 1 Punto para Grandes Generales.</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_AGENDA_COUNCIL_OF_ELROND_NAME" Language="es_ES">
+			<Text>Concilio de Elrond</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_COUNCIL_OF_ELROND_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones pacíficas que tengan una ciudad en su continente natal. Odia las civilizaciones que inician guerras contra ciudades-estado o civilizaciones que se encuentren en su continente.</Text>
+		</Row>
+		<!-- END OF  ELDAR ELVES | ELROND -->
+		<!-- SILVAN ELVES | THRANDUIL -->
+		<Replace Tag="LOC_CIVILIZATION_SILVAN_ELVES_NAME" Language="es_ES">
+			<Text>Elfos Silvanos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SILVAN_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>Reino de los Elfos Silvanos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SILVAN_ELVES_ADJECTIVE" Language="es_ES">
+			<Text>Silvano</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_THRANDUIL_NAME" Language="es_ES">
+			<Text>Thranduil</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELVES_OF_THE_FOREST_NAME" Language="es_ES">
+			<Text>Elfos de los Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELVES_OF_THE_FOREST_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades obtienen +5 [ICON_Strength] cuando luchan en Bosques o Junglas. +1[ICON_Faith] Fe en los distritos sagrados a lado de Bosques. Extra atractivo de las casillas a lado de bosques. Las unidades se curan más rapido en Bosques y Junglas. -20% de Crecimiento de Ciudades.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOWS_IN_THE_WOODS_NAME" Language="es_ES">
+			<Text>Sombras en los Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOWS_IN_THE_WOODS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades no pueden ser vistas en los bosques o junglas a no ser que esten al lado. +1[ICON_Gold] Oro en los distritos comerciales a lado de Bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SILVAN_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Silvanos</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SILVAN_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad unica de Anti-Caballeria de los Elfos Silvanos que remplaza los Piqueros. +5 [ICON_Strength] de Fuerza de Combate Contra Caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MIRKWOOD_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros de Mirkwood</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MIRKWOOD_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad unica a distancia de los Elfos Silvanos que remplaza los Ballesteros. +5 [ICON_Strength] de Fuerza de Combate si se encuentran adyacente a un Lancero Silvano.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MALLORN_TREE_NAME" Language="es_ES">
+			<Text>Arbol Mallorn</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MALLORN_TREE_DESCRIPTION" Language="es_ES">
+			<Text>Da 2 de Fe[ICON_Faith], 2 de Cultura[ICON_Culture], 1 Alojamiento [ICON_Housing] y 2 Puntos para Grandes Artistas.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROTECTOR_OF_MIRKWOOD_NAME" Language="es_ES">
+			<Text>Protector del Bosque Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_PROTECTOR_OF_MIRKWOOD_DESCRIPTION" Language="es_ES">
+			<Text>No le gustan las civilizaciones que eliminan características como Bosques o Selvas tropicales. Le gustan civilizaciones que plantan Bosques preservan caracteristicas Bosques y Selva.</Text>
+		</Replace>
+		<!-- END OF  SILVAN ELVES | THRANDUIL -->
+		<!-- SILVAN ELVES | GALADRIEL -->
+		<Replace Tag="LOC_LEADER_GALADRIEL_NAME" Language="es_ES">
+			<Text>Galadriel</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LADY_OF_THE_WOOD_NAME" Language="es_ES">
+			<Text>Lady de los Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LADY_OF_THE_WOOD_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno. Todas las unidades no pueden ser vistas en los bosques o junglas a no ser que esten al lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALADHRIM_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros de Galadhrim</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALADHRIM_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad unica a distancia de los Elfos Silvanos de Lorien que remplaza los Ballesteros. +5 [ICON_Strength] de Fuerza de Combate si se encuentran adyacente a otro Arquero de Galadhrim.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROTECTOR_OF_LOTHLORIEN_NAME" Language="es_ES">
+			<Text>Protectora de Lothlorien</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_PROTECTOR_OF_LOTHLORIEN_DESCRIPTION" Language="es_ES">
+			<Text>No le gustan las civilizaciones que eliminan características como Bosques o Selvas tropicales o que comienzan guerras. Le gustan civilizaciones que no inician guerras, plantan Bosques preservan caracteristicas Bosques y Selva.</Text>
+		</Replace>
+		<!-- END OF  SILVAN ELVES | GALADRIEL -->
+		<!-- DWARVES| DAIN II -->
+		<Replace Tag="LOC_CIVILIZATION_LOTR_DWARVES_NAME" Language="es_ES">
+			<Text>Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LOTR_DWARVES_DESCRIPTION" Language="es_ES">
+			<Text>Reino de los Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LOTR_DWARVES_ADJECTIVE" Language="es_ES">
+			<Text>Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_DAIN_II_NAME" Language="es_ES">
+			<Text>Dáin II</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_MINERS_NAME" Language="es_ES">
+			<Text>Grandes Mineros</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_MINERS_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales dan 1 de Producción [ICON_Production] y los Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de una Montaña. Las Minas dan 1 de Oro [ICON_Gold], 1 de Producción [ICON_Production] y 1 de Alimentos [ICON_Food].</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONFOOTS_NAME" Language="es_ES">
+			<Text>Pie de Hierro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_IRONFOOTS_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength]contra las unidades cuerpo a cuerpo.Todas las ciudades que fundes dan un Puesto Comercial. </Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARVEN_GUARDIAN_NAME" Language="es_ES">
+			<Text>Guardián</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARVEN_GUARDIAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad medieval única cuerpo a cuerpo de los Enanos. +5 de Fuerza de Combate [ICON_Strength] en tu territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARVEN_PHALANXES_NAME" Language="es_ES">
+			<Text>Falange</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARVEN_PHALANXES_DESCRIPTION" Language="es_ES">
+			<Text>Unidad medieval única anti-caballeria de los Enanos. +5 de Fuerza de Combate[ICON_Strength] si tiene otra Falange Enana adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOAT_RIDERS_NAME" Language="es_ES">
+			<Text>Jinetes de Carnero</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOAT_RIDERS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad medieval única de caballeria ligera de los Enanos. +1 de Fuerza de Combate cuando luchan el Colinas y no tiene penalización de movimineto en las Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BOAR_RIDERS_NAME" Language="es_ES">
+			<Text>Jinetes de Jabalí</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BOAR_RIDERS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad medieval única de caballeria pesada de los Enanos. +50% por Flanqueo y +5 de Fuerza de Combate [ICON_Strength] cuando lucha contra unidades a distancia o de asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Language="es_ES">
+			<Text>Excavación Enana</Text>
+			<Gender>femenine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de los enanos que remplaza el Taller. Da 1 de Cultura [ICON_Culture], 2 de Producción [ICON_Production], 2 de Oro [ICON_Gold], 2 Puntos para Grandes Ingenieros y para Grandes Mercaderes.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DWARVEN_GOLD_NAME" Language="es_ES" >
+			<Text>Oro Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DWARVEN_GOLD_DESCRIPTION" Language="es_ES">
+			<Text>Trata de obtener el maximo posible de Oro [ICON_Gold] por Turno. Respeta las otras civilizaciones con buena entrada de Oro por Turno.</Text>
+		</Replace>
+		<!-- END OF DWARVES | DAIN II -->
+		<!-- MORDOR| SAURON -->
+		<Replace Tag="LOC_CIVILIZATION_MORDOR_NAME" Language="es_ES">
+			<Text>Mordor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MORDOR_DESCRIPTION" Language="es_ES">
+			<Text>Mordor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MORDOR_ADJECTIVE" Language="es_ES">
+			<Text>Mordor</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SAURON_NAME" Language="es_ES">
+			<Text>Sauron</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_LAND_NAME" Language="es_ES">
+			<Text>La Tierra Oscura</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_LAND_DESCRIPTION" Language="es_ES">
+			<Text>+30% de Producción [ICON_Production] al Construir Campamentos o Barracones. Puede capturar unidades enemigas como Constructores. Los terrenos de Deserticos proporcionan Alimentos como las Praderas para las otras Civilizaciones.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DARK_POWER_NAME" Language="es_ES">
+			<Text>El Poder Oscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DARK_POWER_DESCRIPTION" Language="es_ES">
+			<Text>Espacio adicional para política militar. Acumula un 60% menos de hastío bélico. Mantenimiento de unidades reducido 2 Oro [ICON_Gold] por unidad. Gana un Orco de Morannon extra cuando entrenas uno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORANNON_ORC_NAME" Language="es_ES">
+			<Text>Orco de Morannon</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORANNON_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Mordor. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_HAI_NAME" Language="es_ES">
+			<Text>Uruk Hai</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_HAI_DESCRIPTION" Language="es_ES">
+			<Text> Unidad cuerpo a cuerpo única de los Orcos. Más fuerte que los Soldados con Espada. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARG_RIDER_NAME" Language="es_ES">
+			<Text>Jinetes Huargo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARG_RIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de los Orcos. +5 de Fuerza de Combate [ICON_Strength] contra unidades heridas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARG_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Huargo</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WARG_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria a distancia. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OLOG_HAI_NAME" Language="es_ES">
+			<Text>Olog-Hai</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OLOG_HAI_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Mordor. +5 [ICON_Strength] de Fuerza de Combate contra unidades Cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SLAUGHTERHOUSE_NAME" Language="es_ES">
+			<Text>Matadero</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SLAUGHTERHOUSE_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Orcos. Da 1 Alimentos [ICON_Food], 1 de Producción [ICON_Production] y 1 de Alojamiento. Puede ser construido en todos los terrenos.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_LORD_OF_THE_DARKNESS_NAME" Language="es_ES">
+			<Text>Señor de la Oscuridad</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_LORD_OF_THE_DARKNESS_DESCRIPTION" Language="es_ES">
+			<Text>Se centra en la producción. Le gustan las civilizaciones con un gran ejercito y que les guste ir a la guerra. Le desagradan civilizaciones pacificas y con ejercitos pequeños.</Text>
+		</Replace>
+		<!-- END OF MORDOR | SAURON -->
+		<!-- ISENGARD| SARUMAN -->
+		<Replace Tag="LOC_CIVILIZATION_ISENGARD_NAME" Language="es_ES">
+			<Text>Isengard</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ISENGARD_DESCRIPTION" Language="es_ES">
+			<Text>Isengard</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ISENGARD_ADJECTIVE" Language="es_ES">
+			<Text>Isengard</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SARUMAN_NAME" Language="es_ES">
+			<Text>Saruman</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WIZARDS_VALE_NAME" Language="es_ES">
+			<Text>Valle del Mago</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WIZARDS_VALE_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos reciben una bonificación por adyacencia adicional por estar adyacentes a otro distrito.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_HAND_NAME" Language="es_ES">
+			<Text>Mano Blanca</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_HAND_DESCRIPTION" Language="es_ES">
+			<Text>Gana un Uruk-Hai extra cuando entrenas uno. Acumula un 60% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_HAI_PIKEMAN_NAME" Language="es_ES">
+			<Text>Piqueros Uruk-Hai</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_HAI_PIKEMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Isengard. Más fuerte que los Piqueros.No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_BERSERKER_NAME" Language="es_ES">
+			<Text>Uruk Berserker</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_BERSERKER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Isengard. +7 a la Fuerza de combate [ICON_Strength] al atacar y -7 a la Fuerza de combate [ICON_Strength] al defender. No sufre penalizaciones al combate cuando recibe daños.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUNLANDER_NAME" Language="es_ES">
+			<Text>Dunlander</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUNLANDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Isengard. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SARUMAN_OF_MANY_COLORS_NAME" Language="es_ES">
+			<Text>Saruman de muchos colores</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SARUMAN_OF_MANY_COLORS_DESCRIPTION" Language="es_ES">
+			<Text>Se centra en la producción. Le gustan las civilizaciones con muchas casillas mejoradas y que se centran en la producción. Le desagradan las civilizaciones con baja producción y pocas casillas mejoradas.</Text>
+		</Replace>
+		<!-- END OF ISENGARD | SARUMAN -->
+		<!-- GOBLIN | GORKIL -->
+		<Replace Tag="LOC_CIVILIZATION_LOTR_GOBLIN_NAME" Language="es_ES">
+			<Text>Goblins</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LOTR_GOBLIN_DESCRIPTION" Language="es_ES">
+			<Text>Goblins</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LOTR_GOBLIN_ADJECTIVE" Language="es_ES">
+			<Text>Goblin</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GORKIL_NAME" Language="es_ES">
+			<Text>Gorkil</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_NAME" Language="es_ES">
+			<Text>Infestación en las Montañas</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_DESCRIPTION" Language="es_ES">
+			<Text>+25% a la Producción [ICON_Production] para las unidades cuerpo a cuerpo y a distancia de las Épocas Antigua y Clásica.Los Constructores reciben una carga adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_GOBLIN_NAME" Language="es_ES">
+			<Text>El Rey Trasgo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREAT_GOBLIN_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales dan 1 de Producción [ICON_Production] si estan al lado de una Montaña. Acumula un 60% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerrero Goblin</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única goblin cuerpo a cuerpo. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Goblin</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GOBLIN_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única goblin a distancia. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GUNDABAD_ORC_NAME" Language="es_ES">
+			<Text>Orco de Gundabad</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GUNDABAD_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única goblin cuerpo a cuerpo. +10 de Fuerza de Combate[ICON_Strength] luchando en Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CAVE_TROLL_NAME" Language="es_ES">
+			<Text>Troll de las Cavernas</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CAVE_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>nidad única goblin cuerpo a cuerpo. +5 de Fuerza de Combate [ICON_Strength] contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_TUNNEL_NAME" Language="es_ES">
+			<Text>Túnel</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_TUNNEL_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los Goblins. Da 2 de Alimentos [ICON_Food],  1 de Producción [ICON_Production], 1 de Oro [ICON_Gold] y 1 de Alojamiento. Solo se puede construir en Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SUBTERRANEAN_CITY_NAME" Language="es_ES">
+			<Text>Ciudad Subterranea</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SUBTERRANEAN_CITY_DESCRIPTION" Language="es_ES">
+			<Text>Se centra en la producción, le gustan las civilizaciones que se centran en la producción y le desagradan las civilizaciones con baja producción. Simpatiza con los barbaros y le desagran las civilizaciones que destruyen campamentos de barbaros. No le importa las penalizaciones de guerra de las otras civilizaciones.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SOUTHRONS_NAME" Language="es_ES">
+			<Text>Hombres del Lejano Sur</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_SOUTHRONS_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones que tienen los mismos recursos de lujo que la suya e intentará reunir todos los recursos de lujo que haya disponibles. No le gustan las civilizaciones que tienen nuevos recursos de lujo que no hayan recogido.</Text>
+		</Replace>
+		<!-- END OF  GOBLIN | GORKIL -->
+		<!-- HARAD | SULADAN -->
+		<Replace Tag="LOC_CIVILIZATION_HARAD_NAME" Language="es_ES">
+			<Text>Harad</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HARAD_DESCRIPTION" Language="es_ES">
+			<Text>Harad</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HARAD_ADJECTIVE" Language="es_ES">
+			<Text>Haradrim</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SULADAN_NAME" Language="es_ES">
+			<Text>Suladân</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SUNLANDS_NAME" Language="es_ES">
+			<Text>Tierras del Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SUNLANDS_DESCRIPTION" Language="es_ES">
+			<Text>Los Distritos Comerciales dan 1 de Oro [ICON_Gold] y 1 de Alimentos [ICON_Food] por adyacencia a Desiertos o Colinas de Desierto. Los terrenos de Deserticos proporcionan Alimentos como las Praderas para las otras Civilizaciones.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SERPENT_LORD_NAME" Language="es_ES">
+			<Text>Señor Serpiente</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SERPENT_LORD_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate [ICON_Strength] en Desiertos y Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MUMAKIL_NAME" Language="es_ES">
+			<Text>Mumakil</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MUMAKIL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Harad. -5 a la Fuerza de combate [ICON_Strength] de todas las unidades enemigas adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARADRIM_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Haradrim</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARADRIM_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Harad a distancia. +10 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HARADRIM_PALACE_NAME" Language="es_ES">
+			<Text>Palacio Haradrim</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HARADRIM_PALACE_DESCRIPTION" Language="es_ES">
+			<Text> +40% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 de Oro [ICON_Gold] Gold, 1 de Alimentos [ICON_Food], 2 Puntos para Grandes Generales y 1 de Alojamiento.</Text>
+		</Replace>
+		<!-- END OF  HARAD | SULADAN -->
+		<!-- UMBAR | ANGAMAITE -->
+		<Replace Tag="LOC_CIVILIZATION_UMBAR_NAME" Language="es_ES">
+			<Text>Umbar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HARAD_DESCRIPTION" Language="es_ES">
+			<Text>Harad</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HARAD_ADJECTIVE" Language="es_ES">
+			<Text>Haradrim</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ANGAMAITE_NAME" Language="es_ES">
+			<Text>Angamaitë</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PIRATES_OF_SOUTH_NAME" Language="es_ES">
+			<Text>Piratas del Sud</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PIRATES_OF_SOUTH_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] de las unidades navales en casillas de aguas poco profundas. +1 a la Fuerza de combate [ICON_Strength] de las unidades militares por cada recurso de lujo diferente mejorado en tierras de Umbar.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CORSAIRS_LORD_NAME" Language="es_ES">
+			<Text>El Lord Corsario</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CORSAIRS_LORD_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa. Permite realizar incursiones costeras a todas las unidades navales cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORSAIRS_OF_UMBAR_NAME" Language="es_ES">
+			<Text>Corsarios de Umbar</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORSAIRS_OF_UMBAR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval a distancia con la habilidad de Asalto costero. No se puede ver a no ser que se esté adyacente a ella.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CORSAIRS_TAVERN_NAME" Language="es_ES">
+			<Text>Taberna de Corsarios</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_CORSAIRS_TAVERN_DESCRIPTION" Language="es_ES">
+			<Text>Da 1 de Oro [ICON_Gold], 2 Puntos para Grandes Almirantes, 1 de Alojamiento y and +25% de experiencia de combate para todas las unidades navales entrenadas en esta ciudad. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DARK_PIRATES_NAME" Language="es_ES">
+			<Text>Piratas Oscuros</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DARK_PIRATES_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones amigas declaradas. Le gustan las civilizaciones que traicionan y declaran guerras por sorpresa.</Text>
+		</Replace>
+		<!-- END OF  UMBAR | ANGAMAITE -->
+		<!-- RHUN | KHAMUL -->
+		<Replace Tag="LOC_CIVILIZATION_RHUN_NAME" Language="es_ES">
+			<Text>Rhûn</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_RHUN_DESCRIPTION" Language="es_ES">
+			<Text>Rhûn</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_RHUN_ADJECTIVE" Language="es_ES">
+			<Text>Orientales</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_KHAMUL_NAME" Language="es_ES">
+			<Text>Khamûl</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOW_OF_THE_EAST_NAME" Language="es_ES">
+			<Text>Sombra del Este</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SHADOW_OF_THE_EAST_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Oro [ICON_Gold] para Rhûn. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con Rhûn les proporcionan +2 a Alimentos [ICON_Food] a dichas civilizaciones y +2 de Oro [ICON_Gold] a Rhûn. Todas las ciudades que fundes o conquistes comienzan con un Puesto comercial</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_EASTERLING_NAME" Language="es_ES">
+			<Text>El Oriental Oscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_EASTERLING_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] al atacar ciudades-estado. +4 a la Fuerza de combate [ICON_Strength] contra jugadores de otras religiones. Acumula un 60% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HALDERDMAN_NAME" Language="es_ES">
+			<Text>Halderman</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HALDERDMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anti-caballeria única de Rhûn. +5 Fuerza de Combate [ICON_Strength] contra unidades de caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KATAPHRAKTS_NAME" Language="es_ES">
+			<Text>Kataphrakts</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KATAPHRAKTS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria única de Rhûn. +5 Fuerza de Combate [ICON_Strength] fuera de su territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_EASTERLINGS_NAME" Language="es_ES">
+			<Text>Hombres del Este</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_EASTERLINGS_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones con un gran ejercito y que les guste ir a la guerra. Le desagradan civilizaciones pacificas y con ejercitos pequeños.</Text>
+		</Replace>
+		<!-- END OF  RHUN | KHAMUL -->
+		<!-- KHAND | KIONID -->
+		<Replace Tag="LOC_CIVILIZATION_KHAND_NAME" Language="es_ES">
+			<Text>Khand</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KHAND_DESCRIPTION" Language="es_ES">
+			<Text>Khanato de Khand</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KHAND_ADJECTIVE" Language="es_ES">
+			<Text>Khand</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_KIONID_NAME" Language="es_ES">
+			<Text>Kîonid II</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARK_KHANATE_NAME" Language="es_ES">
+			<Text>El Khanato Oscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DARK_KHANATE_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Oro [ICON_Gold] para Khand. +5 Fuerza de Combate [ICON_Strength] en Desiertos y Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SLAVE_TRADER_NAME" Language="es_ES">
+			<Text>Comerciante de Esclavos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SLAVE_TRADER_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con Rhûn les proporcionan +2 de Oro [ICON_Gold] a Khand. Puede capturar unidades enemigas como Constructores.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAGS_NAME" Language="es_ES">
+			<Text>Variags</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAGS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria única de Khand. Da el 60% de la Fuerza de Combate [ICON_Strength] de las unidades derrotadas como Oro [ICON_Gold].</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAGS_MOUNTED_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Variag Montados</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAGS_MOUNTED_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria a distancia. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAG_CHARIOT_NAME" Language="es_ES">
+			<Text>Carro de Guerra Variag</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VARIAG_CHARIOT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de carro pesado. Esta unidad se cura en cada turno, incluso después de moverse o combatir.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DARK_HORSELORDS_NAME" Language="es_ES">
+			<Text>Señores Caballo Oscuros</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_DARK_HORSELORDS_DESCRIPTION" Language="es_ES">
+			<Text>Le gusta ver las civilizaciones en guerra y cree en la pugna constante.</Text>
+		</Replace>
+		<!-- END OF KHAND | KIONID -->
+		<!-- ANGMAR| WITCH KING -->
+		<Replace Tag="LOC_CIVILIZATION_ANGMAR_NAME" Language="es_ES">
+			<Text>Angmar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ANGMAR_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Angmar</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ANGMAR_ADJECTIVE" Language="es_ES">
+			<Text>Angmar</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WITCH_KING_NAME" Language="es_ES">
+			<Text>Rey Brujo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_NAME" Language="es_ES">
+			<Text>Sombra del Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_DESCRIPTION" Language="es_ES">
+			<Text>Territorio adicional al fundar ciudades. +1 a Fe [ICON_Faith] y +1 a la Producción [ICON_Production] en la Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_OF_THE_NAZGUL_NAME" Language="es_ES">
+			<Text>Señor de los Nazgûl</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_OF_THE_NAZGUL_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital]. Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. Acumula un 60% menos de hastío bélico.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HILL_TROLL_NAME" Language="es_ES">
+			<Text>Troll de las Colinas</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HILL_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria única de Angmar que remplaza los Piqueros. +5 Fuerza de Combate luchando en Colinas y puede moverse en colinas mas rapido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SNOW_TROLL_NAME" Language="es_ES">
+			<Text>Troll de las Nieves</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SNOW_TROLL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Angmar. +5 Fuerza de Combate luchando en Tundra y en Nieve.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RHUDAUR_SPEARMEN_NAME" Language="es_ES">
+			<Text>Lanceros de Rhudaur</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RHUDAUR_SPEARMEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria única de Angmar y Arnor que remplaza los Lanceros. +5 Fuerza de Combate luchando en Colinas y puede moverse en colinas mas rapido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Númenorean Negro</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única que remplaza los Ballesteros. +10 a la Fuerza de combate [ICON_Strength] cuando hay un Apóstol, Inquisidor o Misionero en el mismo hexágono.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_OF_TWILIGHT_NAME" Language="es_ES">
+			<Text>Templo del Crepúsculo</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_OF_TWILIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de Angmar. Da 4 [ICON_Faith] Fe, 1 [ICON_Science] Ciencia y 1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_WORKSHIP_DARKNESS_NAME" Language="es_ES">
+			<Text>Adorador de la Oscuridad</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_WORKSHIP_DARKNESS_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones que siguen la misma religión y quiere que todas sus ciudades sigan la misma religión. Odia a todo el que intente propagar una religión en su imperio.</Text>
+		</Replace>
+		<!-- END OF ANGMAR | WITCH KING -->
+		<!-- ARNOR | ELENDIL	-->
+		<Replace Tag="LOC_CIVILIZATION_ARNOR_NAME" Language="es_ES">
+			<Text>Arnor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARNOR_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Arnor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARNOR_ADJECTIVE" Language="es_ES">
+			<Text>Arnorian</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ELENDIL_NAME" Language="es_ES">
+			<Text>Elendil</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DUNEDAIN_OFTHE_NORTH_NAME" Language="es_ES">
+			<Text>Dúnedains del Norte</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DUNEDAIN_OFTHE_NORTH_DESCRIPTION" Language="es_ES">
+			<Text>Al construir maravillas antiguas y clásicas puedes gastar cargas de Constructor para completar el 15% del coste original de la maravilla. Los Constructores reciben una carga adicional. uando estén en guerra contra un enemigo común, sus aliados y ellos comparten la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELENDIL_THE_FAIR_NAME" Language="es_ES">
+			<Text>Elendil The Fair</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ELENDIL_THE_FAIR_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades que fundes o conquistes comienzan con un Puesto comercial. Si se encuentran dentro del alcance de una Ruta comercial [ICON_TradeRoute] de tu capital [ICON_Capital] también comenzarán con una Carretera hacia ella. Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades. Todas las ciudades empiezan con un Centro urbano adicional. (En la Antigüedad se empieza con una Estatua Heroica).</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUNEDAIN_RANGERS_NAME" Language="es_ES">
+			<Text>Montaraces Dúnedain</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUNEDAIN_RANGERS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de Arnor. Esta unidad se cura en cada turno, incluso después de moverse o combatir. +5 a la Fuerza de combate [ICON_Strength] en tu territorio o adyacente a tu territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Language="es_ES">
+			<Text>Murallas de los Númenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de Arnor y Gondor que mejora las Murallas Medievales. </Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Language="es_ES">
+			<Text>Torre de los Númenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de Arnor y Gondor  disponible despues de investigar los Castillos.  Da más defensa de lo normal, +1 [ICON_Culture] Cultura, +1 [ICON_Science] Ciencia y +1 Puntos para Grandes Generales. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_LAST_ALLIANCE_NAME" Language="es_ES">
+			<Text>La Última Alianza</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_LAST_ALLIANCE_DESCRIPTION" Language="es_ES">
+			<Text>Le gustan las civilizaciones que están dispuestas a formar alianzas duraderas. No le gustan los que denuncian o atacan a sus amigos y aliados.</Text>
+		</Replace>
+		<!-- END OF ARNOR | ELENDIL -->
+		<!-- ELDAR| CIRDAN	-->
+		<Replace Tag="LOC_LEADER_CIRDAN_NAME" Language="es_ES">
+			<Text>Círdan</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SHIPWRIGHT_NAME" Language="es_ES">
+			<Text>Carpintero de barcos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SHIPWRIGHT_DESCRIPTION" Language="es_ES">
+			<Text>100% Producción para crear unidades navales Antigua, Classica, Renacimiento y Industrial. +100% bonus de adyacencia para los Puertos. Las unidades pueden entrar en las casillas de oceano cuando descubren la habilidad de Construcción Naval.</Text>
+		</Replace>
+		<!-- END OF ELDAR| CIRDAN -->
+		<!-- GOBLIN| AZOG	-->
+		<Replace Tag="LOC_LEADER_AZOG_NAME" Language="es_ES">
+			<Text>Azog</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DEFILER_NAME" Language="es_ES">
+			<Text>El Profanador</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_DEFILER_DESCRIPTION" Language="es_ES">
+			<Text>Todas las unidades reciben +5 a la Fuerza de combate [ICON_Strength] cuando atacan a unidades heridas. Al eliminar a una unidad, recuperan hasta 50 puntos de golpe.</Text>
+		</Replace>
+		<!-- END OF GOBLIN| AZOG -->
+		<!-- Extra Units: -->
+		<Replace Tag="LOC_UNIT_RANGERS_ITHILIEN_NAME" Language="es_ES">
+			<Text>Exploradores de Ithilien</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RANGERS_ITHILIEN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de reconocimiento/a distancia única de Gondor. Esta unidad es invisible a no ser que tenga enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SWAN_KNIGHTS_NAME" Language="es_ES">
+			<Text>Caballeros Cisne</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SWAN_KNIGHTS_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de Gondor. +5 Fuerza de Combate cuando atacan unidades a distancia o de asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GONDOR_LONGBOWMAN_NAME" Language="es_ES">
+			<Text>Arco Largo Gondoriano</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GONDOR_LONGBOWMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de Gondor. +5 Fuerza de Combate cuando se encuentra en un distrito o fuerte.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAZGUL_NAME" Language="es_ES">
+			<Text>Nazgul</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAZGUL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Reconocimiento de Mordor y Angmar que remplaza a Exploradores pero puede ser obtenida antes. 2x bonus de flanqueo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGED_NAZGUL_NAME" Language="es_ES">
+			<Text>Nazgul Alado</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGED_NAZGUL_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Reconocimiento de Mordor y Angmar. -5 Fuerza de Combate a enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Orcos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de anticaballeria Mordor y Goblins. Coste de pillaje reducido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Orcos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ORC_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Mordor. Menos ataque de lo normal per +1 ataque adicional si la unidad no se ha movido.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORGUL_CAVALRY_NAME" Language="es_ES">
+			<Text>Caballeria Morgul</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORGUL_CAVALRY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de Mordor. +5 Fuerza de Combate contra unidades heridas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_AXE_THROWER_NAME" Language="es_ES">
+			<Text>Lanzadores de Hachas Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_AXE_THROWER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los enanos. +10 Fuerza de Combate cuando se defiende contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_BATTLEWAGON_NAME" Language="es_ES">
+			<Text>Carro de Guerra Enano</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DWARF_BATTLEWAGON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria enana. Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHAN_MILITIA_NAME" Language="es_ES">
+			<Text>Rohan Milicia</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROHAN_MILITIA_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia de Rohan. Más barato que los Ballesteros pero con menos Fuerza de Combate.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_CROSSBOWMAN_NAME" Language="es_ES">
+			<Text>Ballestero Uruk</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_URUK_CROSSBOWMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de Isengard. +7 Fuerza de Combate contra unidades en distritos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LOKE_NAR_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Lôke-Nar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LOKE_NAR_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de Rhûn. Las unidades adyacentes de una classe distinta, ganan +10 Fuerza de Combate contra unidades de caballeria.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SILVAN_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerreros Silvanos</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SILVAN_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de los Elfos Silvanos.+7 Fuerza de Combate cuando se defienden en Bosques, Junglas, Colinas o Cienagas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELNAITH_NAME" Language="es_ES">
+			<Text>Elnaith</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELNAITH_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria pesada de los Noldor. +10 Fuerza de Combate contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELDAR_CAVALRY_NAME" Language="es_ES">
+			<Text>Caballeria Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELDAR_CAVALRY_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria ligera de los Elfos Eldar. +5 Fuerza de Combate cuando atacan a unidades a distancia o de asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Montados Eldar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de caballeria a distancia de los Elfos Eldar.  Puede moverse despues de atacar.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_ARCHER_NAME" Language="es_ES">
+			<Text>Arqueros Noldor</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única a distancia de los Noldor. +10 Fuerza de Combate cuando se defiende contra unidades cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Noldor</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NOLDOR_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de anticaballeria única de los Noldor. +7 Fuerza de Combate cuando se defienden.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TELERI_SWANSHIP_NAME" Language="es_ES">
+			<Text>Barco Cisne Teleri</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval a distancia única de los Elfos. Con un ataque a distancia más fuerte de los normal.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UMBAR_RAIDER_NAME" Language="es_ES">
+			<Text>Asaltantes de Umbar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UMBAR_RAIDER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Umbar. Coste de pillaje reducido y no se necesita Hierro para reclurarlos.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EAGLE_NAME" Language="es_ES">
+			<Text>Aguila</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EAGLE_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Reconocimiento de los Elfos. -5 Fuerza de Combate a enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENT_NAME" Language="es_ES">
+			<Text>Ent</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENT_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Asedio de los Elfos. Más fuerte que las catapultas y +5 Fuerza de Combate en los bosques.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TELERI_WARRIOR_NAME" Language="es_ES">
+			<Text>Guerreros Teleri</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TELERI_WARRIOR_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de los Elfos Teleri. +7 defensa contra ataques a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LAIQUENDI_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Laiquendi</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LAIQUENDI_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia unica de los Elfos Lainquendi. +7 Fuerza de Combate cuando se defienden en Bosques, Junglas, Colinas o Cienagas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VANYAR_SPEARMAN_NAME" Language="es_ES">
+			<Text>Lanceros Vanyar</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VANYAR_SPEARMAN_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de anticaballeria de los Elfos Vanyar. +7 cuando atacan enemigos cuerpo a cuerpo o a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EDAIN_PHALANXES_NAME" Language="es_ES">
+			<Text>Falange Edain</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EDAIN_PHALANXES_DESCRIPTION" Language="es_ES">
+			<Text>Unidad anticaballeria única de los Edain. Sin penalización por perdida de salud.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUMENOR_STEELBOW_NAME" Language="es_ES">
+			<Text>Arcos de Acero Numenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUMENOR_STEELBOW_DESCRIPTION" Language="es_ES">
+			<Text>Unidad a distancia única de Numenor que substituye al Ballestero. Recibe +5 [ICON_Strength] Fuerza de Combate si se encuentra adyacente a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUMENOR_SHIP_NAME" Language="es_ES">
+			<Text>Barco Numenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUMENOR_SHIP_DESCRIPTION" Language="es_ES">
+			<Text>Unidad naval a distancia única de Numenor.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANGBAND_ORC_NAME" Language="es_ES">
+			<Text>Orco de Angband</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANGBAND_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Unidad cuerpo a cuerpo única de Morgoth. +10 cuando luchan en Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANGBAND_WEREWOLVES_NAME" Language="es_ES">
+			<Text>Hombres lobo de Angband</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANGBAND_WEREWOLVES_DESCRIPTION" Language="es_ES">
+			<Text>Unidad de caballeria pesada de Morgoth. Se cura cada turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BALROG_NAME" Language="es_ES">
+			<Text>Balrog</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BALROG_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única cuerpo a cuerpo de Morgoth. -5 de Fuerza de Combate a los enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGLESS_DRAGON_NAME" Language="es_ES">
+			<Text>Wingless Dragon</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGLESS_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>Morgoth unique unit. -5 de Fuerza de Combate a los enemigos adyacentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGLESS_DRAGON_NAME" Language="es_ES">
+			<Text>Dragon Sin Alas</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGLESS_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Morgoth. -5 de Fuerza de Combate a los enemigos adyacentes y puede atacar a las murallas de la ciudad.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGED_DRAGON_NAME" Language="es_ES">
+			<Text>Dragon Alado</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WINGED_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de Morgoth. -5 de Fuerza de Combate a los enemigos adyacentes, +7 fuerza de combate contra unidades en distritos y puede atacar a las murallas de la ciudad.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VAMPIRES_NAME" Language="es_ES">
+			<Text>Vampiros</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VAMPIRES_DESCRIPTION" Language="es_ES">
+			<Text>Unidad única de reconocimiento de Morgoth. +5 Fuerza de Combate contra unidades heridas.</Text>
+		</Replace>
+		<!-- End of Extra Units-->
+		<Replace Tag="LOC_BUILDING_ELVEN_HALLS_NAME" Language="es_ES">
+			<Text>Cavernas Elficas</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ELVEN_HALLS_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los elfos. Da un poco más de defensa, +1 Alojamiento, +8 [ICON_Gold] Oro y +1 [ICON_Culture] Cultura por adyacencia a bosquess. Solo se puede construir en la capital.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_DOORS_NAME" Language="es_ES">
+			<Text>Puertas de los Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_DOORS_DESCRIPTION" Language="es_ES">
+			<Text>Un edificio único de los Enanos que remplaza las murallas medievales. Sube la fuerza de las defensas de la ciudad. Da +1 [ICON_Gold] Oro y +1[ICON_Culture] Cultura.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_HALLS_NAME" Language="es_ES">
+			<Text>Cavernas de los Enanos</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_HALLS_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de los enanos. +1 Alojamiento, +6 [ICON_Gold] Oro, +1 [ICON_Production] Producción y +1 [ICON_Food] Alimentos. </Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ORC_PIT_NAME" Language="es_ES">
+			<Text>Foso Orco</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ORC_PIT_DESCRIPTION" Language="es_ES">
+			<Text>Edició militar único de los orcos. +1 Alojamiento,  +2 [ICON_Production] Producción. +35% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad.[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ELVEN_TOWER_NAME" Language="es_ES">
+			<Text>Torre Elfica</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ELVEN_TOWER_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los elfos. Da 1 [ICON_Culture] Cultura y +1 [ICON_Culture] Cultura si tienen una Torre Elfica al lado. La unidad ocupante recibe +4 a la Fuerza de defensa [ICON_Strength] y obtiene automáticamente 2 turnos de fortificación.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ELVEN_HOUSE_NAME" Language="es_ES">
+			<Text>Casa Elfica</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ELVEN_HOUSE_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de los elfos. Da 1 [ICON_Culture] Cultura y +1 [ICON_Culture] Cultura si esta al lado de un rio. +1[ICON_Faith] Fe si esta al lado de un bosque.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_HARADRIM_PYRAMID_NAME" Language="es_ES">
+			<Text>Piramide Haradrim</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_HARADRIM_PYRAMID_DESCRIPTION" Language="es_ES">
+			<Text>Mejora única de Harad. Da 1 [ICON_Faith] Fe y +1 [ICON_Production] Producción. +2[ICON_Gold] Oro por adyacencia a Minas o Canteras. Solo puede construirse en Llanuras y Desiertos.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_WISEST_OF_ELVES_NAME" Language="es_ES">
+			<Text>El más sabio de los elfos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_WISEST_OF_ELVES_DESCRIPTION" Language="es_ES">
+			<Text>No le gustan las civilizaciones que comienzan guerras. Le gustan civilizaciones que no inician guerras.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_THE_PALE_ORC_NAME" Language="es_ES">
+			<Text>El Orco Palido</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AGENDA_THE_PALE_ORC_DESCRIPTION" Language="es_ES">
+			<Text>Simpatiza con los barbaros y le desagran las civilizaciones que destruyen campamentos de barbaros.</Text>
+		</Replace>
+</LocalizedText>
+</GameData>

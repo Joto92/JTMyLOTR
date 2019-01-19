@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: Lord of the Rings Mod</Name>
+    <Guid>849f25c2-b2b3-4a4a-8ef2-9f3a997a5f63</Guid>
+    <ProjectGuid>a80daba5-d974-4b53-8199-86ab438a1df0</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This mod is based in the Lord of the Rings</Teaser>
+    <Description>This mod is based in the Lord of the Rings.
+Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil, Suladan, Angamaite, Kionid, Witch King, Elendil, Cirdan and Azog.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyLOTR_Civs.xml</File>
+          <File>MyLOTR_Leaders.xml</File>
+          <File>MyLOTR_Buildings.xml</File>
+          <File>MyLOTR_Units.xml</File>
+          <File>MyLOTR_UnitAbilities.xml</File>
+          <File>MyLOTR_Colors.xml</File>
+          <File>MyLOTR_Policies.xml</File>
+          <File>MyLOTR_Improvements.xml</File>
+          <File>MyLOTR_CityStates.xml</File>
+          <File>MyLOTR_Agendas.xml</File>
+          <File>MyLOTR_Religions.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyLOTR_ConfigText.xml</File>
+          <File>MyLOTR_Text.xml</File>
+          <File>Translations/MyLOTR_ConfigES.xml</File>
+          <File>Translations/MyLOTR_TextES.xml</File>
+          <File>MyLOTR_Civilopedia.xml</File>
+          <File>Translations/MyLOTR_CivilopediaES.xml</File>
+          <File>MyLOTR_DiploText.xml</File>
+          <File>Translations/MyLOTR_DiploTextES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyLOTR_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyLOTR_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyLOTR_ConfigText.xml</File>
+          <File>Translations/MyLOTR_ConfigES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyLOTR_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>
+    ]]></FrontEndActionData>
+    <AssemblyName>MyLOTRv2</AssemblyName>
+    <RootNamespace>MyLOTRv2</RootNamespace>
+    <Authors>JoTo92</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Artdefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Artdefs\Improvements.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Artdefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Agendas.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_DiploText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Improvements.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Policies.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_UnitAbilities.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_CivilopediaES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_ConfigES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_DiploTextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_TextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\MyIcons.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyLOTR_Config.xml" />
+    <Content Include="MyLOTR_ConfigText.xml" />
+    <Content Include="MyLOTR_Civs.xml" />
+    <Content Include="MyLOTR_Icons.xml" />
+    <Content Include="MyLOTR_Leaders.xml" />
+    <Content Include="MyLOTR_Buildings.xml" />
+    <Content Include="MyLOTR_Text.xml" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ARAGORN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ARAGORN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELROND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELROND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_THRANDUIL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_THRANDUIL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GALADRIEL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GALADRIEL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DAIN_II"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DAIN_II"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SAURON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SAURON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GORKIL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GORKIL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SULADAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SULADAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ANGAMAITE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ANGAMAITE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_KHAMUL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_KHAMUL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_KIONID"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_KIONID"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_WITCH_KING"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_WITCH_KING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELENDIL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELENDIL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_CIRDAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_CIRDAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AZOG"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AZOG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SARUMAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SARUMAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_THEODEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_THEODEN"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
