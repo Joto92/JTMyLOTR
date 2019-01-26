@@ -1,5 +1,12 @@
 # Civ VI Lord of the Rings Mod
 - - - -
+# INDEX 
+1. [To Do](#1-to-do)
+2. [Leader & Civs](#2-leader--civs)
+3. [City States](#3-city-states)
+4. [Natural Wonders](#4-natural-wonders)
+5. [Building Wonders](#5-building-wonders)
+- - - -
 # 1. To Do
 Things to Do:
 * World wonders using existing models or new
@@ -297,3 +304,13 @@ Rulers of the Great Sea: When building Ancient and Classical wonders you may spe
 * Dol Guldur: +1 [ICON_Faith] Fe for routes between your own cities.
 * Chey Sart: Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Faith [ICON_Faith].
 * (EXTRA) Andustar: Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Faith] Faith for you. Other civilizations' [ICON_TradeRoute] Trade Routes to you provide +2 [ICON_Faith] Faith for you.
+- - - -
+# 4. Natural Wonders
+Possible wonders:
+Lonely Mountain, Falls of Rauros, Lake Evendim?, Mount Caradhras, Mount Doom, Mount Gram, Mount Gundabad, Glittering Caves, Methedras, Dead Marshes, Henneth Annûn, Kheled-zâram, Swanfleet, Amon Sûl, Carrock
+Extra Mod:
+Meneltarma(Numenor)
+- - - -
+# 5. Building Wonders
+Possible wonders:
+Barad-dûr Tower, White Tower of Ecthelion, Orthanc Tower, Golden Hall, Black Gate, Argonath, Dome of Stars, Galadriel’s garden?, the flet of Celeborn and Galadriel?, Party Field (hobbits), Tyl Annûn(Annúminas), Durin's Tower?, Tower of Dark sorcery
