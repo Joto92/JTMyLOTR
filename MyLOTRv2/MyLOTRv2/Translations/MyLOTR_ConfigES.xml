@@ -355,6 +355,9 @@
 		<Replace Tag="LOC_TRAIT_THE_BLACK_LAND_DESCRIPTION" Language="es_ES">
 			<Text>+30% de Producción [ICON_Production] al Construir Campamentos o Barracones. Puede capturar unidades enemigas como Constructores. Los terrenos de Deserticos proporcionan Alimentos como las Praderas para las otras Civilizaciones.</Text>
 		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_LAND_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>+30% de Producción [ICON_Production] al Construir Campamentos o Barracones. Puede capturar unidades enemigas como Constructores. Los terrenos de Deserticos proporcionan Alimentos como las Praderas para las otras Civilizaciones. Las unidades no reciben daño por Tormentas de Arena.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_THE_DARK_POWER_NAME" Language="es_ES">
 			<Text>El Poder Oscuro</Text>
 		</Replace>
@@ -491,6 +494,9 @@
 		<Replace Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_DESCRIPTION" Language="es_ES">
 			<Text>+25% a la Producción [ICON_Production] para las unidades cuerpo a cuerpo y a distancia de las Épocas Antigua y Clásica.Los Constructores reciben una carga adicional.</Text>
 		</Replace>
+		<Replace Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>+25% a la Producción [ICON_Production] para las unidades cuerpo a cuerpo y a distancia de las Épocas Antigua y Clásica.Los Constructores reciben una carga adicional. Las unidades no reciben daño por Ventiscas.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_GREAT_GOBLIN_NAME" Language="es_ES">
 			<Text>El Rey Trasgo</Text>
 		</Replace>
@@ -574,6 +580,9 @@
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SERPENT_LORD_DESCRIPTION" Language="es_ES">
 			<Text>+5 Fuerza de Combate [ICON_Strength] en Desiertos y Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SERPENT_LORD_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>+5 Fuerza de Combate [ICON_Strength] en Desiertos y Llanuras. Las unidades no reciben daño por Tormentas de Arena.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MUMAKIL_NAME" Language="es_ES">
 			<Text>Mumakil</Text>
@@ -770,6 +779,9 @@
 		</Replace>
 		<Replace Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_DESCRIPTION" Language="es_ES">
 			<Text>Territorio adicional al fundar ciudades. +1 a Fe [ICON_Faith] y +1 a la Producción [ICON_Production] en la Tundra.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Territorio adicional al fundar ciudades. +1 a Fe [ICON_Faith] y +1 a la Producción [ICON_Production] en la Tundra. Las unidades no reciben daño por Ventiscas. Las civilizaciones que estén en guerra contigo recibirán +100% al daño de unidades por Ventiscas en tu territorio.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LORD_OF_THE_NAZGUL_NAME" Language="es_ES">
 			<Text>Señor de los Nazgûl</Text>

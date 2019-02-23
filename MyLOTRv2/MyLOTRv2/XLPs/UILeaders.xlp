@@ -138,16 +138,16 @@
 			<m_ObjectName text="LEADER_AZOG_BACKGROUND"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOTR_LOADING_BACKGROUND"/>
-			<m_ObjectName text="LOTR_LOADING_BACKGROUND"/>
-		</Element>
-		<Element>
 			<m_EntryID text="LEADER_SARUMAN_NEUTRAL"/>
 			<m_ObjectName text="LEADER_SARUMAN_NEUTRAL"/>
 		</Element>
 		<Element>
 			<m_EntryID text="LEADER_THEODEN_NEUTRAL"/>
 			<m_ObjectName text="LEADER_THEODEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_LOADING_BACKGROUND"/>
+			<m_ObjectName text="LOTR_LOADING_BACKGROUND"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

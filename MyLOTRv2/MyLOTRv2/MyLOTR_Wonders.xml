@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!--
+Lake Evendim?, Swanfleet? Amon Sûl?
+##
+Lonely Mountain(Everest), Falls of Rauros: (Cliffs Dover), Mount Caradhras (Everest), Mount Doom  (Kilimanjaro), Mount Gram (Torres del Paine), Mount Gundabad (Torres del Paine)
+Glittering Caves (Tsingy de Bemaraha), Methedras (Everest),, Dead Marshes (Pantanal), Henneth Annûn  (Yosemite)
+Kheled-zâram (Dead Sea), Carrock (Torres del Paine), Paths of the Dead (Tsingy de Bemaraha)
+
+Paths,Carrock doesn't show as it should
+
+-->
+	<Types>
+		<Row Type="FEATURE_LONELY_MOUNTAIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_FALLS_OF_RAUROS" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_CARADHRAS" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_DOOM" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_GRAM" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_GUNDABAD" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_GLITTERING_CAVES" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_METHEDRAS" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_DEAD_MARSHES" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_HENNETH_ANNUN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_KHELED_ZARAM" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_CARROCK" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_PATHS_OF_THE_DEAD" Kind="KIND_FEATURE" />
+
+	</Types>
+	<Features>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" Name="LOC_FEATURE_LONELY_MOUNTAIN_NAME" Description="LOC_FEATURE_LONELY_MOUNTAIN_DESCRIPTION" Quote="LOC_FEATURE_LONELY_MOUNTAIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" Name="LOC_FEATURE_FALLS_OF_RAUROS_NAME" Description="LOC_FEATURE_FALLS_OF_RAUROS_DESCRIPTION" Quote="LOC_FEATURE_FALLS_OF_RAUROS_QUOTE" QuoteAudio="" NaturalWonder="true" Coast="true" Appeal="2" Tiles="2" NoRiver="false" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" Name="LOC_FEATURE_MOUNT_CARADHRAS_NAME" Description="LOC_FEATURE_MOUNT_CARADHRAS_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_CARADHRAS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" Name="LOC_FEATURE_MOUNT_DOOM_NAME" Description="LOC_FEATURE_MOUNT_DOOM_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_DOOM_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" Name="LOC_FEATURE_MOUNT_GRAM_NAME" Description="LOC_FEATURE_MOUNT_GRAM_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_GRAM_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" NoResource="true" DoubleAdjacentTerrainYield="true" MinDistanceNW="8" />
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" Name="LOC_FEATURE_MOUNT_GUNDABAD_NAME" Description="LOC_FEATURE_MOUNT_GUNDABAD_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_GUNDABAD_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" NoResource="true" DoubleAdjacentTerrainYield="true" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" Name="LOC_FEATURE_GLITTERING_CAVES_NAME" Description="LOC_FEATURE_GLITTERING_CAVES_DESCRIPTION" Quote="LOC_FEATURE_GLITTERING_CAVES_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_METHEDRAS" Name="LOC_FEATURE_METHEDRAS_NAME" Description="LOC_FEATURE_METHEDRAS_DESCRIPTION" Quote="LOC_FEATURE_METHEDRAS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" Name="LOC_FEATURE_DEAD_MARSHES_NAME" Description="LOC_FEATURE_DEAD_MARSHES_DESCRIPTION" Quote="LOC_FEATURE_DEAD_MARSHES_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="4" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" DefenseModifier="-2" MovementChange="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" Name="LOC_FEATURE_HENNETH_ANNUN_NAME" Description="LOC_FEATURE_HENNETH_ANNUN_DESCRIPTION" Quote="LOC_FEATURE_HENNETH_ANNUN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_KHELED_ZARAM" Name="LOC_FEATURE_KHELED_ZARAM_NAME" Description="LOC_FEATURE_KHELED_ZARAM_DESCRIPTION" Quote="LOC_FEATURE_KHELED_ZARAM_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoAdjacentFeatures="true" NoRiver="true" NoCoast="true" Lake="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_CARROCK" Name="LOC_FEATURE_CARROCK_NAME" Description="LOC_FEATURE_CARROCK_DESCRIPTION" Quote="LOC_FEATURE_CARROCK_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" Name="LOC_FEATURE_PATHS_OF_THE_DEAD_NAME" Description="LOC_FEATURE_PATHS_OF_THE_DEAD_DESCRIPTION" Quote="LOC_FEATURE_PATHS_OF_THE_DEAD_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+
+	</Features>
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_KHELED_ZARAM" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_KHELED_ZARAM" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_ValidTerrains>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CARROCK" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Feature_NotAdjacentTerrains>
+	<Feature_AdjacentFeatures>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" FeatureTypeAdjacent="FEATURE_FOREST"/>
+	</Feature_AdjacentFeatures>
+	<Feature_AdjacentTerrains>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_METHEDRAS" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_AdjacentTerrains>
+
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_CARADHRAS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_GRAM" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_GUNDABAD" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_GLITTERING_CAVES" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_METHEDRAS" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row FeatureType="FEATURE_METHEDRAS" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_DEAD_MARSHES" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" YieldType="YIELD_FAITH" YieldChange="3"/>
+		<Row FeatureType="FEATURE_HENNETH_ANNUN" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_KHELED_ZARAM" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_KHELED_ZARAM" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_CARROCK" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_CARROCK" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_PATHS_OF_THE_DEAD" YieldType="YIELD_CULTURE" YieldChange="1"/>
+
+	</Feature_AdjacentYields>
+</GameData>

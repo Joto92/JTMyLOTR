@@ -1278,7 +1278,7 @@
 		<Row>
 			<ModifierId>TRAIT_MYLOTR_COMMERCIALHUB_ADJACENCY_DESERT_FOOD</ModifierId>
 			<Name>Description</Name>
-			<Value>LOC_DISTRICT_DESERT_FOOD</Value>
+			<Value>LOC_MYLOTR_DISTRICT_DESERT_FOOD</Value>
 		</Row>
 		<!-- -->
 		<Row>
@@ -1304,7 +1304,7 @@
 		<Row>
 			<ModifierId>TRAIT_MYLOTR_COMMERCIALHUB_ADJACENCY_DESERT_HILLS_FOOD</ModifierId>
 			<Name>Description</Name>
-			<Value>LOC_DISTRICT_DESERT_HILLS_FOOD</Value>
+			<Value>LOC_MYLOTR_DISTRICT_DESERT_HILLS_FOOD</Value>
 		</Row>
 		<Row>
 			<ModifierId>TRAIT_MYLOTR_INCREASED_DESERT_FOOD</ModifierId>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects::GameArtSpecification>
 	<id>
-		<name text="JT_ Lord of the Rings Mod"/>
+		<name text="JT_ Lord of the Rings ModE2"/>
 		<id text="849f25c2-b2b3-4a4a-8ef2-9f3a997a5f63"/>
 	</id>
 	<artConsumers>
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
-				<Element text="Units.artdef"/>
+				<Element text="UnitsE2.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Unit"/>
@@ -275,7 +275,7 @@
 		<Element>
 			<consumerName text="Improvements"/>
 			<relativeArtDefPaths>
-				<Element text="Improvements.artdef"/>
+				<Element text="ImprovementsE2.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies/>
 			<loadsLibraries>false</loadsLibraries>
@@ -467,7 +467,7 @@
 		</Element>
 		<Element>
 			<libraryName text="LeaderLighting"/>
-			<relativePackagePaths>		
+			<relativePackagePaths>
 			</relativePackagePaths>
 		</Element>
 		<Element>
@@ -590,5 +590,3 @@
 		</Element>
 	</requiredGameArtIDs>
 </AssetObjects::GameArtSpecification>
-
- 

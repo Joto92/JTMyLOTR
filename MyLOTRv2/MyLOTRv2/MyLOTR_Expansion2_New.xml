@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitReplaces>
+		<Update><Set ReplacesUnitType="UNIT_SKIRMISHER"/><Where CivUniqueUnitType="UNIT_NAZGUL"/></Update>
+		<Row CivUniqueUnitType="UNIT_WINGED_NAZGUL" ReplacesUnitType="UNIT_RANGER"/>
+		<Update><Set ReplacesUnitType="UNIT_SKIRMISHER"/><Where CivUniqueUnitType="UNIT_VAMPIRES"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_RIVENDEL_LANCER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_GOAT_RIDERS"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_VARIAGS"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_ELDAR_CAVALRY"/></Update>
+	</UnitReplaces>
+
+	<Units>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_RIVENDEL_LANCER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_GOAT_RIDERS</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_VARIAGS</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_ELDAR_CAVALRY</UnitType>
+			</Where>
+		</Update>
+	</Units>
+	<UnitUpgrades>
+		<Update><Where Unit="UNIT_RIVENDEL_LANCER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_GOAT_RIDERS"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_VARIAGS"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_ELDAR_CAVALRY"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+	</UnitUpgrades>
+	
+	<Units_XP2>
+		<Row UnitType="UNIT_ROHIRRIM" ResourceCost="20"/>
+		<Row UnitType="UNIT_NOLDOR_WARRIOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_RIVENDEL_LANCER" ResourceCost="20"/>
+		<Row UnitType="UNIT_DWARVEN_GUARDIAN" ResourceCost="20"/>
+		<Row UnitType="UNIT_GOAT_RIDERS" ResourceCost="20"/>
+		<Row UnitType="UNIT_BOAR_RIDERS" ResourceCost="20"/>
+		<Row UnitType="UNIT_URUK_HAI" ResourceCost="20"/>
+		<Row UnitType="UNIT_WARG_RIDER" ResourceCost="20"/>
+		<Row UnitType="UNIT_OLOG_HAI" ResourceCost="20"/>
+		<Row UnitType="UNIT_URUK_BERSERKER" ResourceCost="20"/>
+		<Row UnitType="UNIT_GUNDABAD_ORC" ResourceCost="20"/>
+		<Row UnitType="UNIT_KATAPHRAKTS" ResourceCost="20"/>
+		<Row UnitType="UNIT_VARIAGS" ResourceCost="20"/>
+		<Row UnitType="UNIT_SWAN_KNIGHTS" ResourceCost="20"/>
+		<Row UnitType="UNIT_MORGUL_CAVALRY" ResourceCost="20"/>
+		<Row UnitType="UNIT_DWARF_BATTLEWAGON" ResourceCost="20"/>
+		<Row UnitType="UNIT_SILVAN_WARRIOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_ELNAITH" ResourceCost="20"/>
+		<Row UnitType="UNIT_ELDAR_CAVALRY" ResourceCost="20"/>
+		<Row UnitType="UNIT_TELERI_WARRIOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_ANGBAND_ORC" ResourceCost="20"/>
+		<Row UnitType="UNIT_ANGBAND_WEREWOLVES" ResourceCost="20"/>
+
+	</Units_XP2>
+
+	<Types>
+		<Row Type="IMPROVEMENT_MYLOTR_TUNNEL" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL" Kind="KIND_TRAIT" />
+	</Types>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL" Name="LOC_IMPROVEMENT_TUNNEL_NAME" Description="LOC_IMPROVEMENT_TUNNEL_DESCRIPTION"/>
+	</Traits>
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" Name="LOC_IMPROVEMENT_TUNNEL_NAME" Description="LOC_IMPROVEMENT_TUNNEL_DESCRIPTION" Icon="ICON_IMPROVEMENT_TUNNEL" PlunderType="PLUNDER_GOLD" PlunderAmount="70" Buildable="true" Housing="1" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL" PrereqTech="TECH_MACHINERY"/>
+	</Improvements>
+	
+	<Improvements_XP2>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" AllowImpassableMovement="true" BuildOnAdjacentPlot="true"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" AllowImpassableMovement="true" BuildOnAdjacentPlot="true"/>
+	</Improvements_XP2>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Improvement_ValidTerrains>
+
+	<ImprovementModifiers>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MYLOTR_TUNNEL</ImprovementType>
+			<ModifierId>MOUNTAIN_PORTAL</ModifierId>
+		</Row>
+	</ImprovementModifiers>
+	
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+	
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" YieldType="YIELD_GOLD" YieldChange="1"/>
+	</Improvement_YieldChanges>
+
+	<CivilizationTraits>
+		<Delete CivilizationType="CIVILIZATION_LOTR_GOBLIN" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_TUNNEL"/>
+		<Row CivilizationType="CIVILIZATION_LOTR_GOBLIN" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL"/>
+		<Row CivilizationType="CIVILIZATION_LOTR_DWARVES" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL"/>
+	</CivilizationTraits>
+	
+	<Types>
+		<Row Type="NAMED_RIVER_NIMRODEL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ENCHANTED_STREAM" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ANDUIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_FOREST_RIVER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CELEBRANT" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GLADDEN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ERUI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SIRITH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CELOS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SERNUI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GILRAIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_RINGLO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CIRIL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MORTHOND" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LEFNUI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_POROS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_HARNEN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MORGULDUIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SNOWBOURN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ENTWASH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MERING_STREAM" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ISEN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ADORN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GLANDUIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GWATHLO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SIRANNON" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BRUINEN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MITHEITHEL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LHUN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BRANDYWINE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WITHYWINDLE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_THE_WATER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SHIREBOURN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GREYLIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LANGWELL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CELDUIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_REDWATER" Kind="KIND_NAMED_RIVER"/>
+
+		<Row Type="NAMED_DESERT_PLATEAU_OF_GORGOROTH" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_LITHLAD" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_DAGORLAD" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_NEAR_HARAD" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_FAR_HARAD" Kind="KIND_NAMED_DESERT"/>
+
+		<Row Type="NAMED_MOUNTAIN_ERED_LITHUI" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_EPHEL_DUATH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MAEGOND_SPUR" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ERED_MITHRIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ERED_LUIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_IRON_HILLS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ERED_ENGRIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MISTY_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MOUNTAINS_OF_ANGMAR" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MOUNTAINS_OF_MIRKWOOD" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DORWINION_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_OROCARNI_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_WHITE_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_EMYN_UIAL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_NORTH_DOWNS" Kind="KIND_NAMED_MOUNTAIN"/>
+	</Types>
+	<NamedRivers>
+		<Row NamedRiverType="NAMED_RIVER_NIMRODEL" Name="LOC_NAMED_RIVER_NIMRODEL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ENCHANTED_STREAM" Name="LOC_NAMED_RIVER_ENCHANTED_STREAM_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ANDUIN" Name="LOC_NAMED_RIVER_ANDUIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_FOREST_RIVER" Name="LOC_NAMED_RIVER_FOREST_RIVER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CELEBRANT" Name="LOC_NAMED_RIVER_CELEBRANT_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GLADDEN" Name="LOC_NAMED_RIVER_GLADDEN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ERUI" Name="LOC_NAMED_RIVER_ERUI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SIRITH" Name="LOC_NAMED_RIVER_SIRITH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CELOS" Name="LOC_NAMED_RIVER_CELOS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SERNUI" Name="LOC_NAMED_RIVER_SERNUI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GILRAIN" Name="LOC_NAMED_RIVER_GILRAIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_RINGLO" Name="LOC_NAMED_RIVER_RINGLO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CIRIL" Name="LOC_NAMED_RIVER_CIRIL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MORTHOND" Name="LOC_NAMED_RIVER_MORTHOND_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LEFNUI" Name="LOC_NAMED_RIVER_LEFNUI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_POROS" Name="LOC_NAMED_RIVER_POROS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_HARNEN" Name="LOC_NAMED_RIVER_HARNEN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MORGULDUIN" Name="LOC_NAMED_RIVER_MORGULDUIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SNOWBOURN" Name="LOC_NAMED_RIVER_SNOWBOURN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ENTWASH" Name="LOC_NAMED_RIVER_ENTWASH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MERING_STREAM" Name="LOC_NAMED_RIVER_MERING_STREAM_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ISEN" Name="LOC_NAMED_RIVER_ISEN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ADORN" Name="LOC_NAMED_RIVER_ADORN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GLANDUIN" Name="LOC_NAMED_RIVER_GLANDUIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GWATHLO" Name="LOC_NAMED_RIVER_GWATHLO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SIRANNON" Name="LOC_NAMED_RIVER_SIRANNON_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BRUINEN" Name="LOC_NAMED_RIVER_BRUINEN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MITHEITHEL" Name="LOC_NAMED_RIVER_MITHEITHEL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LHUN" Name="LOC_NAMED_RIVER_LHUN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BRANDYWINE" Name="LOC_NAMED_RIVER_BRANDYWINE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WITHYWINDLE" Name="LOC_NAMED_RIVER_WITHYWINDLE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_THE_WATER" Name="LOC_NAMED_RIVER_THE_WATER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SHIREBOURN" Name="LOC_NAMED_RIVER_SHIREBOURN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GREYLIN" Name="LOC_NAMED_RIVER_GREYLIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LANGWELL" Name="LOC_NAMED_RIVER_LANGWELL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CELDUIN" Name="LOC_NAMED_RIVER_CELDUIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_REDWATER" Name="LOC_NAMED_RIVER_REDWATER_NAME"/>
+	</NamedRivers>
+
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_NIMRODEL" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_ENCHANTED_STREAM" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_ANDUIN" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_FOREST_RIVER" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_CELEBRANT" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_GLADDEN" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_ERUI" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_SIRITH" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_CELOS" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_SERNUI" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_GILRAIN" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_RINGLO" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_CIRIL" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_MORTHOND" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_LEFNUI" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_POROS" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_HARNEN" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_MORGULDUIN" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_SNOWBOURN" CivilizationType="CIVILIZATION_ROHAN"/>
+		<Row NamedRiverType="NAMED_RIVER_ENTWASH" CivilizationType="CIVILIZATION_ROHAN"/>
+		<Row NamedRiverType="NAMED_RIVER_MERING_STREAM" CivilizationType="CIVILIZATION_ROHAN"/>
+		<Row NamedRiverType="NAMED_RIVER_ISEN" CivilizationType="CIVILIZATION_ROHAN"/>
+		<Row NamedRiverType="NAMED_RIVER_ISEN" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedRiverType="NAMED_RIVER_ADORN" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedRiverType="NAMED_RIVER_GLANDUIN" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedRiverType="NAMED_RIVER_GWATHLO" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedRiverType="NAMED_RIVER_SIRANNON" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedRiverType="NAMED_RIVER_BRUINEN" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_MITHEITHEL" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_LHUN" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_BRANDYWINE" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_WITHYWINDLE" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_THE_WATER" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_SHIREBOURN" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedRiverType="NAMED_RIVER_GREYLIN" CivilizationType="CIVILIZATION_LOTR_GOBLIN"/>
+		<Row NamedRiverType="NAMED_RIVER_LANGWELL" CivilizationType="CIVILIZATION_LOTR_GOBLIN"/>
+		<Row NamedRiverType="NAMED_RIVER_CELDUIN" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedRiverType="NAMED_RIVER_REDWATER" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedRiverType="NAMED_RIVER_REDWATER" CivilizationType="CIVILIZATION_RHUN"/>
+		<Row NamedRiverType="NAMED_RIVER_BRANDYWINE" CivilizationType="CIVILIZATION_ARNOR"/>
+	</NamedRiverCivilizations>
+
+	<NamedDeserts>
+		<Row NamedDesertType="NAMED_DESERT_PLATEAU_OF_GORGOROTH" Name="LOC_NAMED_DESERT_PLATEAU_OF_GORGOROTH_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_LITHLAD" Name="LOC_NAMED_DESERT_LITHLAD_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_DAGORLAD" Name="LOC_NAMED_DESERT_DAGORLAD_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_NEAR_HARAD" Name="LOC_NAMED_DESERT_NEAR_HARAD_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_FAR_HARAD" Name="LOC_NAMED_DESERT_FAR_HARAD_NAME"/>
+	</NamedDeserts>
+
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_PLATEAU_OF_GORGOROTH" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedDesertType="NAMED_DESERT_LITHLAD" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedDesertType="NAMED_DESERT_DAGORLAD" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedDesertType="NAMED_DESERT_NEAR_HARAD" CivilizationType="CIVILIZATION_HARAD"/>
+		<Row NamedDesertType="NAMED_DESERT_FAR_HARAD" CivilizationType="CIVILIZATION_HARAD"/>
+	</NamedDesertCivilizations>
+
+	<NamedMountains>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_LITHUI" Name="LOC_NAMED_MOUNTAIN_ERED_LITHUI_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_EPHEL_DUATH" Name="LOC_NAMED_MOUNTAIN_EPHEL_DUATH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAEGOND_SPUR" Name="LOC_NAMED_MOUNTAIN_MAEGOND_SPUR_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_MITHRIN" Name="LOC_NAMED_MOUNTAIN_ERED_MITHRIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_LUIN" Name="LOC_NAMED_MOUNTAIN_ERED_LUIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_IRON_HILLS" Name="LOC_NAMED_MOUNTAIN_IRON_HILLS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_ENGRIN" Name="LOC_NAMED_MOUNTAIN_ERED_ENGRIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MISTY_MOUNTAINS" Name="LOC_NAMED_MOUNTAIN_MISTY_MOUNTAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOUNTAINS_OF_ANGMAR" Name="LOC_NAMED_MOUNTAIN_MOUNTAINS_OF_ANGMAR_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOUNTAINS_OF_MIRKWOOD" Name="LOC_NAMED_MOUNTAIN_MOUNTAINS_OF_MIRKWOOD_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DORWINION_MOUNTAINS" Name="LOC_NAMED_MOUNTAIN_DORWINION_MOUNTAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OROCARNI_MOUNTAINS" Name="LOC_NAMED_MOUNTAIN_OROCARNI_MOUNTAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WHITE_MOUNTAINS" Name="LOC_NAMED_MOUNTAIN_WHITE_MOUNTAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_EMYN_UIAL" Name="LOC_NAMED_MOUNTAIN_EMYN_UIAL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_NORTH_DOWNS" Name="LOC_NAMED_MOUNTAIN_NORTH_DOWNS_NAME"/>
+	</NamedMountains>
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_LITHUI" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_EPHEL_DUATH" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAEGOND_SPUR" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_MITHRIN" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_LUIN" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_IRON_HILLS" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_ENGRIN" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_LUIN" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MISTY_MOUNTAINS" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_EMYN_UIAL" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_MITHRIN" CivilizationType="CIVILIZATION_LOTR_GOBLIN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MISTY_MOUNTAINS" CivilizationType="CIVILIZATION_LOTR_GOBLIN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOUNTAINS_OF_ANGMAR" CivilizationType="CIVILIZATION_ANGMAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ERED_ENGRIN" CivilizationType="CIVILIZATION_ANGMAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MISTY_MOUNTAINS" CivilizationType="CIVILIZATION_ISENGARD"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOUNTAINS_OF_MIRKWOOD" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DORWINION_MOUNTAINS" CivilizationType="CIVILIZATION_RHUN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OROCARNI_MOUNTAINS" CivilizationType="CIVILIZATION_RHUN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WHITE_MOUNTAINS" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WHITE_MOUNTAINS" CivilizationType="CIVILIZATION_ROHAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_EMYN_UIAL" CivilizationType="CIVILIZATION_ARNOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_NORTH_DOWNS" CivilizationType="CIVILIZATION_ARNOR"/>
+	</NamedMountainCivilizations>
+
+	<Traits>
+		<Update>
+			<Set Description="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_THE_SHADOW_OFTHE_NORTH"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_SERPENT_LORD_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_LEADER_SERPENT_LORD"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_MOUNTAIN_INFESTATION_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_MOUNTAIN_INFESTATION"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_THE_BLACK_LAND_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_THE_BLACK_LAND"/>
+		</Update>
+	</Traits>
+
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_SHADOW_OFTHE_NORTH</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_SHADOW_OFTHE_NORTH</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_SHADOW_OFTHE_NORTH</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_SHADOW_OFTHE_NORTH</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_SERPENT_LORD</TraitType>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_SERPENT_LORD</TraitType>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_MOUNTAIN_INFESTATION</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_MOUNTAIN_INFESTATION</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_BLACK_LAND</TraitType>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_THE_BLACK_LAND</TraitType>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+		</Row>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_GRADIENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_HABOOB</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+	</ModifierArguments>
+
+	<Features_XP2>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" Volcano="true"/>
+	</Features_XP2>
+
+	<Types>
+		<Row Type="RANDOM_EVENT_MOUNT_DOOM_GENTLE" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" Kind="KIND_RANDOM_EVENT"/>
+	</Types>
+
+	<RandomEvents>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" Name="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="0" NaturalWonder="FEATURE_MOUNT_DOOM" IconLarge="ClimateEvent_VolcanoInactive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" Name="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="1" NaturalWonder="FEATURE_MOUNT_DOOM" IconLarge="ClimateEvent_VolcanoActive" IconSmall="ClimateEventStat_Volcanoes"/>
+	</RandomEvents>
+
+	<RandomEvent_Frequencies>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="3"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="1.5"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="2.5"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="5"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="3"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="7"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="4.5"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="7"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="6"/>
+	</RandomEvent_Frequencies>
+	<RandomEvent_Damages>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" DamageType="IMPROVEMENT_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" DamageType="BUILDING_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="POPULATION_LOSS" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="UNIT_KILLED_CIVILIAN" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="CITY_GARRISON" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" DamageType="CITY_WALLS" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+	</RandomEvent_Damages>
+	<RandomEvent_Yields>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="50" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_GENTLE" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="25" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="50" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="35" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" YieldType="YIELD_SCIENCE" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="15" ReplaceFeature="true"/>
+	</RandomEvent_Yields>
+</GameData>

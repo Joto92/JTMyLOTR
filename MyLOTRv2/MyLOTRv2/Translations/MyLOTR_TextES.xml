@@ -19,10 +19,10 @@
 		<Replace Tag="LOC_DISTRICT_DESERT_HILLS_GOLD" Language="es_ES">
 			<Text>+1 [ICON_Gold] Oro por Colinas de Desierto</Text>
 		</Replace>
-		<Replace Tag="LOC_DISTRICT_DESERT_FOOD" Language="es_ES">
+		<Replace Tag="LOC_MYLOTR_DISTRICT_DESERT_FOOD" Language="es_ES">
 			<Text>+1 [ICON_Food] Alimentos por Desierto</Text>
 		</Replace>
-		<Replace Tag="LOC_DISTRICT_DESERT_HILLS_FOOD" Language="es_ES">
+		<Replace Tag="LOC_MYLOTR_DISTRICT_DESERT_HILLS_FOOD" Language="es_ES">
 			<Text>+1 [ICON_Food] Alimentos por Colinas de Desierto</Text>
 		</Replace>
 		<Replace Tag="LOC_MYLOTR_DISTRICT_FOREST_SCIENCE" Language="es_ES">
@@ -1051,5 +1051,123 @@
 		<Replace Tag="LOC_AVARI_DESCRIPTION" Language="es_ES">
 			<Text>Reino de Elfos Avari</Text>
 		</Replace>
-</LocalizedText>
+		<!-- NATURAL WONDERS-->
+		<Replace Tag="LOC_FEATURE_LONELY_MOUNTAIN_NAME" Language="es_ES" >
+			<Text>Montaña Solitaria</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_LONELY_MOUNTAIN_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de tres casillas. Aparece como Montaña y proporciona +2 a Oro [ICON_Gold] a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_LONELY_MOUNTAIN_QUOTE" Language="es_ES">
+			<Text>Sola y adusta, la Montana contemplaba el bosque por encima de los pantanos. ¡La Montaña Solitaria! Bilbo había viajado mucho y había pasado muchas aventuras para verla, y ahora no le gustaba nada.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_FALLS_OF_RAUROS_NAME" Language="es_ES" >
+			<Text>Cascada de Rauros</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_FALLS_OF_RAUROS_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza de dos casillas. Aparece con Colinas adyacentes al agua y proporciona +2 [ICON_Culture] Cultura y +1 [ICON_Food] Alimentos.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_FALLS_OF_RAUROS_QUOTE" Language="es_ES">
+			<Text>“Los saltos dorados de Rauros, lo transportaron en el seno de las aguas. ¡Oh Boromir! La Torre de la Guardia mirará siempre al norte,  a Rauros, los saltos dorados, hasta el fin de los tiempos.”[NEWLINE]– Aragorn</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_CARADHRAS_NAME" Language="es_ES" >
+			<Text>Monte Caradhras</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_CARADHRAS_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de tres casillas. Aparece como Montaña y proporciona +1 [ICON_GOLD] Oro y +2 [ICON_CULTURE] Cultura a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_MOUNT_CARADHRAS_QUOTE" Language="es_ES">
+			<Text>“Esa es la tierra donde trabajaron nuestros padres, hace tiempo, y hemos grabado la imagen de esas montañas en muchas obras de metal y de piedra y en muchas canciones e historias. Se alzan muy altas en nuestros sueños: Baraz, Zirak, Shathûr.”[NEWLINE]– Gimli</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_DOOM_NAME" Language="es_ES" >
+			<Text>Monte del Destino</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_DOOM_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de una casilla. Aparece como Montaña y proporciona +2 [ICON_FAITH] de Fe y +1 [ICON_Production] Producción a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_MOUNT_DOOM_QUOTE" Language="es_ES">
+			<Text>“Hay un solo camino: encontrar las Grietas del Destino, en las profundidades de Orodruin, la Montaña de Fuego, y arrojar allí el Anillo. Esto siempre que quieras destruirlo de veras, e impedir que caiga en manos enemigas.”[NEWLINE]– Gandalf</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_GRAM_NAME" Language="es_ES" >
+			<Text>Monte Gram</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_GRAM_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de dos casillas. Aparece como Montaña y proporciona +2 [ICON_FAITH] de Fe y +1 [ICON_Production] Producción a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_MOUNT_GRAM_QUOTE" Language="es_ES">
+			<Text>“Toro Bramador, tan enorme que hasta podía montar a caballo. En la batalla de los Campos Verdes había cargado contra las filas de trasgos del Monte Gram, y blandiendo una porra de madera le arrancó de cuajo la cabeza al rey Golfimbul. La cabeza salió disparada unas cien yardas por el aire y fue a dar a la madriguera de un conejo, y de esta forma, y a la vez, se ganó la batalla y se inventó el juego de golf.”[NEWLINE]– Gandalf</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_GUNDABAD_NAME" Language="es_ES" >
+			<Text>Monte Gundabad</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MOUNT_GUNDABAD_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de dos casillas. Aparece como Montaña y proporciona +2 [ICON_CULTURE] Cultura y +2 [ICON_Production] Producción a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_MOUNT_GUNDABAD_QUOTE" Language="es_ES">
+			<Text>“Gundabad. Un viejo enemigo, el antiguo reino de Angmar. Esta fortaleza una vez fue su bastión, es donde guardaban su enorme arsenal. Donde forjaban sus armas de guerra. En otra época nuestra pueblo libró una guerra en esas tierras. Mi madre murió allí.”[NEWLINE]– Legolas</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_GLITTERING_CAVES_NAME" Language="es_ES" >
+			<Text>Cavernas Centelleantes</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_GLITTERING_CAVES_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de una casilla. Proporciona +2 [ICON_CULTURE] Cultura y +2 [ICON_Science] Ciencia a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_GLITTERING_CAVES_QUOTE" Language="es_ES">
+			<Text>“Salas inconmensurables, pobladas de la música eterna del agua que tintinea en las lagunas, tan maravillosas como Kheled-zâram a la luz de las estrellas.”[NEWLINE]– Gimli</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_METHEDRAS_NAME" Language="es_ES" >
+			<Text>Methedras</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_METHEDRAS_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de tres casillas. Aparece como Montaña y proporciona +1 [ICON_Science] Ciencia y +2 [ICON_Production] Producción a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_METHEDRAS_QUOTE" Language="es_ES">
+			<Text>En el horizonte, como flotando sobre una nube gris, brillaba la cabeza blanca del majestuoso Methedras, el último pico de las Montañas Nubladas.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_DEAD_MARSHES_NAME" Language="es_ES" >
+			<Text>Ciénaga de los Muertos</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_DEAD_MARSHES_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza infranqueable de una casilla. Aparece como Montaña y proporciona +2 [ICON_Faith] Fe y +1 [ICON_Culture] Cultura a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_DEAD_MARSHES_QUOTE" Language="es_ES">
+			<Text>Era un paisaje triste y monótono. Un invierno frío y húmedo reinaba aún en aquella comarca abandonada. El único verdor era el de la espuma lívida de las algas en la superficie oscura y viscosa del agua sombría. Hierbas muertas y cañas putrefactas asomaban entre las neblinas como las sombras andrajosas de unos estíos olvidados.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_HENNETH_ANNUN_NAME" Language="es_ES" >
+			<Text>Henneth Annûn</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_HENNETH_ANNUN_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza de dos casillas. Proporciona +1 [ICON_CULTURE] Cultura y +3 [ICON_Faith] Fe a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_HENNETH_ANNUN_QUOTE" Language="es_ES">
+			<Text>“Esta es la Ventana del Sol Poniente, Henneth Annûn, la más hermosa de todas las cascadas de Ithilien, tierra de muchos manantiales. Pocos son los extranjeros que la han contemplado. Mas no hay dentro una cámara real digna de tanta belleza. ¡Entrad ahora y ved!”[NEWLINE]– Farimir</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_KHELED_ZARAM_NAME" Language="es_ES" >
+			<Text>Kheled-zâram</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_KHELED_ZARAM_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza de dos casillas. Aparece como Lago y proporciona +2 [ICON_Faith] Fe, +2 [ICON_Food] Alimentos y agua dulce.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_KHELED_ZARAM_QUOTE" Language="es_ES">
+			<Text>“Este pilar señala el sitio donde Durin miró por primera vez en el Lago Espejo. -¡Oh bello y maravilloso Kheled-zâram! Aquí descansa la corona de Durin, hasta que despierte.”[NEWLINE]– Gimli</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_CARROCK_NAME" Language="es_ES" >
+			<Text>Carroca</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_CARROCK_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza de dos casillas. Proporciona +1 [ICON_CULTURE] Cultura y +2 [ICON_FOOD] Alimentos a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_CARROCK_QUOTE" Language="es_ES">
+			<Text>“Conozco a alguien que vive no muy lejos. Ese alguien talló los escalones en la gran roca, la Carroca creo que la llama. No viene a menudo por aquí, desde luego no durante el día, y no vale la pena esperarlo. A decir verdad, sería muy peligroso.”[NEWLINE]– Gandalf</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_NAME" Language="es_ES" >
+			<Text>Senderos de los Muertos</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_DESCRIPTION" Language="es_ES" >
+			<Text>Maravilla de la naturaleza de dos casillas. Proporciona +1 [ICON_CULTURE] Cultura y +2 [ICON_Faith] Fe a las casillas adyacentes.</Text>
+		</Replace>
+		<Replace  Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_QUOTE" Language="es_ES">
+			<Text>“¡Los Senderos de los Muertos! ¿Por qué los nombras? Si en verdad hay tales senderos, la puerta está en el Sagrario; pero ningún hombre viviente podrá franquearla.”[NEWLINE]– Théoden</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

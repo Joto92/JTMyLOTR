@@ -806,7 +806,7 @@
 		</Row>
 		<Row>
 			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
-			<RequirementId>OPPONENT_MELEE_REQUIREMENT</RequirementId>
+			<RequirementId>MYLOTR_OPPONENT_MELEE_REQUIREMENT</RequirementId>
 		</Row>
 		<Row>
 			<RequirementSetId>MYLOTR_OPPONENT_MELEE_CAVALRY_REQUIREMENTS</RequirementSetId>
@@ -901,6 +901,10 @@
 			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
 			<RequirementType>REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES</RequirementType>
 		</Row>
+		<Row>
+			<RequirementId>MYLOTR_OPPONENT_MELEE_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_OPPONENT_UNIT_PROMOTION_CLASS_MATCHES</RequirementType>
+		</Row>
 	</Requirements>
 
 	<RequirementArguments>
@@ -943,6 +947,11 @@
 			<RequirementId>MYLOTR_REQUIRES_PLOT_HAS_SNOW_HILLS</RequirementId>
 			<Name>TerrainType</Name>
 			<Value>TERRAIN_SNOW_HILLS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYLOTR_OPPONENT_MELEE_REQUIREMENT</RequirementId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_MELEE</Value>
 		</Row>
 	</RequirementArguments>
 </GameData>

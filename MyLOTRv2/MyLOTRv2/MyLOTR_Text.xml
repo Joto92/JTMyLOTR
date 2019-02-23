@@ -19,10 +19,10 @@
 		<Row Tag="LOC_DISTRICT_DESERT_HILLS_GOLD" Language="en_US">
 			<Text>+1 [ICON_Gold] Gold for Desert Hills</Text>
 		</Row>
-		<Row Tag="LOC_DISTRICT_DESERT_FOOD" Language="en_US">
+		<Row Tag="LOC_MYLOTR_DISTRICT_DESERT_FOOD" Language="en_US">
 			<Text>+1 [ICON_Food] Food for Desert</Text>
 		</Row>
-		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FOOD" Language="en_US">
+		<Row Tag="LOC_MYLOTR_DISTRICT_DESERT_HILLS_FOOD" Language="en_US">
 			<Text>+1 [ICON_Food] Food for Desert Hills</Text>
 		</Row>
 		<Row Tag="LOC_MYLOTR_DISTRICT_FOREST_SCIENCE" Language="en_US">
@@ -2502,6 +2502,298 @@
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AVARI" Language="en_US">
 			<Text>Avari</Text>
+		</Row>
+		<!-- WONDERS-->
+		<Row Tag="LOC_FEATURE_LONELY_MOUNTAIN_NAME" Language="en_US" >
+			<Text>Lonely Mountain</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LONELY_MOUNTAIN_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_GOLD] Gold to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_LONELY_MOUNTAIN_QUOTE" Language="en_US">
+			<Text>All alone it rose and looked across the marshes to the forest. The Lonely Mountain! Bilbo had come far and through many adventures to see it, and now he did not like the look of it in the least.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FALLS_OF_RAUROS_NAME" Language="en_US" >
+			<Text>Falls of Rauros</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FALLS_OF_RAUROS_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. It appears with Cliffs adjacent to water and provides +2 [ICON_Culture] Culture and +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_FALLS_OF_RAUROS_QUOTE" Language="en_US">
+			<Text>“And Rauros, golden Rauros-falls, bore him upon its breast. 'O Boromir! The Tower of Guard shall ever northward gaze To Rauros, golden Rauros-falls, until the end of days.”[NEWLINE]– Aragorn</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_CARADHRAS_NAME" Language="en_US" >
+			<Text>Mount Caradhras</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_CARADHRAS_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_GOLD] Gold and +2 [ICON_CULTURE] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_CARADHRAS_QUOTE" Language="en_US">
+			<Text>“There is the land where our fathers worked of old, and we have wrought the image of those mountains into many works of metal and of stone, and into many songs and tales. They stand tall in our dreams: Baraz, Zirak, Shathûr.”[NEWLINE]– Gimli</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_DOOM_NAME" Language="en_US" >
+			<Text>Mount Doom</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_DOOM_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_FAITH] Faith and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_DOOM_QUOTE" Language="en_US">
+			<Text>“There is only one way: to find the Cracks of Doom in the depths of Orodruin, the Fire-mountain, and cast the Ring in there, if you really wish to destroy it, to put it beyond the grasp of the Enemy for ever.”[NEWLINE]– Gandalf</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_GRAM_NAME" Language="en_US" >
+			<Text>Mount Gram</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_GRAM_DESCRIPTION" Language="en_US" >
+			<Text>Two tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_FAITH] Faith and +2 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_GRAM_QUOTE" Language="en_US">
+			<Text>“Bullroarer, who was so huge that he could ride a horse. He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul’s head clean off with a wooden club. It sailed a hundred yards through the air and went down a rabbit-hole, and in this way the battle was won and the game of Golf invented at the same moment.”[NEWLINE]– Gandalf</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_GUNDABAD_NAME" Language="en_US" >
+			<Text>Mount Gundabad</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_GUNDABAD_DESCRIPTION" Language="en_US" >
+			<Text>Two tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_CULTURE] Culture and +2 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_GUNDABAD_QUOTE" Language="en_US">
+			<Text>“Gundabad. An old enemy, the ancient kingdom of Angmar. This fortress was once its stronghold, it is where they kept their great armories. Forged their weapons of war. In another age, our people waged war on those lands. My mother died there.”[NEWLINE]– Legolas</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GLITTERING_CAVES_NAME" Language="en_US" >
+			<Text>Glittering Caves</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GLITTERING_CAVES_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture and +2 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_GLITTERING_CAVES_QUOTE" Language="en_US">
+			<Text>“Immeasurable halls, filled with an everlasting music of water that tinkles into pools, as fair as Kheled-zâram in the starlight.”[NEWLINE]– Gimli</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_METHEDRAS_NAME" Language="en_US" >
+			<Text>Methedras</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_METHEDRAS_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Science] Science and +2 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_METHEDRAS_QUOTE" Language="en_US">
+			<Text>Beyond there glimmered far away, as if floating on a grey cloud, the white head of tall Methedras, the last peak of the Misty Mountains.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_MARSHES_NAME" Language="en_US" >
+			<Text>Dead Marshes</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_MARSHES_DESCRIPTION" Language="en_US" >
+			<Text>Four tile natural wonder. It appears as Marsh and provides +2 [ICON_Faith] Faith and +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_DEAD_MARSHES_QUOTE" Language="en_US">
+			<Text>Dreary and wearisome. Cold, clammy winter still held sway in this forsaken country. The only green was the scum of livid weed on the dark greasy surfaces of the sullen waters. Dead grasses and rotting reeds loomed up in the mists like ragged shadows of long forgotten summers.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HENNETH_ANNUN_NAME" Language="en_US" >
+			<Text>Henneth Annûn</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HENNETH_ANNUN_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. Provides +1 [ICON_CULTURE] Culture and +3 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_HENNETH_ANNUN_QUOTE" Language="en_US">
+			<Text>“This is the Window of the Sunset, Henneth Annûn, fairest of all the falls of Ithilien, land of many fountains. Few strangers have ever seen it. But there is no kingly hall behind to match it. Enter now and see!”[NEWLINE]– Farimir</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KHELED_ZARAM_NAME" Language="en_US" >
+			<Text>Kheled-zâram</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KHELED_ZARAM_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_Faith] Faith, +2 [ICON_Food] Food, and Fresh Water.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_KHELED_ZARAM_QUOTE" Language="en_US">
+			<Text>“This pillar marks the spot where Durin first looked in the Mirrormere. O Kheled-zâram fair and wonderful! There lies the Crown of Durin till he wakes.”[NEWLINE]– Gimli</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CARROCK_NAME" Language="en_US" >
+			<Text>Carrock</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CARROCK_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. Provides +1 [ICON_CULTURE] Culture and +2 [ICON_FOOD] Food to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_CARROCK_QUOTE" Language="en_US">
+			<Text>“There is somebody that I know of, who lives not far away. That Somebody made the steps on the great rock—the Carrock I believe he calls it. He does not come here often, certainly not in the daytime, and it is no good waiting for him. In fact it would be very dangerous.”[NEWLINE]– Gandalf</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_NAME" Language="en_US" >
+			<Text>Paths of the Dead</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. Provides +1 [ICON_CULTURE] Culture and +2 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_PATHS_OF_THE_DEAD_QUOTE" Language="en_US">
+			<Text>“The Paths of the Dead! Why do you speak of them? If there be in truth such paths, their gate is in Dunharrow; but no living man may pass it.”[NEWLINE]– Théoden</Text>
+		</Row>
+		<!-- Rivers-->
+		<Row Tag="LOC_NAMED_RIVER_NIMRODEL_NAME" Language="en_US">
+			<Text>Nimrodel River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ENCHANTED_STREAM_NAME" Language="en_US">
+			<Text>Enchanted Stream</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ANDUIN_NAME" Language="en_US">
+			<Text>Anduin River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_FOREST_RIVER_NAME" Language="en_US">
+			<Text>Forest River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CELEBRANT_NAME" Language="en_US">
+			<Text>Celebrant River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GLADDEN_NAME" Language="en_US">
+			<Text>Gladden River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ERUI_NAME" Language="en_US">
+			<Text>Erui River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SIRITH_NAME" Language="en_US">
+			<Text>Sirith River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CELOS_NAME" Language="en_US">
+			<Text>Celos River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SERNUI_NAME" Language="en_US">
+			<Text>Sernui River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GILRAIN_NAME" Language="en_US">
+			<Text>Gilrain River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RINGLO_NAME" Language="en_US">
+			<Text>Ringló River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CIRIL_NAME" Language="en_US">
+			<Text>Ciril River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MORTHOND_NAME" Language="en_US">
+			<Text>Morthond River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LEFNUI_NAME" Language="en_US">
+			<Text>Lefnui River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_POROS_NAME" Language="en_US">
+			<Text>Poros River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HARNEN_NAME" Language="en_US">
+			<Text>Harnen River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MORGULDUIN_NAME" Language="en_US">
+			<Text>Morgulduin River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SNOWBOURN_NAME" Language="en_US">
+			<Text>Snowbourn River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ENTWASH_NAME" Language="en_US">
+			<Text>Entwash River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MERING_STREAM_NAME" Language="en_US">
+			<Text>Mering Stream</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ISEN_NAME" Language="en_US">
+			<Text>Isen River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ADORN_NAME" Language="en_US">
+			<Text>Adorn River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GLANDUIN_NAME" Language="en_US">
+			<Text>Glanduin River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GWATHLO_NAME" Language="en_US">
+			<Text>Gwathló River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SIRANNON_NAME" Language="en_US">
+			<Text>Sirannon River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRUINEN_NAME" Language="en_US">
+			<Text>Bruinen River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MITHEITHEL_NAME" Language="en_US">
+			<Text>Mitheithel River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LHUN_NAME" Language="en_US">
+			<Text>Lhûn River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRANDYWINE_NAME" Language="en_US">
+			<Text>Brandywine River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WITHYWINDLE_NAME" Language="en_US">
+			<Text>Withywindle River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THE_WATER_NAME" Language="en_US">
+			<Text>The Water</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SHIREBOURN_NAME" Language="en_US">
+			<Text>Shirebourn River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GREYLIN_NAME" Language="en_US">
+			<Text>Greylin River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LANGWELL_NAME" Language="en_US">
+			<Text>Langwell River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CELDUIN_NAME" Language="en_US">
+			<Text>Celduin River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_REDWATER_NAME" Language="en_US">
+			<Text>Redwater River</Text>
+		</Row>
+		<!-- Deserts-->
+		<Row Tag="LOC_NAMED_DESERT_PLATEAU_OF_GORGOROTH_NAME" Language="en_US">
+			<Text>Plateau of Gorgoroth</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_LITHLAD_NAME" Language="en_US">
+			<Text>Lithlad</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_DAGORLAD_NAME" Language="en_US">
+			<Text>Dagorlad</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_NEAR_HARAD_NAME" Language="en_US">
+			<Text>Near Harad</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_FAR_HARAD_NAME" Language="en_US">
+			<Text>Far Harad</Text>
+		</Row>
+		<!-- Mountains Ranges-->
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_LITHUI_NAME" Language="en_US">
+			<Text>Ered Lithui</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_EPHEL_DUATH_NAME" Language="en_US">
+			<Text>Ephel Dúath</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAEGOND_SPUR_NAME" Language="en_US">
+			<Text>Maegond Spur</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_MITHRIN_NAME" Language="en_US">
+			<Text>Ered Mithrin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_LUIN_NAME" Language="en_US">
+			<Text>Ered Luin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_IRON_HILLS_NAME" Language="en_US">
+			<Text>Iron Hills</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ERED_ENGRIN_NAME" Language="en_US">
+			<Text>Ered Engrin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MISTY_MOUNTAINS_NAME" Language="en_US">
+			<Text>Misty Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MOUNTAINS_OF_ANGMAR_NAME" Language="en_US">
+			<Text>Mountains of Angmar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MOUNTAINS_OF_MIRKWOOD_NAME" Language="en_US">
+			<Text>Mountains of Mirkwood</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DORWINION_MOUNTAINS_NAME" Language="en_US">
+			<Text>Dorwinion Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OROCARNI_MOUNTAINS_NAME" Language="en_US">
+			<Text>Orocarni Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WHITE_MOUNTAINS_NAME" Language="en_US">
+			<Text>White Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_EMYN_UIAL_NAME" Language="en_US">
+			<Text>Emyn Uial</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NORTH_DOWNS_NAME" Language="en_US">
+			<Text>North Downs</Text>
 		</Row>
 	</LocalizedText>
 </GameData>

@@ -325,6 +325,9 @@
 		<Row Tag="LOC_TRAIT_THE_BLACK_LAND_DESCRIPTION" Language="en_US">
 			<Text>+30% [ICON_Production] Production toward Encampment districts and Barrack for that district. Capture unit enemies as Builders. Desert terrain gives food as Grasslands to other Civilizations.</Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_THE_BLACK_LAND_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>+30% [ICON_Production] Production toward Encampment districts and Barrack for that district. Capture unit enemies as Builders. Desert terrain gives food as Grasslands to other Civilizations. Units do not receive damage from Dust Storms.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_THE_DARK_POWER_NAME" Language="en_US">
 			<Text>The Dark Power</Text>
 		</Row>
@@ -451,6 +454,9 @@
 		<Row Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_DESCRIPTION" Language="en_US">
 			<Text>+25% [ICON_Production] Production toward Ancient and Classical era melee and ranged units.Builders receive an additional charge.</Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_MOUNTAIN_INFESTATION_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>+25% [ICON_Production] Production toward Ancient and Classical era melee and ranged units.Builders receive an additional charge. Units do not receive damage from Blizzards.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_GREAT_GOBLIN_NAME" Language="en_US">
 			<Text>The Great Goblin</Text>
 		</Row>
@@ -522,6 +528,9 @@
 		</Row>
 		<Row Tag="LOC_TRAIT_SERPENT_LORD_DESCRIPTION" Language="en_US">
 			<Text>+5 [ICON_Strength] Combat Strength in Desert and Plains.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SERPENT_LORD_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in Desert and Plains. Units do not receive damage from Dust Storms.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MUMAKIL_NAME" Language="en_US">
 			<Text>Mumakil</Text>
@@ -712,6 +721,9 @@
 		</Row>
 		<Row Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_DESCRIPTION" Language="en_US">
 			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_SHADOW_OFTHE_NORTH_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra. Units do not receive damage from Blizzards. Civilizations that are at war with you receive +100% unit damage from Blizzards in your territory.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LORD_OF_THE_NAZGUL_NAME" Language="en_US">
 			<Text>Lord of the Nazgûl</Text>
