@@ -1741,7 +1741,7 @@
 			<Text>Dol Amroth</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_DESCRIPTION" Language="en_US">
-			<Text>All land unit gain +4[ICON_Strength] Combat Strength when fighting next to the Coast.</Text>
+			<Text>Your units receive double experience from battles they initiate.</Text>
 		</Row>
 		<Row Tag="LOC_DOL_AMROTH_NAME" Language="en_US">
 			<Text>Dol Amroth</Text>

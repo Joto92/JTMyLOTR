@@ -606,7 +606,7 @@
 		</Replace>
 		<!-- Dol Amroth-->
 		<Replace Tag="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_DESCRIPTION" Language="es_ES">
-			<Text>Todas las unidades terrestres ganan +4[ICON_Strength] Fuerza de Combate luchando al lado de la Costa.</Text>
+			<Text>Tus unidades reciben el doble de experiencia por las batallas que inician.</Text>
 		</Replace>
 		<Replace Tag="LOC_DOL_AMROTH_DESCRIPTION" Language="es_ES">
 			<Text>Principado de Dol Amroth</Text>

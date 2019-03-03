@@ -622,14 +622,8 @@
 			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
 		</Row>
 		<Row>
-			<ModifierId>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST</ModifierId>
-			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId>
-			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
-			<OwnerRequirementSetId>REQUIREMENTS_UNIT_LAND_DOMAIN</OwnerRequirementSetId>
-			<SubjectRequirementSetId>REQUIREMENTS_UNIT_ON_COAST</SubjectRequirementSetId>
+			<ModifierId>MINOR_CIV_DOL_AMROTH_UNIT_EXPERIENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_UNIT_ATTACK_EXPERIENCE_MODIFIER</ModifierType>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS</ModifierId>
@@ -1452,17 +1446,12 @@
 		<Row>
 			<ModifierId>MINOR_CIV_DOL_AMROTH_UNIQUE_INFLUENCE_BONUS</ModifierId>
 			<Name>ModifierId</Name>
-			<Value>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST</Value>
+			<Value>MINOR_CIV_DOL_AMROTH_UNIT_EXPERIENCE_BONUS</Value>
 		</Row>
 		<Row>
-			<ModifierId>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST</ModifierId>
-			<Name>ModifierId</Name>
-			<Value>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST_MODIFIER</Value>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId>
+			<ModifierId>MINOR_CIV_DOL_AMROTH_UNIT_EXPERIENCE_BONUS</ModifierId>
 			<Name>Amount</Name>
-			<Value>4</Value>
+			<Value>100</Value>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS</ModifierId>
@@ -2309,10 +2298,6 @@
 			<Value>1</Value>
 		</Row>
 	</ModifierArguments>
-
-	<ModifierStrings>
-		<Row ModifierId="MYLOTR_DOL_AMROTH_COMBAT_BONUS_LAND_ON_COAST_MODIFIER" Context="Preview" Text="LOC_MINOR_CIV_DOL_AMROTH_TRAIT_DESCRIPTION"/>
-	</ModifierStrings>
 	
 	<TypeProperties>
 		<Row Type="CIVILIZATION_BREE" Name="CityStateCategory" Value="INDUSTRIAL"/>
