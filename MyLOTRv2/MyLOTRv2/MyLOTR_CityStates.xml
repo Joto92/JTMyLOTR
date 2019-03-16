@@ -386,7 +386,6 @@
 		<Row TraitType="MINOR_CIV_DALE_TRAIT" ModifierId="MINOR_CIV_DALE_UNIQUE_INFLUENCE_BONUS_FOUR"/>
 		<Row TraitType="MINOR_CIV_DALE_TRAIT" ModifierId="MINOR_CIV_DALE_UNIQUE_INFLUENCE_BONUS_FIVE"/>
 		<Row TraitType="MINOR_CIV_ESGAROTH_TRAIT" ModifierId="MINOR_CIV_ESGAROTH_UNIQUE_INFLUENCE_BONUS"/>
-		<Row TraitType="MINOR_CIV_DORWINION_TRAIT" ModifierId="MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_DORWINION_TRAIT" ModifierId="MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_WINE_BONUS"/>
 		<Row TraitType="MINOR_CIV_HOBBITON_TRAIT" ModifierId="MINOR_CIV_HOBBITON_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_HOBBITON_TRAIT" ModifierId="MINOR_CIV_HOBBITON_UNIQUE_INFLUENCE_TOBACCO_BONUS"/>
@@ -519,20 +518,6 @@
 			<ModifierId>MYLOTR_ESGAROTH_RIVER_GOLD_MODIFIER</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_CHANGE</ModifierType>
 			<SubjectRequirementSetId>MYLOTR_PLOT_HAS_COMMERCIAL_HUB_RIVER_REQUIREMENTS</SubjectRequirementSetId>
-		</Row>
-		<Row>
-			<ModifierId>MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_BONUS</ModifierId>
-			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
-			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DORWINION_FOOD_PLANTATION</ModifierId>
-			<ModifierType>MODIFIER_ALL_CITIES_ATTACH_MODIFIER</ModifierType>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DORWINION_FOOD_PLANTATION_MODIFIER</ModifierId>
-			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
-			<SubjectRequirementSetId>PLOT_HAS_PLANTATION_TAG_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_WINE_BONUS</ModifierId>
@@ -1254,26 +1239,6 @@
 			<Value>1</Value>
 		</Row>
 		<Row>
-			<ModifierId>MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_BONUS</ModifierId>
-			<Name>ModifierId</Name>
-			<Value>MYLOTR_DORWINION_FOOD_PLANTATION</Value>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DORWINION_FOOD_PLANTATION</ModifierId>
-			<Name>ModifierId</Name>
-			<Value>MYLOTR_DORWINION_FOOD_PLANTATION_MODIFIER</Value>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DORWINION_FOOD_PLANTATION_MODIFIER</ModifierId>
-			<Name>YieldType</Name>
-			<Value>YIELD_FOOD</Value>
-		</Row>
-		<Row>
-			<ModifierId>MYLOTR_DORWINION_FOOD_PLANTATION_MODIFIER</ModifierId>
-			<Name>Amount</Name>
-			<Value>1</Value>
-		</Row>
-		<Row>
 			<ModifierId>MINOR_CIV_DORWINION_UNIQUE_INFLUENCE_WINE_BONUS</ModifierId>
 			<Name>ModifierId</Name>
 			<Value>MINOR_CIV_DORWINION_WINE_RESOURCE_BONUS</Value>
@@ -1286,7 +1251,7 @@
 		<Row>
 			<ModifierId>MINOR_CIV_DORWINION_WINE_RESOURCE_BONUS</ModifierId>
 			<Name>Amount</Name>
-			<Value>1</Value>
+			<Value>2</Value>
 		</Row>
 		<Row>
 			<ModifierId>MINOR_CIV_HOBBITON_UNIQUE_INFLUENCE_BONUS</ModifierId>

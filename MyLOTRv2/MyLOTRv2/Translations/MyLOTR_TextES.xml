@@ -512,7 +512,7 @@
 		</Replace>
 		<!-- Dorwinion-->
 		<Replace Tag="LOC_MINOR_CIV_DORWINION_TRAIT_DESCRIPTION" Language="es_ES">
-			<Text>Recibe el recurso de lujo [ICON_RESOURCE_WINE] Vino. +1 [ICON_Food] Alimentos de Plantaciones de [ICON_RESOURCE_WINE] Vino, [ICON_RESOURCE_INCENSE] Incenso, [ICON_RESOURCE_COCOA] Cacao, [ICON_RESOURCE_TOBACCO] Tabaco, [ICON_RESOURCE_COFFEE] Cafe y [ICON_RESOURCE_TEA] Te.</Text>
+			<Text>Recibe dos recursos de lujo [ICON_RESOURCE_WINE] Vino.</Text>
 		</Replace>
 		<Replace Tag="LOC_DORWINION_DESCRIPTION" Language="es_ES">
 			<Text>Ciudad Estado de Dorwinion</Text>
