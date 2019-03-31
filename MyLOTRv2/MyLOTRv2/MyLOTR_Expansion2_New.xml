@@ -484,4 +484,10 @@
 		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="35" ReplaceFeature="true"/>
 		<Row RandomEventType="RANDOM_EVENT_MOUNT_DOOM_CATASTROPHIC" YieldType="YIELD_SCIENCE" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="15" ReplaceFeature="true"/>
 	</RandomEvent_Yields>
+
+	<Improvement_ValidFeatures>
+		<Row ImprovementType="IMPROVEMENT_SLAUGHTERHOUSE" FeatureType="FEATURE_VOLCANIC_SOIL"/>
+		<Row ImprovementType="IMPROVEMENT_TUNNEL" FeatureType="FEATURE_VOLCANIC_SOIL"/>
+		<Row ImprovementType="IMPROVEMENT_HARADRIM_PYRAMID" FeatureType="FEATURE_VOLCANIC_SOIL"/>
+	</Improvement_ValidFeatures>
 </GameData>

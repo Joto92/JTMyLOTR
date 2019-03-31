@@ -397,7 +397,7 @@
 		<Row TraitType="MINOR_CIV_FOROCHEL_TRAIT" ModifierId="MINOR_CIV_FOROCHEL_UNIQUE_INFLUENCE_BONUS_TWO"/>
 		<Row TraitType="MINOR_CIV_DOL_AMROTH_TRAIT" ModifierId="MINOR_CIV_DOL_AMROTH_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_NURN_TRAIT" ModifierId="MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS"/>
-		<Row TraitType="MINOR_CIV_NURN_TRAIT" ModifierId="MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS_TWO"/>
+		<!--<Row TraitType="MINOR_CIV_NURN_TRAIT" ModifierId="MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS_TWO"/>-->
 		<Row TraitType="MINOR_CIV_DUNLAND_TRAIT" ModifierId="MINOR_CIV_DUNLAND_UNIQUE_INFLUENCE_BONUS"/>
 		<Row TraitType="MINOR_CIV_DUNLAND_TRAIT" ModifierId="MINOR_CIV_DUNLAND_UNIQUE_INFLUENCE_BONUS_TWO"/>
 		<Row TraitType="MINOR_CIV_DUNLAND_TRAIT" ModifierId="MINOR_CIV_DUNLAND_UNIQUE_INFLUENCE_BONUS_THREE"/>
@@ -619,6 +619,7 @@
 			<ModifierId>NURN_BUILDERPRODUCTION</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_UNIT_PRODUCTION</ModifierType>
 		</Row>
+		<!--
 		<Row>
 			<ModifierId>MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS_TWO</ModifierId>
 			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
@@ -633,7 +634,7 @@
 			<ModifierType>MODIFIER_SINGLE_CITY_BUILDER_CHARGES</ModifierType>
 			<SubjectRequirementSetId>UNIT_IS_BUILDER</SubjectRequirementSetId>
 			<Permanent>true</Permanent>
-		</Row>
+		</Row>-->
 		<Row>
 			<ModifierId>MINOR_CIV_DUNLAND_UNIQUE_INFLUENCE_BONUS</ModifierId>
 			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
@@ -1433,6 +1434,7 @@
 			<Name>Amount</Name>
 			<Value>30</Value>
 		</Row>
+		<!--
 		<Row>
 			<ModifierId>MINOR_CIV_NURN_UNIQUE_INFLUENCE_BONUS_TWO</ModifierId>
 			<Name>ModifierId</Name>
@@ -1448,6 +1450,7 @@
 			<Name>Amount</Name>
 			<Value>1</Value>
 		</Row>
+		-->
 		<!-- Dunland-->
 		<Row>
 			<ModifierId>MINOR_CIV_DUNLAND_UNIQUE_INFLUENCE_BONUS</ModifierId>
