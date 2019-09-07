@@ -105,6 +105,9 @@
 		<Replace Tag="LOC_BUILDING_MEARAS_STABLE_DESCRIPTION" Language="es_ES">
 			<Text>+40% de experiencia de combate para todas las unidades de Caballería entrenadas en esta ciudad. No se puede construir en un distrito de Campamento que ya tenga Cuartel. 1 de Producción [Icon_Production] y 2 Puntos para Grandes Generales.</Text>
 		</Replace>
+		<Replace Tag="LOC_BUILDING_MEARAS_STABLE_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>+40% de experiencia de combate para todas las unidades de Caballería entrenadas en esta ciudad. 1 de Producción [Icon_Production] y 2 Puntos para Grandes Generales. [NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Cuartel.</Text>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_AGENDA_ROHAN_WILL_ANSWER_NAME" Language="es_ES">
 			<Text>Rohan Responderá</Text>
 		</Replace>
@@ -608,6 +611,9 @@
 		<Replace Tag="LOC_BUILDING_HARADRIM_PALACE_DESCRIPTION" Language="es_ES">
 			<Text> +40% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 de Oro [ICON_Gold] Gold, 1 de Alimentos [ICON_Food], 2 Puntos para Grandes Generales y 1 de Alojamiento.</Text>
 		</Replace>
+		<Replace Tag="LOC_BUILDING_HARADRIM_PALACE_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text> +40% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad. Da 2 de Producción [ICON_Production], 2 de Oro [ICON_Gold] Gold, 1 de Alimentos [ICON_Food], 2 Puntos para Grandes Generales y 1 de Alojamiento. [NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
+		</Replace>
 		<!-- END OF  HARAD | SULADAN -->
 		<!-- UMBAR | ANGAMAITE -->
 		<Replace Tag="LOC_CIVILIZATION_UMBAR_NAME" Language="es_ES">
@@ -867,6 +873,9 @@
 		</Replace>
 		<Replace Tag="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" Language="es_ES">
 			<Text>Edificio único de Arnor y Gondor que mejora las Murallas Medievales. </Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUMENOREAN_WALLS_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Edificio único de Arnor y Gondor que mejora las Murallas Medievales. Esta ciudad no se ve afectada por los Arietes.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Language="es_ES">
 			<Text>Torre de los Númenorean</Text>
@@ -1136,6 +1145,9 @@
 		<Replace Tag="LOC_BUILDING_DWARVEN_DOORS_DESCRIPTION" Language="es_ES">
 			<Text>Un edificio único de los Enanos que remplaza las murallas medievales. Sube la fuerza de las defensas de la ciudad. Da +1 [ICON_Gold] Oro y +1[ICON_Culture] Cultura.</Text>
 		</Replace>
+		<Replace Tag="LOC_BUILDING_DWARVEN_DOORS_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Un edificio único de los Enanos que remplaza las murallas medievales. Sube la fuerza de las defensas de la ciudad. Da +1 [ICON_Gold] Oro y +1[ICON_Culture] Cultura. Esta ciudad no se ve afectada por los Arietes.</Text>
+		</Replace>
 		<Replace Tag="LOC_BUILDING_DWARVEN_HALLS_NAME" Language="es_ES">
 			<Text>Cavernas de los Enanos</Text>
 		</Replace>
@@ -1147,6 +1159,9 @@
 		</Replace>
 		<Replace Tag="LOC_BUILDING_ORC_PIT_DESCRIPTION" Language="es_ES">
 			<Text>Edició militar único de los orcos. +1 Alojamiento,  +2 [ICON_Production] Producción. +35% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad.[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ORC_PIT_EXPANSION2_DESCRIPTION" Language="es_ES">
+			<Text>Edició militar único de los orcos. +1 Alojamiento,  +2 [ICON_Production] Producción. +35% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo y a distancia entrenadas en esta ciudad.[NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_ELVEN_TOWER_NAME" Language="es_ES">
 			<Text>Torre Elfica</Text>

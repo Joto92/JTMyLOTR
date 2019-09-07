@@ -33,6 +33,10 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
           <Criteria>Expansion2</Criteria>
           <File>MyLOTR_Expansion2_New.xml</File>
         </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion1">
+          <Criteria>Expansion1</Criteria>
+          <File>MyLOTR_Expansion1_New.xml</File>
+        </UpdateDatabase>
         <UpdateText id="Text">
           <File>MyLOTR_ConfigText.xml</File>
           <File>MyLOTR_Text.xml</File>
@@ -48,10 +52,6 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
         </UpdateIcons>
         <UpdateArt id="Art">
           <File>JT_ Lord of the Rings Mod.dep</File>
-        </UpdateArt>
-        <UpdateArt id="Art2">
-          <Criteria>Expansion2</Criteria>
-          <File>JT_ Lord of the Rings ModE2.dep</File>
         </UpdateArt>
       </InGameActions>
     ]]></InGameActionData>
@@ -73,6 +73,7 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
         <UpdateArt id="ConfigArt2">
           <File>JT_ Lord of the Rings ModE2.dep</File>
         </UpdateArt>
+        <AddMap id="AddMapLOTRv2"><Properties><Group>StandardMaps</Group><Name>LOTR Third Age Map v2</Name><Description>LOTR Third Age Map.</Description></Properties><File>Maps/LOTRv2.Civ6Map</File></AddMap>
       </FrontEndActions>
     ]]></FrontEndActionData>
     <AssemblyName>MyLOTRv2</AssemblyName>
@@ -83,8 +84,12 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
         <Criteria id="Expansion2">
           <GameCoreInUse>Expansion2</GameCoreInUse>
         </Criteria>
+        <Criteria id="Expansion1">
+          <GameCoreInUse>Expansion1</GameCoreInUse>
+        </Criteria>
       </ActionCriteria>
     ]]></ActionCriteriaData>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -97,6 +102,12 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
       <SubType>Content</SubType>
     </Content>
     <Content Include="Artdefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Maps\LOTRv2.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Maps\ScenarioWarRing.Civ6Map">
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyLOTR_Agendas.xml">
@@ -115,6 +126,9 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyLOTR_Expansion2_New.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Expansion1_New.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyLOTR_Improvements.xml">
@@ -151,6 +165,7 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
       <SubType>Content</SubType>
     </Content>
     <Folder Include="Artdefs\" />
+    <Folder Include="Maps" />
     <Folder Include="Translations" />
     <Folder Include="Textures\" />
     <Folder Include="XLPs\" />
@@ -162,7 +177,6 @@ Play with Aragorn, Theoden, Thranduil, Galadriel, Dain, Sauron, Saruman, Gorkil,
     <Content Include="MyLOTR_Buildings.xml" />
     <Content Include="MyLOTR_Text.xml" />
     <None Include="Mod.Art.xml" />
-    <None Include="ModE2.Art.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>

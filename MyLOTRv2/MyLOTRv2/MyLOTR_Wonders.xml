@@ -154,6 +154,8 @@ Paths,Carrock doesn't show as it should
 	</Feature_AdjacentTerrains>
 
 	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_DOOM" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
 		<Row FeatureType="FEATURE_LONELY_MOUNTAIN" YieldType="YIELD_GOLD" YieldChange="2"/>
 		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" YieldType="YIELD_CULTURE" YieldChange="2"/>
 		<Row FeatureType="FEATURE_FALLS_OF_RAUROS" YieldType="YIELD_FOOD" YieldChange="1"/>

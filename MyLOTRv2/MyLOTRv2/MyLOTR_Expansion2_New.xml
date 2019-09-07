@@ -134,6 +134,56 @@
 		<Row ImprovementType="IMPROVEMENT_MYLOTR_TUNNEL" YieldType="YIELD_GOLD" YieldChange="1"/>
 	</Improvement_YieldChanges>
 
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_MEARAS_STABLE</BuildingType>
+			<ModifierId>STABLE_ADJUST_RESOURCE_STOCKPILE_CAP</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HARADRIM_PALACE</BuildingType>
+			<ModifierId>BARRACKS_ADJUST_RESOURCE_STOCKPILE_CAP</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORC_PIT</BuildingType>
+			<ModifierId>BARRACKS_ADJUST_RESOURCE_STOCKPILE_CAP</ModifierId>
+		</Row>
+		<Row BuildingType="BUILDING_NUMENOREAN_WALLS" ModifierId="CASTLE_PREVENT_MELEE_ATTACK_OUTER_DEFENSES"/>
+		<Row BuildingType="BUILDING_DWARVEN_DOORS" ModifierId="CASTLE_PREVENT_MELEE_ATTACK_OUTER_DEFENSES"/>
+
+	</BuildingModifiers>
+
+	<Buildings>
+		<Update>
+			<Where BuildingType="BUILDING_STABLE"/>
+			<Set>
+				<Description>LOC_BUILDING_MEARAS_STABLE_EXPANSION2_DESCRIPTION</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where BuildingType="BUILDING_HARADRIM_PALACE"/>
+			<Set>
+				<Description>LOC_BUILDING_HARADRIM_PALACE_EXPANSION2_DESCRIPTION</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where BuildingType="BUILDING_ORC_PIT"/>
+			<Set>
+				<Description>LOC_BUILDING_ORC_PIT_EXPANSION2_DESCRIPTION</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where BuildingType="BUILDING_NUMENOREAN_WALLS"/>
+			<Set>
+				<Description>LOC_BUILDING_NUMENOREAN_WALLS_EXPANSION2_DESCRIPTION</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where BuildingType="BUILDING_DWARVEN_DOORS"/>
+			<Set>
+				<Description>LOC_BUILDING_DWARVEN_DOORS_EXPANSION2_DESCRIPTION</Description>
+			</Set>
+		</Update>
+	</Buildings>
 	<CivilizationTraits>
 		<Delete CivilizationType="CIVILIZATION_LOTR_GOBLIN" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_TUNNEL"/>
 		<Row CivilizationType="CIVILIZATION_LOTR_GOBLIN" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MYLOTR_TUNNEL"/>
@@ -200,6 +250,25 @@
 		<Row Type="NAMED_MOUNTAIN_WHITE_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
 		<Row Type="NAMED_MOUNTAIN_EMYN_UIAL" Kind="KIND_NAMED_MOUNTAIN"/>
 		<Row Type="NAMED_MOUNTAIN_NORTH_DOWNS" Kind="KIND_NAMED_MOUNTAIN"/>
+
+		<Row Type="NAMED_LAKE_BYWATER_POOL" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_LAKE_FORBIDDEN_POOL" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_LAKE_GOLLUMS" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_LAKE_EVENDIM" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_LONG_LAKE_LTRO" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_NEN_HITHOEL" Kind="KIND_NAMED_LAKE"/>
+
+		<Row Type="NAMED_SEA_OF_NURNEN" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_OF_RHUN" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_BAY_BELFALAS" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_COBAS_HAVEN" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_BAY_FOROCHEL" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_GULF_LUNE" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_HAVENS_UMBAR" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_BAY_SQUIDS" Kind="KIND_NAMED_SEA"/>
+
+		<Row Type="NAMED_OCEAN_BELEGAER" Kind="KIND_NAMED_OCEAN"/>
+
 	</Types>
 	<NamedRivers>
 		<Row NamedRiverType="NAMED_RIVER_NIMRODEL" Name="LOC_NAMED_RIVER_NIMRODEL_NAME"/>
@@ -341,6 +410,60 @@
 		<Row NamedMountainType="NAMED_MOUNTAIN_EMYN_UIAL" CivilizationType="CIVILIZATION_ARNOR"/>
 		<Row NamedMountainType="NAMED_MOUNTAIN_NORTH_DOWNS" CivilizationType="CIVILIZATION_ARNOR"/>
 	</NamedMountainCivilizations>
+	<NamedLakes>
+		<Row NamedLakeType="NAMED_LAKE_BYWATER_POOL" Name="LOC_NAMED_LAKE_BYWATER_POOL_NAME"/>
+		<Row NamedLakeType="NAMED_LAKE_FORBIDDEN_POOL" Name="LOC_NAMED_LAKE_FORBIDDEN_POOL_NAME"/>
+		<Row NamedLakeType="NAMED_LAKE_GOLLUMS" Name="LOC_NAMED_LAKE_GOLLUMS_NAME"/>
+		<Row NamedLakeType="NAMED_LAKE_EVENDIM" Name="LOC_NAMED_LAKE_EVENDIM_NAME"/>
+		<Row NamedLakeType="NAMED_LONG_LAKE_LTRO" Name="LOC_NAMED_LONG_LAKE_LTRO_NAME"/>
+		<Row NamedLakeType="NAMED_NEN_HITHOEL" Name="LOC_NAMED_NEN_HITHOEL_NAME"/>
+
+	</NamedLakes>
+	<NamedLakeCivilizations>
+		<Row NamedLakeType="NAMED_LAKE_EVENDIM" CivilizationType="CIVILIZATION_ARNOR"/>
+		<Row NamedLakeType="NAMED_LAKE_BYWATER_POOL" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedLakeType="NAMED_LAKE_FORBIDDEN_POOL" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedLakeType="NAMED_LAKE_FORBIDDEN_POOL" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedLakeType="NAMED_LAKE_GOLLUMS" CivilizationType="CIVILIZATION_LOTR_GOBLIN"/>
+		<Row NamedLakeType="NAMED_LAKE_EVENDIM" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedLakeType="NAMED_LAKE_BYWATER_POOL" CivilizationType="CIVILIZATION_ARNOR"/>
+		<Row NamedLakeType="NAMED_LONG_LAKE_LTRO" CivilizationType="CIVILIZATION_LOTR_DWARVES"/>
+		<Row NamedLakeType="NAMED_LONG_LAKE_LTRO" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedLakeType="NAMED_NEN_HITHOEL" CivilizationType="CIVILIZATION_SILVAN_ELVES"/>
+		<Row NamedLakeType="NAMED_NEN_HITHOEL" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedLakeType="NAMED_NEN_HITHOEL" CivilizationType="CIVILIZATION_ROHAN"/>
+	</NamedLakeCivilizations>
+	<NamedSeas>
+		<Row NamedSeaType="NAMED_SEA_OF_NURNEN" Name="LOC_NAMED_SEA_OF_NURNEN_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_OF_RHUN" Name="LOC_NAMED_SEA_OF_RHUN_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_BELFALAS" Name="LOC_NAMED_SEA_BAY_BELFALAS_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_COBAS_HAVEN" Name="LOC_NAMED_SEA_COBAS_HAVEN_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_FOROCHEL" Name="LOC_NAMED_SEA_BAY_FOROCHEL_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_GULF_LUNE" Name="LOC_NAMED_SEA_GULF_LUNE_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_HAVENS_UMBAR" Name="LOC_NAMED_SEA_HAVENS_UMBAR_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_SQUIDS" Name="LOC_NAMED_SEA_BAY_SQUIDS_NAME"/>
+	</NamedSeas>
+	<NamedSeaCivilizations>
+		<Row NamedSeaType="NAMED_SEA_OF_NURNEN" CivilizationType="CIVILIZATION_MORDOR"/>
+		<Row NamedSeaType="NAMED_SEA_OF_RHUN" CivilizationType="CIVILIZATION_RHUN"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_BELFALAS" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedSeaType="NAMED_SEA_COBAS_HAVEN" CivilizationType="CIVILIZATION_GONDOR"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_FOROCHEL" CivilizationType="CIVILIZATION_ANGMAR"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_FOROCHEL" CivilizationType="CIVILIZATION_ARNOR"/>
+		<Row NamedSeaType="NAMED_SEA_GULF_LUNE" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_FOROCHEL" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedSeaType="NAMED_SEA_HAVENS_UMBAR" CivilizationType="CIVILIZATION_UMBAR"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_SQUIDS" CivilizationType="CIVILIZATION_UMBAR"/>
+		<Row NamedSeaType="NAMED_SEA_BAY_SQUIDS" CivilizationType="CIVILIZATION_HARAD"/>
+	</NamedSeaCivilizations>
+	<NamedOceans>
+		<Row NamedOceanType="NAMED_OCEAN_BELEGAER" Name="LOC_NAMED_OCEAN_BELEGAER_NAME"/>
+	</NamedOceans>
+	<NamedOceanCivilizations>
+		<Row NamedOceanType="NAMED_OCEAN_BELEGAER" CivilizationType="CIVILIZATION_ELDAR_ELVES"/>
+		<Row NamedOceanType="NAMED_OCEAN_BELEGAER" CivilizationType="CIVILIZATION_UMBAR"/>
+		<Row NamedOceanType="NAMED_OCEAN_BELEGAER" CivilizationType="CIVILIZATION_GONDOR"/>
+	</NamedOceanCivilizations>
 
 	<Traits>
 		<Update>
@@ -413,6 +536,14 @@
 			<ModifierId>TRAIT_MYLOTR_PREVENTION_DUST_STORM_HABOOB</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
 		</Row>
+		<Update>
+			<Where>
+				<ModifierId>MYLOTR_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			</Where>
+			<Set>
+				<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_UNIT_CAPTURE</ModifierType>
+			</Set>
+		</Update>
 	</Modifiers>
 
 	<ModifierArguments>

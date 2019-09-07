@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Modifiers>
+		<Update>
+			<Where>
+				<ModifierId>MYLOTR_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			</Where>
+			<Set>
+				<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_UNIT_CAPTURE</ModifierType>
+			</Set>
+		</Update>
+	</Modifiers>
+</GameData>

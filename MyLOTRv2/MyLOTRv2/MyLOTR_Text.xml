@@ -2795,5 +2795,51 @@
 		<Row Tag="LOC_NAMED_MOUNTAIN_NORTH_DOWNS_NAME" Language="en_US">
 			<Text>North Downs</Text>
 		</Row>
+		<!-- Lakes-->
+		<Row Tag="LOC_NAMED_LAKE_BYWATER_POOL_NAME" Language="en_US">
+			<Text>Bywater Pool</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FORBIDDEN_POOL_NAME" Language="en_US">
+			<Text>Forbidden Pool</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GOLLUMS_NAME" Language="en_US">
+			<Text>Gollum's Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_EVENDIM_NAME" Language="en_US">
+			<Text>Lake Evendim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LONG_LAKE_LTRO_NAME" Language="en_US">
+			<Text>The Long Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_NEN_HITHOEL_NAME" Language="en_US">
+			<Text>Nen Hithoel</Text>
+		</Row>
+		<!-- Seas-->
+		<Row Tag="LOC_NAMED_SEA_OF_NURNEN_NAME" Language="en_US">
+			<Text>Sea of Núrnen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_OF_RHUN_NAME" Language="en_US">
+			<Text>Sea of Rhûn</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_BELFALAS_NAME" Language="en_US">
+			<Text>Bay of Belfalas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_COBAS_HAVEN_NAME" Language="en_US">
+			<Text>Cobas Haven</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_FOROCHEL_NAME" Language="en_US">
+			<Text>Bay of Forochel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HAVENS_UMBAR_NAME" Language="en_US">
+			<Text>Havens of Umbar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_SQUIDS_NAME" Language="en_US">
+			<Text>Bay of Squids</Text>
+		</Row>
+		<!-- Oceans-->
+		<Row Tag="LOC_NAMED_OCEAN_BELEGAER_NAME" Language="en_US">
+			<Text>Belegaer</Text>
+		</Row>
+
 	</LocalizedText>
 </GameData>

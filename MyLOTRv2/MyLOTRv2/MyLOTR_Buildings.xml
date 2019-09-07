@@ -63,11 +63,11 @@
 	<Building_YieldChanges>
 		<Row BuildingType="BUILDING_HEROIC_STATUE" YieldType="YIELD_CULTURE" YieldChange="3"/>
 		<Row BuildingType="BUILDING_MEARAS_STABLE" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
-		<Row BuildingType="BUILDING_EREGION_FORGE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_EREGION_FORGE" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
 		<Row BuildingType="BUILDING_EREGION_FORGE" YieldType="YIELD_CULTURE" YieldChange="2"/>
 		<Row BuildingType="BUILDING_MALLORN_TREE" YieldType="YIELD_FAITH" YieldChange="2"/>
 		<Row BuildingType="BUILDING_MALLORN_TREE" YieldType="YIELD_CULTURE" YieldChange="2"/>
-		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
 		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_GOLD" YieldChange="2"/>
 		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" YieldType="YIELD_CULTURE" YieldChange="1"/>
 		<Row BuildingType="BUILDING_HARADRIM_PALACE" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
@@ -94,6 +94,7 @@
 		<Row BuildingType="BUILDING_MEARAS_STABLE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="2"/>
 		<Row BuildingType="BUILDING_EREGION_FORGE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
 		<Row BuildingType="BUILDING_MALLORN_TREE" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_MALLORN_TREE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
 		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
 		<Row BuildingType="BUILDING_DWARVEN_EXCAVATION" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
 		<Row BuildingType="BUILDING_HARADRIM_PALACE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
@@ -224,5 +225,7 @@
 		<Row Unit="UNIT_INQUISITOR" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
 		<Row Unit="UNIT_WARRIOR_MONK" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
 		<Row Unit="UNIT_GURU" PrereqBuilding="BUILDING_TEMPLE_OF_TWILIGHT"/>
+		<Row Unit="UNIT_MISSIONARY" PrereqBuilding="BUILDING_MALLORN_TREE"/>
+
 	</Unit_BuildingPrereqs>
 </GameData>
